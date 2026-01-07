@@ -1,0 +1,15 @@
+﻿Key,Content,Word Count,Context,Original
+T_LOAD_GAME,Load Game,9,UILoginNew.prefab,加载游戏
+T_CONTINUE,Continue,8,UILoginNew.prefab,继续
+T_NEW_GAME,New Game,8,UILoginNew.prefab,新游戏
+T_DEBUG,debug,5,UILoginNew.prefab,调试
+T_DREAM_UP_YOUR,"""DREAM UP YOUR CHARACTERS, WEAPONS, AND ARENAS IN OUR AI-POWERED SHOOTER",72,UILoginNew.prefab,在我们的AI驱动射击游戏中构思你的角色、武器和竞技场
+T_OPENSAVE,OpenSave,8,UILoginNew.prefab,打开保存
+T_DEBUG_1,debug,5,UILoginNew.prefab,调试
+T_USER_ID,'User ID: ',11,UILoginNew.prefab,用户ID
+T_DELETE_ALL,Delete All,10,UILoginNew.prefab,全部删除
+T_DEBUG_2,debug,5,UILoginNew.prefab,调试
+T_QUIT,Quit,4,UILoginNew.prefab,退出
+T_AAAA,AAAA,4,UILoginNew.prefab,AAAA
+T_AAAA_1,AAAA,4,UILoginNew.prefab,AAAA
+T_AI_NATIVE_CREATIVE,AI-NATIVE CREATIVE SHOOTER EXPERIENCE,37,UILoginNew.prefab,AI原生创意射击体验

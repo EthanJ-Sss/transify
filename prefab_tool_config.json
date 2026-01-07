@@ -1,0 +1,14 @@
+{
+    "scan_dir": "D:\\DD\\DayDream\\Branches\\SBT\\Client\\Assets\\Resources\\UI",
+    "export_dir": "E:\\Demo\\transify\\TextExport",
+    "loc_guid": "38e26ec42db775e4faeb63f8c5858bec",
+    "p4_enabled": false,
+    "transify_url": "https://transify.garena.com",
+    "transify_resource_id": "4209",
+    "transify_cookie": "ajs_user_id=66179115134482478edbb9d1233d951c9baed10d; ajs_anonymous_id=2b3704b5-260d-48d8-81b4-92b88a7f7ad2; datadome=NnpB~ikLvIcMO9RoTgSO598z4~OLoasMYnVOT8VMZASJFZbroljkI_mJ4vOWCiLaV45bqoiiNUsT7kXVDwa1KMm4gNOcqFYXtfCarN_W0GZZFnwGcFQP6AuQJgcRI_7i; csrftoken=fKkhuEIHuHrQISUEGWRR0uzmOuYCoRGwT0f0r4eBMLaol11oz9G8hu49oRuRGNIy; sessionid=6dnk6tkabz2xknkme6hq044nr6x2wqcc",
+    "loc_index_file": "E:\\Demo\\transify\\LocIndex.csv",
+    "gpt_api_url": "https://llm-gateway.staging.id.gametech.garenanow.com/v1",
+    "gpt_api_key": "sk-3-1qq3u2ZCNT6BGRQiAmlw",
+    "gpt_model": "gpt-4o",
+    "use_gpt_translation": true
+}

@@ -1,0 +1,1129 @@
+﻿Key,English
+Account_DirtyName,Name contains inappropriate language
+Account_Invalid_Reward_Line,"If you encounter any issues, please join our Discord server to provide feedback"
+Account_Reward_Line_Had_Rewarded,"If you encounter any issues, please join our Discord server to provide feedback"
+Account_Reward_Line_Not_Finished,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Arena_Empty_BluePrints,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Arena_Empty_GameContext,Error_Arena_Empty
+AI_Arena_Not_Exist,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Char_Empty_BluePrints,Sorry! We are unable to generate a character with your prompt; ticket will be returned
+AI_Char_Empty_GameContext,Error_Character_Empty
+AI_CHARACTER_NOT_EXIST,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Character_Slot_Already_Exist,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Create_Invalid_Price,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Ethical_Or_Profanity,"The input contains sensitive words, please try another one!"
+AI_Invalid_AI_Item,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Invalid_Arena_Loot_Slot_ID,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Invalid_Desc,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Invalid_Match,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}"
+AI_Invalid_Price,"Price has changed, please quit and enter this page again"
+AI_Invalid_Request,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Invalid_Weapon_Loot_Slot_ID,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_IS_CREATING,Slot is in crafting queue
+AI_Map_Slot_Already_Exist,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_NotEnough_Character_CreateCnt,Error! Not enough character creation opportunity
+AI_NotEnough_Character_Slot,Error! Not enough character slot
+AI_NotEnough_Map_CreateCnt,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_NotEnough_Map_Slot,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_NotEnough_Weapon_CreateCnt,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_NotEnough_Weapon_Slot,Error! Not enough weapon creation slot
+AI_SLOT_NOT_Exist,Error! AI creation slot does not exist
+AI_SLOT_NOT_VALID,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Unknown_Error,"Sorry Dreamer! AI doesn't understand your input yet, try something different!"
+AI_Weapon_Empty_BluePrints,Sorry! We are unable to generate a weapon with your prompt; ticket will be returned
+AI_Weapon_Empty_GameContext,Error_Weapon_Empty
+AI_Weapon_Not_Exist,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Weapon_Slot_Already_Exist,"If you encounter any issues, please join our Discord server to provide feedback"
+AI_Wish_Not_Clear,Sorry! We are unable to generate with your prompt; ticket will be returned
+ErrCode_ALREADYINGROUP,Already in squad
+ErrCode_ALREADYINMATCHMAKING,"If you encounter any issues, please join our Discord server to provide feedback.2"
+ErrCode_ALREADYINVITED,Already invited
+ErrCode_AUTOGROUPTIMEOUT,Auto team-up timed out
+ErrCode_CANNOTINVITEOTHERREGION,Unable to invite Dreamers from other regions
+ErrCode_CANNOTINVITESELF,Unable to invite yourself
+ErrCode_CANNOTKICKSELF,Unable to kick yourself out
+ErrCode_Common,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}"
+ErrCode_CREATCHAR_FAIL,"If you encounter any issues, please join our Discord server to provide feedback."
+ErrCode_CREATEGROUPFAIL,Fail to start squad
+ErrCode_CREATEPLAYERFAIL,Failed to create character
+ErrCode_DIFFERENTGROUPS,Different squad
+ErrCode_GROUPEXISTED,Squad already exists
+ErrCode_GROUPINGAME,Unable to matchmake as squad member still in game
+ErrCode_GROUPNOTIDLEFORBIDCHANGEMODE,Unable to switch mode as squad member still in game
+ErrCode_GROUPNOTINGAME,Squad not in game
+ErrCode_INVALIDGROUPMODE,Squad mode invalid
+ErrCode_INVITEEALREADYINGAME,Invitee currently in a game
+ErrCode_INVITEEALREADYINGROUP,Invitee already in squad
+ErrCode_INVITEEALREADYOFFLINE,Invitee is offline
+ErrCode_JOINERALREADYINGROUP,Joined Dreamer already in squad
+ErrCode_LOGINGAMESERVERTIMEOUT,"If you encounter any issues, please join our Discord server to provide feedback.5"
+ErrCode_MATCHMAKING_FAIL,Matchmaking failed
+ErrCode_MMTIMEOUT,"If you encounter any issues, please join our Discord server to provide feedback."
+ErrCode_NETWORKISSUE,Network Error!
+ErrCode_NOGAMESERVERAVAILABLE,"If you encounter any issues, please join our Discord server to provide feedback.4"
+ErrCode_NOGROUP,No squad
+ErrCode_NOSUCHPOOL,No such pool
+ErrCode_NOTGROUPCAPTAIN,Not squad captain
+ErrCode_NOTINGROUP,Not in squad
+ErrCode_REACHMAXINVITEE,Invitation limit reached
+ErrCode_REACHMAXMEMBER,Squad member limit reached
+FRIEND_ALREADY_INPUT_INVITER,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_ALREADY_SENT_REQUEST,Friend request sent
+FRIEND_BLOCK_MAX_COUNT,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_CAN_NOT_INVITE_SELF,Unable to invite yourself
+FRIEND_DUPLICATE,Friends cannot be added repeatedly
+FRIEND_FRIEND_INVALID_CONFIG,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_INVALID_ACCOUNT,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_LEVEL_NOT_ENOUGH,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_MAX_COUNT,Max no. of friends reached
+FRIEND_MAX_COUNT_OTHERS,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_MAX_REQUEST,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_NO_ENOUGH_ITEM,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_NO_REQUEST,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_NOT_FOUND,Friend not found
+FRIEND_NOT_IN_SAME_REGION,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_NOT_RETURN_PLAYER,"If you encounter any issues, please join our Discord server to provide feedback"
+FRIEND_NOT_SAME_REGION,Error! Friend not in same region
+FRIEND_SELF,"If you encounter any issues, please join our Discord server to provide feedback"
+INVENTORY_CHARACTER_NOT_EXISTS,"If you encounter any issues, please join our Discord server to provide feedback.1"
+INVENTORY_INVALID_ITEM,"If you encounter any issues, please join our Discord server to provide feedback"
+INVENTORY_INVALID_PARAMS,"If you encounter any issues, please join our Discord server to provide feedback"
+INVENTORY_ITEM_ALREADY_EXPIRED,"If you encounter any issues, please join our Discord server to provide feedback"
+INVENTORY_NEGATIVE_GEMS,Error! Negative Gem
+INVENTORY_NOT_ENOUGH_COINS,Insufficient coins
+INVENTORY_NOT_ENOUGH_GEMS,"If you encounter any issues, please join our Discord server to provide feedback"
+INVENTORY_NOT_ENOUGH_ITEMS,Insufficient items
+INVENTORY_PURCHASE_FAIL,"If you encounter any issues, please join our Discord server to provide feedback"
+SERVER_INTERNAL_EXCEPTION,"If you encounter any issues, please join our Discord server to provide feedback"
+Stats_Invalid_Match,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}"
+Stats_Invalid_Price,"The price has changed, please restart and try again"
+Stats_Invalid_Region,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}"
+Stats_Invalid_Request_Param,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}"
+Stats_Update_Crown_Failed,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}"
+T_ABOUTFEWMIN,Wait a little longer~
+T_ACCOUNT,Account
+T_ACHIEVED,Achieved
+T_ACTION_ACT_COOL,Act Cool
+T_ACTION_ACT_COOL_DESC,Strike a cool pose to show you’ve got it all together!
+T_ACTION_ANGRY,Angry
+T_ACTION_ANGRY_D,Sooo Angry!
+T_ACTION_ANGRY_DESC,Let your rage out!
+T_ACTION_CHEER_UP,Cheer up
+T_ACTION_CHEER_UP_D,Stay positive!
+T_ACTION_CHEER_UP_DESC,Shake off the bad vibe and stay positive!
+T_ACTION_CRY,Cry
+T_ACTION_CRY_D,[crying...]
+T_ACTION_CRY_DESC,Let out your tears with a soft cry..
+T_ACTION_CRY_LOUDLY,Cry loudly
+T_ACTION_CRY_LOUDLY_D,Cry out loud..
+T_ACTION_CRY_LOUDLY_DESC,Cry out loud
+T_ACTION_DANCE,Dance
+T_ACTION_DANCE_D,I learnt it in Hawaii
+T_ACTION_DANCE_DESC,Let the rhythm take over
+T_ACTION_DISLIKE,Dislike
+T_ACTION_DISLIKE_D,Nah I don't like it
+T_ACTION_DISLIKE_DESC,Show your disapproval
+T_ACTION_ENCOURAGE,Encourage
+T_ACTION_ENCOURAGE_DESC,Boost your team's morale
+T_ACTION_EVIL,Act evil
+T_ACTION_EVIL_D,Mischief time..
+T_ACTION_EVIL_DESC,Give off an evil grin..
+T_ACTION_GLAD,Glad
+T_ACTION_GLAD_DESC,Express happiness!
+T_ACTION_GYMNASTICS,Gymnastics Move
+T_ACTION_GYMNASTICS_D,Look at me!
+T_ACTION_GYMNASTICS_DESC,Show off your acrobatic flair
+T_ACTION_HAPPY,Happy
+T_ACTION_HAPPY_D,Sooo happy!
+T_ACTION_HAPPY_DESC,A cheerful gesture
+T_ACTION_HELLO,Greet
+T_ACTION_HELLO_D,Hey there!
+T_ACTION_HELLO_DESC,A friendly greeting to everyone!
+T_ACTION_LAUGH,Laugh
+T_ACTION_LAUGH_D,LOL
+T_ACTION_LAUGH_DESC,"Share a hearty laugh, spread the joy!"
+T_ACTION_LIKE,Like
+T_ACTION_LIKE_D,Love it!!
+T_ACTION_LIKE_DESC,I think I really like it!
+T_ACTION_MAKE_FACES,Goofy Look
+T_ACTION_MAKE_FACES_DESC,Pull a funny face
+T_ACTION_MOCK,Mock
+T_ACTION_MOCK_D,You so bad at the game!
+T_ACTION_MOCK_DESC,"Mock your rivals, show no mercy!"
+T_ACTION_SALUTE,Salute
+T_ACTION_SALUTE_D,Salute!
+T_ACTION_SALUTE_DESC,Pay respect
+T_ACTION_SIGH,Sigh
+T_ACTION_SIGH_D,Sigh...
+T_ACTION_SIGH_DESC,Are you feeling frustrated?
+T_ACTION_SOMERSAULT,Flip
+T_ACTION_SOMERSAULT_D,Feel like doing a flip?
+T_ACTION_SOMERSAULT_DESC,Feel like doing a flip?
+T_ACTION_STREET_DANCE,Sreet dance
+T_ACTION_STREET_DANCE_DESC,Feel like breaking out some smooth dance moves?
+T_ACTION_TAUNT,Taunting
+T_ACTION_TAUNT_D,Cheeky gesture
+T_ACTION_TAUNT_DESC,Taunt your enemies with a cheeky gesture!
+T_ACTION_WAVE,Wave
+T_ACTION_WAVE_DESC,A friendly wave to greet everyone
+T_ACTION_WIGGLE,Wiggle
+T_ACTION_WIGGLE_DESC,See me wiggle a little
+T_ACTIVITY_BT1,Play in 3 intense battles
+T_ACTIVITY_BT2,Complete 5 Gem Blitz battles
+T_ACTIVITY_CH1,Create your own character!
+T_ACTIVITY_CH2,Explore 3 new character magic
+T_ACTIVITY_KN1,Obtain 20 Era Runes
+T_ACTIVITY_LOGIN,Welcome to DayDream!
+T_ACTIVITY_LOGIN2,Come back to DayDream tomorrow!
+T_ACTIVITY_MAP1,Create your own arena
+T_ACTIVITY_PVE1,Complete Dungeon Rush (Novice)
+T_ACTIVITY_WP1,Explore weapon creation once
+T_ACTIVITY_WP2,Explore 5 new weapon magic
+T_AIRWAVE_D,Fire a penetrating wave of energy
+T_AIRWAVE_N,Qi Wave
+T_ATTRACTION_D,"Summon a black hole at the targeted location, pulling in nearby enemies"
+T_ATTRIBUTE,Attribute
+T_ATTRIBUTES_AMMO,Magazine
+T_ATTRIBUTES_AUTOFIRE,Auto fire
+T_ATTRIBUTES_CHARGEBONUS,Charged bullet
+T_ATTRIBUTES_COUNT,Bullet per shot
+T_ATTRIBUTES_COUNT_D,Fire more bullets in a single shot
+T_ATTRIBUTES_COUNT2,The number of bullets increased by 2 rounds
+T_ATTRIBUTES_COUNT4,The number of bullets increased by 4 rounds
+T_ATTRIBUTES_COUNT6,The number of bullets increased by 6 rounds
+T_ATTRIBUTES_DAMAGE,Amplified Damage
+T_ATTRIBUTES_DAMAGE_UP,High damage
+T_ATTRIBUTES_DAMAGE_UPUP,Massive damage
+T_ATTRIBUTES_FIRE_INTERVAL,Fire rate
+T_ATTRIBUTES_FIRE_INTERVAL_D_1,Slightly reduced shooting interval
+T_ATTRIBUTES_FIRE_INTERVAL_D_2,Reduced shooting interval
+T_ATTRIBUTES_FIRE_INTERVAL_D_3,Significantly reduced shooting interval
+T_ATTRIBUTES_FIRE_INTERVAL_D_4,The shooting interval is greatly shortened
+T_ATTRIBUTES_FIRE_INTERVAL_UP,High fire rate
+T_ATTRIBUTES_FIRE_INTERVAL_UPUP,Rapid fire rate
+T_ATTRIBUTES_LIFESPAN,Range
+T_ATTRIBUTES_LIFESPAN_D_1,Slightly boosted bullet range
+T_ATTRIBUTES_LIFESPAN_D_2,Bullet range increased
+T_ATTRIBUTES_LIFESPAN_D_3,Bullet range significantly increased
+T_ATTRIBUTES_LIFESPAN_D_4,Bullet range greatly increased
+T_ATTRIBUTES_LIFESPAN_UP,Enhanced range
+T_ATTRIBUTES_LIFESPAN_UPUP,Ultra range
+T_ATTRIBUTES_RELOAD_TIME,Reload time
+T_ATTRIBUTES_SIGNIFICANT,Medium boost
+T_ATTRIBUTES_SLIGHT,Minor boost
+T_ATTRIBUTES_SMALL,Small boost
+T_ATTRIBUTES_SPREAD,Bullet spread
+T_ATTRIBUTES_SUB,Major boost
+T_ATTRIBUTES_TRAIJECTORY,Trajectory
+T_ATTRIBUTES_VELOCITY,Bullet speed
+T_AUTOFIRE_DESC,Weapon can fire continuously while holding the fire button
+T_BATTLE_COUNTDOWN,Countdown
+T_BATTLE_COUNTTIME,Battle begins now!
+T_BATTLE_KINGSELET,King's selection stage
+T_BATTLE_MISSION,Battle Mission
+T_BATTLE_RELIVE,Revive in {0}s
+T_BATTLE_START,Battle Starts!
+T_BATTLE_START01,I shall choose a lucky Dreamer for the arena!
+T_BATTLE_START02,My arena shall replace all yours in this battle!
+T_BATTLE_START03,The arena of this battle is by —— {0}!
+T_BATTLE_START04,The King has chosen your arena!
+T_BATTLE_TO_GET_MORE,Battle to get more
+T_BATTLEEVENT_ALLSPEEDUP,Everyone speeds up!
+T_BATTLEEVENT_LIGHTING,Lightning is about to strike!
+T_BATTLEEVENT_WOLF,The wolf is coming!
+T_BEHUNTERED,Hunting begins! Top Gem holder is target!
+T_BEHUNTERED_TIPS,You're being hunted
+T_BIG BULLET_1,Bullet size increases minimally
+T_BIG BULLET_2,Bullet size increases slightly
+T_BIG BULLET_3,Bullet size increase moderately
+T_BIG BULLET_4,Bullet size increases greatly
+T_BLACKHOLE_D,Summons a large black hole that draws enemies into the center and deals damage.
+T_BLACKHOLE_N,summon black hole
+T_BLOODRAGE_D,"The lower your health, the faster your attack speed"
+T_BLOODRAGE_N,Blood Rage
+T_BLOODSUCKING_D,Part of damage dealt on enemies is converted to self-healing
+T_BORADCAST_MONSTER,Start a monster hunting spree
+T_BOSS_HALFMAN_1,Venomous Little Demon
+T_BOSS_HALFMAN_2,Knockback Little Demon
+T_BOSS_HALFMAN_3,Supreme Little Demon
+T_BOSS_KRATOS_1,Blazing Kratos
+T_BOSS_KRATOS_2,Frozen Kratos
+T_BOSS_KRATOS_3,Supreme Kratos
+T_BOSS_REDHAT_1,Ricochet Little Red
+T_BOSS_REDHAT_2,Splitshot Little Red
+T_BOSS_REDHAT_3,Red Hat Wolf
+T_BOSS_TRUMP_1,Shapeshifter Trump
+T_BOSS_TRUMP_2,Shrinking Trump
+T_BOSS_TRUMP_3,Tyrant Trump
+T_BOXDAMAGE_D,Deal double damage to treasure Boxes and Monsters
+T_BOXDAMAGE_N,Treasure Hunter
+T_BOXROOM,LOOT SPACE
+T_BROADCAST_BOX,Start a treasure box carnival
+T_BULLETABSORPTION_D,Bullets hitting you during the duration will turn into healing but still apply effects
+T_BULLETABSORPTION_N,Bullet Absorption
+T_BULLETREFLECTION_D,Bullets hitting you during the duration will bounce off randomly
+T_BULLETREFLECTION_N,Bullet Deflection
+T_BURNING,Bullet leaves a burning area at the explosion site for a short period
+T_BUYCOST,Confirm to purchase {1} with {0}?
+T_BUYMAPREPLACEMENT,"Arena storage full, please confirm to replace existing arena:"
+T_BUYREPLACE,Replace your {0}
+T_BUYREPLACEMENT,"Weapon storage full, please choose the weapon to replace"
+T_CANNOT_SELECT_DURABLE0,"Durability depleted, can be used again after repair."
+T_CANNOT_SELECT_MATCHMAKING,Matchmaking in progress
+T_CD_1,Long cooldown
+T_CD_2,Medium cooldown
+T_CD_3,Short cooldown
+T_CD_4,Very short cooldown
+T_CHARGEBONUS_DESC,"Hold ""fire"" button to charge and increase bullet damage"
+T_CHARGENERATE_D,Consumed when creating characters
+T_CHARGENERATE_N,Character ticket
+T_CHARSLOT_D,Unlocks a slot for character creation
+T_CHARSLOT_N,Character slot
+T_CHAT_EMPTYEMOJI,
+T_CHAT_INGAME_TITLE,
+T_CHAT_INTEAM,
+T_CHAT_OFFLINE_TITLE,
+T_CHAT_SEND,
+T_CHAT_TAB_TEAM,
+T_CHAT_TOAST_EMPTY,
+T_CHAT_TOAST_OFFLINE,
+T_CHAT_WITH,
+T_CHOP_D,"Slash forward with a sword, dealing damage to enemies in front，attacks can bounce bullets，increases movement speed slightly"
+T_CHOP_N,Sword
+T_CLAIM,CLAIM
+T_CLAIMED,CLAIMED
+T_COCREATE_CHAR_TITLE,Creation
+T_COCREATE_RECOMMANDE,Recommend
+T_COIN_D,"Obatained after games, used to various purchases"
+T_COIN_N,Coin
+T_CONFIRM,Confirm
+T_CONFIRMCOST,Confirm to create with {0}?
+T_COPEY,Copied to clipboard
+T_CREAT_FAIL,"Sorry! We encountered an error in creation, ticket will be returned"
+T_CREATCHAR,Dream up your character!
+T_CREATE_CHAR_TITLE,Dream up any character!
+T_CREATE_ENTERTEXT,enter here!
+T_CREATE_GENERATING,Generation in progress
+T_CREATE_MAP_TITLE,Dream up any arena!
+T_CREATE_NOW,CREATE
+T_CREATE_RECIPES,Recipes
+T_CREATE_SELECTE,select
+T_CREATE_SELECTED,selected
+T_CREATE_START,Start Dreaming!!!
+T_CREATE_TITLE,dream up anything you want
+T_CREATE_TRYOTHER,Try populars made by others
+T_CREATE_WEAPON_TITLE,Dream up any weapon!
+T_CREATENAME_DIRTY,The name contains inappropriate language and cannot be used.
+T_CREATENAME_REPEAT,Name is already taken.
+T_CREATING,Crafting
+T_CREATION_LACK,Try out your creation now!
+T_CREATIVEROOM,CREATIVE SPACE
+T_CREATMAP,Dream up your arena!
+T_CREATMORETIME,We are crafting carefully...
+T_CREATWEAPON,Dream up your weapon!
+T_CURRENTWEAPON_DURABLE_INVALID,"Weapon durability used up, repair it now!"
+T_CURSE_D,"Curse hit enemies, leaving a tomb upon death that damages those who step on it"
+T_CURSE_N,Curse
+T_DAILYREFRESH,Refresh at 4am daily
+T_DAMAGE_1,Deal minor damage
+T_DAMAGE_2,Deal small damage
+T_DAMAGE_3,Deal moderate damage
+T_DAMAGE_4,Deal heavy damage
+T_DAMAGE-TRIGGEREDSPEEDBOOST_D,Movement speed increases after taking damage
+T_DAMAGE-TRIGGEREDSPEEDBOOST_N,Injury Acceleration
+T_DAMAGEREDUCTION_D,Reduce damage taken from others
+T_DAMAGEREDUCTION_N,Damage reduction
+T_DASH_D,Temporarily gain a large movement speed boost
+T_DASH_N,Dash
+T_DAYDREAMSLOGAN,Create anything you imagine!
+T_DECISIVE_PHASE,CRUNCH TIME!
+T_DEFAULT_DESC1,<color=#CE2121><b>FIRE DRAGON!</b></color> What a powerful spell! Let’s see what it creates!
+T_DEFAULT_DESC2,"Watch closely, this is such a perfect creation from your <color=#CE2121><b>FIRE DRAGON!</b></color> spell!"
+T_DEFAULT_DESC3,"The spell is <color=#CE2121><b>FIRE DRAGON</b></color>, so I grants it the <color=#CE2121><b>Burning</b></color>weapon magic, what a perfect match!"
+T_DEFAULT_PROMPT,FIRE DRAGON
+T_DEFAULT_PROMPT_SHOW,<color=#CE2121><b>FIRE DRAGON</b></color>
+T_DELETE,DELETE
+T_DELETECOFIRM,Deletion is permanent - Confirm?
+T_DESC_BULLET,BULLET
+T_DESC_EFFECT,MAGIC
+T_DESC_NEW,NEW
+T_DIFFVERSION,Please exit the game to update to the latest version —— exciting new features await!
+T_DIS_1,Cause minor displacement of target
+T_DIS_2,Cause small displacement of target
+T_DIS_3,Cause medium displacement of target
+T_DIS_4,Cause major displacement of target
+T_DISARMFIELD_D,Turn enemies into sheep that can't attack but deal collision damage.
+T_DISARMFIELD_N,Mass Polymorph
+T_DIZZINESS_D,Enemies hit have their movement directions reversed
+T_DRAGONFIST_D,Perform a melee rising uppercut
+T_DRAGONFIST_N,Rising Uppercut
+T_DRAWSLASH_D,Fire a sword energy slash in a designated direction
+T_DRAWSLASH_N,Quick Draw Slash
+T_DREAM_BOOK,Dream Book
+T_DREAMBOOK_BIGREWARD,This is the grand prize you will get when you upgrade your dreamer level: <color=#CE2121><b>Super powerful new weapons and new characters</b></color>
+T_DREAMBOOK_MISSION1,"This is your next mission objective. If you complete it, you will receive 15 knowledge fragments [0#emoji_1]!"
+T_DREAMBOOK_MISSIONCOMPLETE,oh! dreamer! You are awesome. The mission has been completed. Go and receive the award!
+T_DREAMBOOK_MISSIONREWARD,"As long as you complete the task, come here to receive the prize! The king will not treat you badly!"
+T_DREAMBOOK_MISSIONREWARD2,"Receive your reward quickly, you deserve it!"
+T_DREAMBOOK_MISSIONREWARDCLOSE,Mission accomplished! You are truly the greatest dreamer!
+T_DREAMBOOK_MORERUIN,"If you want to get more knowledge fragments [0#emoji_1] more easily, then complete the task!"
+T_DREAMBOOK_NOUPGRADE,Just a little shy of an upgrade! Go back to the game to collect knowledge fragments [0#emoji_1]!
+T_DREAMBOOK_PROGRESS,"Collect knowledge fragments [0#emoji_1], accumulate progress, upgrade the dreamer level, and receive grand prizes!"
+T_DREAMBOOK_UPGRADE,oh! You have collected enough knowledge fragments [0#emoji_1]! It's time to upgrade!
+T_DREAMER_1,LV.1 Dreamer
+T_DREAMER_2,LV.2 Dreamer
+T_DREAMER_3,LV.3 Dreamer
+T_DREAMER_4,LV.4 Dreamer
+T_DREAMER_DESC_1,"Level 1 Dreamer, with a limited spell limit, can only cast basic magic"
+T_DREAMER_DESC_2,"Level 2 Dreamer, the spell limit is increased, and can control intermediate magic"
+T_DREAMER_DESC_3,"Level 3 Dreamer, the spell limit is greatly increased, and more advanced magic is mastered"
+T_DREAMER_DESC_4,"Level 4 Dreamer, with spell cap reaching its peak, able to cast the ultimate magic"
+T_DUR_1,Very short duration
+T_DUR_2,Short duration
+T_DUR_3,Medium duration
+T_DUR_4,Long duration
+T_EFFECTS,Weapon Magic
+T_EMPTY,Empty
+T_ENLARGEMENT_D,"Enemies hit grow larger, slow down, and cannot hide in grass"
+T_ENTERFIRST,Please enter first
+T_EP_JOINBATTLE,Join Magic Battle
+T_EP_REWARD,Win great rewards
+T_ERA_RUIN_D,Collect knowledge fragments and upgrade your dreamer level! Become the most powerful dreamer!
+T_ERA_RUIN_T,Knowledge Fragments
+T_EXIT,EXIT
+T_EXPLOSION,Bullet hits cause explosions; kills trigger another explosion.
+T_FAVORITE,Favorites
+T_FAVORITE_LIMIT,Daily limit reached
+T_FAVORITE_SELECT,Choose your favorite
+T_FINAL_REWARD,Upgrade\nAward
+T_FINISH_DESC,"Now that you have become the most powerful dreamer, you can compete with other top dreamers on the leaderboard!"
+T_FIX_TEST,test fix bug
+T_FLAMETHROWER_D,"Continuously attack, dealing damage in a frontal area"
+T_FLAMETHROWER_N,Flamethrower
+T_FLAMINGFOOTSTEPS_D,Leave a trail of fire on the ground while moving during the duration
+T_FLAMINGFOOTSTEPS_N,Burning footsteps
+T_FREEGET,"Higher rank, higher discount"
+T_FREEZING,Bullet freezes enemy for a short period upon impact
+T_FREEZINGTOUCH_D,"Release a ring of frozen ground, freezing enemies standing on it"
+T_FREEZINGTOUCH_N,Freeze land
+T_FRIEND,Friend
+T_FRIEND_ADDED,Friend added
+T_FRIEND_SENDED,Friend request sent
+T_FRIENDADD,Add
+T_FRIENDLIST,List
+T_FRIENDREQ,Request
+T_FRIENDS,Friends
+T_FRIENDUNLOCK_D,Unlocks friend system
+T_FRIENDUNLOCK_N,Friend System unlocked!
+T_FUNCTIONUNLOCK,New feature unlocked
+T_FUNPROMPT,What a creative prompt!
+T_GAMEWEAPON,Weapon for the battle
+T_GEM_HUNTER_APPEAR,A player became a gem hunter for a while!
+T_GEM_TONS,Tons of Gems incoming!
+T_GEMEFFECTDUPLICATION_D,Gem absorption effects are doubled
+T_GEMEFFECTDUPLICATION_N,Gem Doubling
+T_GHOST_APPEAR,Ghosts will haunt the arena!
+T_GIFT_APPEAR,Powerful items dropping soon!
+T_GO,GO
+T_GOALFINISH,Unlock after completing Era Runes
+T_GOALSET_GOAL,Target Stage
+T_GOALSET_GOAL_DESC,"Stronger generation capabilities, more generation resources, and the ability to create the strongest weapons."
+T_GOALSET_NOW,Current Stage
+T_GOALSET_NOW_DESC,"Generation capability is limited, and you can only create weaker weapons."
+T_GOTOGETLOOT,Battle to acquire other players' creations!
+T_GRASS_D,"Turn into grass, immune to bullets; attacking reverts to normal form"
+T_GRASS_N,Transform into grass
+T_GUIDE_CREATE_CHARACTER_INTRO,Create any character you want - Anything is possible!
+T_GUIDE_CREATE_CHARACTER_WAIT,"Hang on , your character will be ready soon!"
+T_GUIDE_CREATE_CHARACTER_WEARED,A highly creative character is now equipped! Come and see what magic they have!\n
+T_GUIDE_CREATELEVEL_INTRO1,"Level up your Dreaming Power, for cooler and more powerful creations!"
+T_GUIDE_CREATELEVEL_INTRO2,"Collect more Era Runes, and level up your Dreaming Power!"
+T_GUIDE_PVE_INTRO,"What secrets are hidden in the King's dungeon? Team up and defeat the enemies, uncover the King's dark secrets!"
+T_GUIDE_REWARDLINE_INTRO,"Collect more Era Runes, and win bigger prizes!"
+T_GUIDE_SKILLTREE_CHARACTER_INTRO1,"Like weapon Magics, here displays all the character magics discovered - once a magic is discovered by enough Dreamers on the server, it will be seen by everyone."
+T_GUIDE_SKILLTREE_CHARACTER_INTRO2,This is where you as an Explorer shine and showcase your unique glory! Character Magic you discover as a pioneer Explorer will be displayed here.
+T_GUIDE_SKILLTREE_WEAPON_INTRO1,"Here displays all the weapon Magics discovered - once a Magic is discovered by enough Dreamers on the server, it will be seen by everyone."
+T_GUIDE_SKILLTREE_WEAPON_INTRO2,This is where you as an Explorer showcase your unique glory! Weapon Magic you discover as a pioneer Explorer will be displayed here.
+T_GUIDE_TIMEALTERNATING_INRO1,"Here you are, Primal Dreamer! Now you can create stuff in primitive forms and with primitive Magic."
+T_GUIDE_TIMEALTERNATING_INRO2,"Level up your Dreaming Power, for cooler and more powerful creations!"
+T_GUIDE_TIMEALTERNATING_INRO3,"Though now you can only create primitive characters and weapons, leveling up your Dreaming Power unlocks more powerful and diverse creations!"
+T_GUIDE_TIMEALTERNATING_INRO4,This is the number of<color=#e25a30>Era Runes</color> required to advance your Dreaming Power - you can earn them in every game played
+T_GUIDE_WEAPON01,"Dreamers, time to create your first weapon!"
+T_GUIDE_WEAPON02,Enter your weapon prompt here
+T_GUIDE_WEAPON03,"Hang on, the weapon will be ready soon"
+T_GUIDE_WEAPON04,Click here to see the character you just created!
+T_GUIDE_WEAPON04C,Click here to see the character you just created!
+T_GUIDE_WEAPON05,The weapon you created has been equipped - let me show you something magical first!
+T_GUIDE_WEAPON06,Want to try out others' weapons too?
+T_GUIDE_WEAPON07,Tip: You can only obtain one weapon after a game
+T_GUIDE_WEAPON08,Try out your weapon on training dummy!
+T_GUIDEPICTURE_ANY,Defeat the enemy and plunder all his gems [0#emoji_3]! Also be careful not to be defeated by others
+T_GUIDEPICTURE_BOX,Every treasure chest contains the King's Gem[0#emoji_3]! Collect them quickly to win the game!
+T_GUIDEPICTURE_FRAGMENT,Collect knowledge fragments [0#emoji_1]! Increase your magician level! Create the strongest weapons and characters!
+T_GUIDEPICTURE_UPGRADE,"Want to generate the most powerful weapon? Go and upgrade your magician level! The higher the level, the stronger the weapon!"
+T_GUIDEPICTURE_WIN,"The person with the most gems[0#emoji_3] wins the game! The higher the ranking, the more generous the rewards!"
+T_HAMMER_D,"Smash forward with a hammer, dealing heavy damage in an area in front"
+T_HAMMER_N,Hammer
+T_HEAL_1,Restore minor health
+T_HEAL_2,Restore small health
+T_HEAL_3,Restore moderate health
+T_HEAL_4,Restore major health
+T_HEALTHBOOST_D,Initial health increased
+T_HEALTHBOOST_N,Health Boost
+T_HISTORY,History
+T_HOOKLOCK_D,"Pull yourself towards the hit location, causing damage and disarming the enemy"
+T_HOOKLOCK_N,Web Hook
+T_HUD_CANCEL_DIR,Cancel direction
+T_HUD_DESC,Enter edit mode and customize button position and size
+T_HUD_MOVE_MODE,Whether to enable joystick following
+T_HUD_NAME,Custom button layout
+T_HUD_SAVE_1,Set 1
+T_HUD_SAVE_2,Set 2
+T_HUD_SAVE_3,Set 3
+T_HUD_SAVE_SUCCESS,Saved successfully
+T_HUD_SCALE,size
+T_HUNTERENEMY,Hunting begins! <color=#E25A30><b>{0}</b></color> is chosen as target!
+T_ICEWALL_D,Create three solid walls with health
+T_ICEWALL_N,Protective Ice Wall
+T_ICTHORN_D,"Summons a column of ice spikes, causing multiple damage to enemies it touches."
+T_ICTHORN_N,Summon Ice Spikes
+T_INFOMAT,Profile
+T_INFOMATIONS,Profile
+T_INGAME_BROADCAST_M_1,no special effects
+T_INGAME_BROADCAST_M_2,Super drought
+T_INGAME_BROADCAST_M_3,Water World
+T_INGAME_BROADCAST_M_4,Gobi Desert
+T_INGAME_BROADCAST_M_5,grassland
+T_INGAME_BROADCAST_M_6,wetlands
+T_INGAME_BROADCAST_M_7,stone forest
+T_INGAME_BROADCAST_MAP,"Presenting the map created by <color=#FBB03B><b>{0}</b></color>, with <color=#E25A30><b>{1}</b></color> special terrain"
+T_INGAME_BROADCAST_W_1,Explosive
+T_INGAME_BROADCAST_W_10,Slowing down
+T_INGAME_BROADCAST_W_11,Lifesteal
+T_INGAME_BROADCAST_W_12,Enlarging
+T_INGAME_BROADCAST_W_13,Shrinking
+T_INGAME_BROADCAST_W_14,Transforming
+T_INGAME_BROADCAST_W_15,Blinding
+T_INGAME_BROADCAST_W_16,Stunning
+T_INGAME_BROADCAST_W_17,BlackHole
+T_INGAME_BROADCAST_W_18,Homing bullet
+T_INGAME_BROADCAST_W_19,Larger bullet
+T_INGAME_BROADCAST_W_2,Penetration
+T_INGAME_BROADCAST_W_3,Bouncing
+T_INGAME_BROADCAST_W_4,Burning
+T_INGAME_BROADCAST_W_5,Frozen
+T_INGAME_BROADCAST_W_6,Poisonous
+T_INGAME_BROADCAST_W_7,Lightning
+T_INGAME_BROADCAST_W_8,Knockback
+T_INGAME_BROADCAST_W_9,Splitting
+T_INGAME_BROADCAST_WEAPON,"Presenting the weapon created by <color=#FBB03B><b>{0}</b></color>, with <color=#E25A30><b>{1}</b></color>"
+T_INGAME_ENTER_TEXT,Enter text..
+T_INGAME_EVENT,Big Event!
+T_INGAME_FEEDBACK_APPEAR,RATE YOUR DESIGN
+T_INGAME_FEEDBACK_MATCH,RATE YOUR CREATION
+T_INGAME_KING,The KING
+T_INGAME_NEXT_LEVEL,Congratulations !Go to next level!
+T_INGAME_PLACE,Place
+T_INGAME_PROMPT,Prompt
+T_INGAME_QUIT,Are you sure you want to exit the game?
+T_INGAME_RESULT_ADD,ADD FRIEND
+T_INGAME_RESULT_HEADSHOT,AVATAR
+T_INGAME_RESULT_KILL,KILL
+T_INGAME_RESULT_ME,YOU
+T_INGAME_RESULT_NAME,NAME
+T_INGAME_RESULT_POINT,POINT
+T_INGAME_RESULT_RANK,RANK
+T_INGAME_RESULT_TROPHY,TROPHY
+T_INGAME_TAP_CONTINUE,Tap to Continue
+T_INGAME_TEMPLATE_ADORABLE,Adorable panda
+T_INGAME_TEMPLATE_ANCIENT,An ancient relic
+T_INGAME_TEMPLATE_BARBIE,Lovely Barbie
+T_INGAME_TEMPLATE_BATMAN,Batman for justice
+T_INGAME_TEMPLATE_BLOSSOMING,Blossoming rose gun
+T_INGAME_TEMPLATE_BLUE_INKED,Blue-inked pen
+T_INGAME_TEMPLATE_CAT,British shorthair cat
+T_INGAME_TEMPLATE_CATWOMAN,Catwoman in black outfit
+T_INGAME_TEMPLATE_COLD,A jar of cold milk
+T_INGAME_TEMPLATE_COLORFUL,Colorful lollipop
+T_INGAME_TEMPLATE_COMPACT,hairdryer gun
+T_INGAME_TEMPLATE_DARK,Dungeon of darkness
+T_INGAME_TEMPLATE_DOG,A dog with big ears
+T_INGAME_TEMPLATE_DRAGON,Dragon breathing fire
+T_INGAME_TEMPLATE_ELSA,Elsa with the power of ice
+T_INGAME_TEMPLATE_FIRE,Hellfire shotgun
+T_INGAME_TEMPLATE_FISH,Giant shark gun
+T_INGAME_TEMPLATE_FIZZY,Fizzy coke
+T_INGAME_TEMPLATE_FLUFFY,A fluffy pillow
+T_INGAME_TEMPLATE_FROG,Frog warrior
+T_INGAME_TEMPLATE_FROZEN,Frozen land
+T_INGAME_TEMPLATE_GENTLE,A cow
+T_INGAME_TEMPLATE_GUN,A lethal black gun
+T_INGAME_TEMPLATE_HORSE,A brown horse
+T_INGAME_TEMPLATE_INTERESTING,Ancient book
+T_INGAME_TEMPLATE_IRON_MAN,Iron-man in yellow suit
+T_INGAME_TEMPLATE_JAMES_BOND,Elegant James Bond
+T_INGAME_TEMPLATE_JOHN_SNOW,Jon Snow from Game of Thrones
+T_INGAME_TEMPLATE_JOKER,Joker with clownish grin
+T_INGAME_TEMPLATE_JURASSIC,Jurassic world
+T_INGAME_TEMPLATE_KNIGHT,The guardian knight
+T_INGAME_TEMPLATE_LEMON,Lemontree land
+T_INGAME_TEMPLATE_MAJESTIC,Majestic castle
+T_INGAME_TEMPLATE_MANUFACTURING,Bustling factory
+T_INGAME_TEMPLATE_MONKEY,Monkey with banana
+T_INGAME_TEMPLATE_MYSTERIOUS,Mysterious forest
+T_INGAME_TEMPLATE_PENGUIN,A mercenary penguin
+T_INGAME_TEMPLATE_PHOENIX,The home of mighty phoenix
+T_INGAME_TEMPLATE_PIRATE,Pirate with evil grin
+T_INGAME_TEMPLATE_RETRO,Retro arcade
+T_INGAME_TEMPLATE_SAMURAI,Samurai with a sharp katana
+T_INGAME_TEMPLATE_SPONGEBOB,Green Spongebob
+T_INGAME_TEMPLATE_SPORTS,A stadium for sports events
+T_INGAME_TEMPLATE_STREAMLINED,Racing car with lightning
+T_INGAME_TEMPLATE_STRONG,A powerful wind turbine
+T_INGAME_TEMPLATE_SWEET,Candyland full of sweet treats.
+T_INGAME_TEMPLATE_SWORD,Powerful sword
+T_INGAME_TEMPLATE_TOM,Tom from Tom and Jerry
+T_INGAME_TEMPLATE_TRANQUIL,A tranquil aquarium
+T_INGAME_TEMPLATE_TRANSFORMER,Optimus prime
+T_INGAME_TEMPLATE_TROPICAL,Tropical sugarcane
+T_INGAME_TEMPLATE_WATER,Water pistol
+T_INGAME_TEMPLATE_WHITE,Cat with white fur
+T_INGAME_TEMPLATE_WINNIE,Winnie the Pooh
+T_INGAME_TEMPLATE_YELLOW,Dog in yellow coat
+T_INGAME_UI_REMAINING,Remaining players
+T_INGAME_USERNAME,User Name:
+T_INGAME_USERNAME_D,Let me see your strength
+T_INS_C_1,Trying to design a superhero character?
+T_INS_C_2,Want to try your hand at being an adventurer from the future?
+T_INS_C_3,Maybe generate a traveler from another world?
+T_INS_C_4,Maybe create a mysterious magician?
+T_INS_C_5,Maybe create a ruthless bounty hunter?
+T_INS_M_1,Trying to generate a medieval style castle?
+T_INS_M_2,Try creating a map completely covered in forest?
+T_INS_M_3,Want to try a city hidden in the deep sea?
+T_INS_M_4,Maybe design a desolate desert wasteland?
+T_INS_M_5,Want to design a future city full of unknown technologies?
+T_INS_W_1,Trying to design a weapon used by ancient knights?
+T_INS_W_2,Want to design a future weapon powered entirely by technology?
+T_INS_W_3,Want to try using animals as weapons?
+T_INS_W_4,Maybe try a weapon whose power comes from the stars or the universe?
+T_INS_W_5,Do you want to create a weapon that utilizes natural elements?
+T_INTRO_NAME,"What is your name, Dreamer?"
+T_INTRO_PART1_1,"Listen up, use the left joystick to move"
+T_INTRO_PART1_2,"Well done, use the right fire button, click to shoot"
+T_INTRO_PART1_3,"There is an enemy in front of you, let me see your skills"
+T_INTRO_PART1_4,"not,bad"
+T_INTRO_PART1_5,There is another enemy in the grass ahead
+T_INTRO_PART1_6,Find him and kill him
+T_INTRO_PART1_7,congratulations! let's go to next step
+T_INTRO_PART2_1,Feel free to imagine and create whatever you want here
+T_INTRO_PART2_2,"Whatever you want, enter it here"
+T_INTRO_PART2_3,"Here are other people’s creations, you can find inspiration"
+T_INTRO_PART2_4,You can also just use other people’s ideas and see what magic happens
+T_INTRO_PART2_5,"Once the creation is complete, click here to confirm and wait for the magic to happen."
+T_INTRO_STRENGTH,Show me your strength!
+T_INVINCIBILITY_D,Become immune to damage and negative effects for a duration
+T_INVINCIBILITY_N,Invincibility
+T_INVISIBILITY_D,"Go invisible for a short time; moving, attacking, or taking damage reveals you"
+T_INVISIBILITY_N,Invisibility
+T_KEEPMOVING_D,Gain a gem after moving a certain distance
+T_KEEPMOVING_N,Move to earn Gems
+T_KINDLE_D,"Ignite hit enemies, causing continuous damage"
+T_KINDLE_N,Ignite
+T_KINGCHOOSEMAP,"Now, I shall decide whose arena will grace this battle!"
+T_KINGCHOOSEWHO,It shall be {0}'s!
+T_KNOCKBACK,Bullet knocks enemy back a certain distance
+T_KNOCKBACK_SLOWDOWN_D,Knock back enemies and slow them down
+T_LACK_DESC,Earn more Coins and creation opportunities through battles!
+T_LACK_WAY,How to get
+T_LANGUAGE,Language
+T_LEADERBOARD,Leaderboard
+T_LEVELUP_CHARACTER,Increase prompt limit to {0} characters
+T_LEVELUP_N_1,The upper limit of the number of input characters that can be generated has been increased from <color=#CE2121><b>15</b></color> to <color=#CE2121><b>20</b></color>
+T_LEVELUP_N_2,The upper limit of the number of input characters that can be generated is increased from <color=#CE2121><b>20</b></color> to <color=#CE2121><b>25</b></color>
+T_LEVELUP_N_3,The upper limit of the number of input characters that can be generated has been increased from <color=#CE2121><b>25</b></color> to <color=#CE2121><b>30</b></color>
+T_LEVELUP_SHOW1,maximum level of generation is
+T_LEVELUP_SHOW2,The upper limit of characters is
+T_LEVELUP_W_1,The maximum level of generated weapons/characters has been increased from [0#emoji_11] to [0#emoji_12]
+T_LEVELUP_W_2,The maximum level of generated weapons/characters has been increased from [0#emoji_12] to [0#emoji_13]
+T_LEVELUP_W_3,The maximum level of generated weapons/characters has been increased from [0#emoji_13] to [0#emoji_14]
+T_LIGHTNING,Bullet triggers a delayed lightning strike at the impact location
+T_LOBBY_BACK,back
+T_LOBBY_BATTLE,MAGIC BATTLE
+T_LOBBY_CONGRATULATIONS,Congratulations !
+T_LOBBY_MATCHING,Matching
+T_LOBBY_NAME_ERROR,The name is not available
+T_LOBBY_NAME_IRREGULAR,Nickname must be within 3~12 characters
+T_LOBBY_SKIP,SKIP
+T_LOGIN_CONNECTING,Connecting to server
+T_LOGIN_PRIVICY,privacy policy
+T_LOGIN_USERITEM,Terms of use
+T_LOOT_REPAIR,Purchased weapons come with limited usage - Create your own weapons!
+T_LVLUP_BUTTON1,Completed!
+T_LVLUP_BUTTON2,Promotion!
+T_LVLUP_TITLE1,Basic Trial
+T_LVLUP_TITLE2,Ultimate Trial
+T_MAGMA_APPEAR,Lava is erupting!
+T_MAGNET_D,Pick up all gems within a range at intervals
+T_MAGNET_N,Gem Pickup
+T_MAP,Arena:
+T_MAP_MODEDESC_PVE_1,PVE mode 1
+T_MAP_MODEDESC_PVE_2,PVE mode 2
+T_MAP_MODEDESC_PVE_3,PVE mode 3
+T_MAP_MODEDESC_PVE_4,PVE mode 4
+T_MAP_MODEDESC_PVP_1,PVP mode 1
+T_MAP_MODEDESC_PVP_2,PVP mode 2
+T_MAP_MODEDESC_PVP_3,PVP mode 3
+T_MAP_MODENAME_PVE_1,Novice
+T_MAP_MODENAME_PVE_2,Veteran
+T_MAP_MODENAME_PVE_3,Elite
+T_MAP_MODENAME_PVE_4,Legend
+T_MAP_MODENAME_PVP_1,Gem Blitz
+T_MAP_MODENAME_PVP_2,Duo
+T_MAP_MODENAME_PVP_3,Trio
+T_MAP_N,Arena
+T_MAPDOWNFAIL,Arena loading failed; default arena is used
+T_MAPGENERATE_D,Consumed when creating arenas
+T_MAPGENERATE_N,Arena ticket
+T_MAPSLOT_D,Unlocks a slot for arena creation
+T_MAPSLOT_N,Arena slot
+T_MASSCURSE_D,"Release a group curse; cursed enemies leave a poison pool upon death, damaging those who step on it"
+T_MASSCURSE_N,Group Curse
+T_MATCHRESULT_BRING,Take your favorite creation loot!
+T_MATCHRESULT_NO1,VICTORY!
+T_MATCHRESULT_NO2,Good job!
+T_MATCHRESULT_NO3,You are No.{0}
+T_MATCHRESULT_NO4,Good job!
+T_MATCHRESULT_REWARD,Get a weapon and an arena for free!
+T_MODESEL_TITLE,Game Modes
+T_MODESEL_TITLE_PVE,Dungeon Rush
+T_MODESEL_TITLE_PVP,Gem Blitz
+T_MONSTER_GOUST,Ghost
+T_MONSTER_SKULL,Minion
+T_MONSTER_SLAVE,King’s Slave
+T_MONSTER_SLIME,Slime
+T_MONSTER_SPECTER,Ghost Mage
+T_MORE_N,More
+T_MUSIC,Music
+T_MYOPIA_D,Enemy hit is added an opaque mask on screen
+T_NAME_LOBBY_BOT,Training Dummy
+T_NEWCHARACTER,New character
+T_NEWMAP,New Arena
+T_NEWNAME,New name
+T_NEWWEAPON,New weapon
+T_NEXT_STAGE,Next Stage
+T_NIGHTFALL_D,"Emit a wave of light, narrowing the vision of nearby enemies"
+T_NIGHTFALL_N,Vision Narrowing
+T_NO_WEAPONBUFF,No Bonus
+T_NOANYSKILL,"Sorry, but you didn't get anything cool this time..."
+T_NOBUYCOIN,Insufficient coins
+T_NOCOIN_RENAME,Insufficient coins
+T_NOREMINDAGAIN,Do not remind me again
+T_NORENAME,Name not changed
+T_NORMAL_MISSION,Level Up Mission
+T_NUMBNESS_D,"Paralyze hit enemies, making them temporarily immobile"
+T_NUMBNESS_N,Paralyze
+T_OBTAINED,Obtained
+T_ONLYWINNER,Champion Exclusive!
+T_OUT-OF-COMBATRAPIDHEALING_D,Healing effect increases after not taking damage for a while
+T_OUT-OF-COMBATRAPIDHEALING_N,Rapid healing by exiting battle
+T_OUT-OF-COMBATSPEEDBOOST_D,Movement speed increases after not taking damage for a while
+T_OUT-OF-COMBATSPEEDBOOST_N,Flawless Acceleration
+T_OWN,OWNED
+T_PAYGET,Purchase limit
+T_PIERCING,Bullet penetrates through everything
+T_POISONING,Enemy hit by bullet takes poisonous damage for a short period
+T_POISONOUSTOUCH_D,Poison enemies you touch after activation
+T_POISONOUSTOUCH_N,Poisoned upon contact
+T_PRO,PROMOTION
+T_PRO_CHAR_LV_UP,Improvement of character’s basic attributes
+T_PRO_CREATE_LEVEL,Max Create level
+T_PRO_CREATE_LV_UP,Create level cap increased
+T_PRO_GET_MORE,Get more
+T_PRO_HP,HP
+T_PRO_MAX,Highest
+T_PRO_SEE_MORE,check the details
+T_PRO_SKILL_CD,Skill cooldown
+T_PRO_SPEED,Movement speed
+T_PRO_TITLE1,Generation effects enhanced
+T_PRO_TITLE1_DESC,Highest grade of weapon created: A
+T_PRO_TITLE1_DESC1,Maximum weapon level: <color=#CE2121><b>A</b></color>
+T_PRO_TITLE1_DESC2,Maximum weapon level: <color=#CE2121><b>S</b></color>
+T_PRO_TITLE1_DESC3,Maximum weapon level: <color=#CE2121><b>SS</b></color>
+T_PRO_TITLE1_DESC4,Maximum weapon level: <color=#CE2121><b>SSS</b></color>
+T_PRO_TITLE2,Generation capabilities enhanced
+T_PRO_TITLE2_DESC,Spell length increased to 40 characters
+T_PRO_TITLE2_DESC1,Spell generation length increased to 40
+T_PRO_TITLE2_DESC2,Spell generation length increased to 60
+T_PRO_TITLE2_DESC3,Spell generation length increased to 80
+T_PRO_TITLE2_DESC4,Spell generation length increased to 100
+T_PRO_UP_DETAILS,Upgrade content
+T_PRO_UP_TO,UPGRADING TO
+T_PROMOTION_ALLRANK,All Levels:
+T_PROMOTION_DES,Level up your magic to become stronger - then use more powerful spells to create different weapons and characters!
+T_PROMOTION_DES_NUM,Increase from {0} to {1}
+T_PROMOTION_DES_UP,Expanded spell length
+T_PROMOTION_FINISHALL,You're now my mightiest Dreamer! More exciting stuff coming soon!
+T_PROMOTION_IMPROVE,Players level up
+T_PROMOTION_NO_FINISH,Level-up tasks not completed!
+T_PROMOTION_PREVIEW,Level-Up Preview
+T_PROMOTION_ROAD,Path of Evolution
+T_PROMOTION_TASK,Level-Up Task:
+T_PROMOTION_TITLE,Ability Level-Up
+T_PROMOTION_UNLOCK_PVE,Unlock after completing the level-up task.
+T_PROMOTION_UPGRADE,Level Up
+T_PROMOTION_VIEW,Preview
+T_PUNCTURE_D,"Thrust forward with a spear, dealing damage in a straight line，attack can bounce bullets and accelerate yourself at the same time"
+T_PUNCTURE_N,Spear
+T_PURCHASE,Purchase
+T_PUSH_DESC,"Your free generation tickets have been refreshed, come and try out your creativity!"
+T_PUSH_TITLE,DayDream Time! 
+T_PV_1,"An evil king arrives, proclaims a grand contest for ‘Dreamers'"
+T_PV_2,They must forge powerful weapons and armors to stand out
+T_PV_3,A sinister ambition drives him…
+T_PV_4,"Under his spell, villagers labor to earn his dark approval, pouring all their creativity and sweat into each creation."
+T_PV_START,A once peaceful village...
+T_PVE_BPTIME,Personal Best
+T_PVE_NOLIFE,You ran out of respawn..watch your teammates in action!
+T_PVE_NOTPASS,Not Completed
+T_PVE_PASSRANK,Speedrun Leaderboard
+T_PVE_PASSTIME,Time(s)
+T_PVE_REWARD,1st Time Completion
+T_PVP_START,Collect Gems! Player with most Gems wins!
+T_QUALITY_HIGH,High
+T_QUALITY_LOW,Fluent
+T_QUALITY_MID,Balanced
+T_QUALITY_N,Performance Mode
+T_REATCHED_MAX_LEVEL,Reached the maximum level
+T_RECOMMAND,Recommended
+T_RECRUITMENT,Recruitment
+T_REDRAW,Redraw
+T_RENAME,Rename
+T_RENAME_CONFIRM,"Confirm changing name to {1}, with {0}?"
+T_RENAME_SUCCESS,Name changed successfully
+T_REPAIR_TIPS,Weapon Durability drops by 1 each game. Weapon can no longer be used when durability reaches 0 - Please remember to repair your weapon promptly!
+T_REPAIRCONFIRM,Do you want to spend {0} coins to repair?
+T_RESTART_SETTING,The setting changes will take effect after restarting the game
+T_RESULT,Result
+T_RESULT_CREATEC,Create stronger characters!
+T_RESULT_CREATEW,Create stronger weapons!
+T_RESULT_DESC,Come back and challenge again when you become stronger!
+T_RESULT_DISCOUNT,purchase discount
+T_RESULT_DISCOUNT_S,make persistent efforts
+T_RESULT_DISCOUNT_SHOW,Price reduction {0}[0#emoji_0]
+T_RESULT_DISCOUNT_TITLE,Ranking details !
+T_RESULT_LOSE,Change to a stronger weapon character and try again!
+T_REWARDLINE_INTRODUCE,You can unlock and claim more rewards by earning Era Runes
+T_RICOCHET,Bullet bounces multiple times after hitting an arena object
+T_ROCK_APPEAR,The unstoppable rolling stone has set off!
+T_ROCK_D,Turn into a stone for a short time; shooting will revert to normal form; immune to bullets
+T_ROCK_N,Turn into Stone
+T_ROLE_N,Role
+T_RWAEDOWNED,Current progress
+T_RWARDLINE,King's treasure
+T_SAVELOCAL,Saved to device
+T_SELECTALL,Import All
+T_SELFBIG_D,"During the duration, the body size becomes larger and the upper limit of blood volume, attack speed and shooting range are increased, and it will gradually return to the original state."
+T_SELFBIG_N,Enlarge Yourself
+T_SELFSMALL_D,"During the duration, the body size becomes smaller and the movement speed increases. When encountering an enemy, it will steal the opponent's gems, but will be stepped on."
+T_SELFSMALL_N,Shrink Yourself
+T_SERVER_DISCONNECT,Disconnected from server
+T_SETTING,Settings
+T_SETTLE_ALLRANK,All rankings
+T_SETTLE_YOURRANK,You are No.{0}
+T_SHARE,SHARE
+T_SHARE_AIGRENERATED,AI GENERATED
+T_SHARE_CHAR,CHARACTER!
+T_SHARE_MAP,ARENA!
+T_SHARE_NOTFOUND,Sharing channel not found
+T_SHARE_NOTION,Join me in creating super fun stuff with AI!
+T_SHARE_WEAPON,WEAPON!
+T_SHINRATENSEI_D,"Emit a wave of light, pushing away all nearby enemies"
+T_SHINRATENSEI_N,Push away enemies
+T_SHRINKING_D,"The hit enemy will shrink in size, resulting in a reduced attack range, and will be trampled by others."
+T_SIGNATURE,Tagline
+T_SIGNATURE_D,Edit your tagline!
+T_SIGNATURE_DIRTY,Inappropriate language detected in tagline
+T_SIGNATURE_DO,Please sign
+T_SIGNIN_C_D_ID,Breath of water!
+T_SIGNIN_C_D_TH,I'll protect this place
+T_SIGNIN_C_D_VN,There is only one truth!
+T_SIGNIN_C_T_ID,Kamado Tanjiro
+T_SIGNIN_C_T_TH,patron saint
+T_SIGNIN_C_T_VN,conan
+T_SIGNIN_CONTENT,Day {0}
+T_SIGNIN_TITLE_1,three days
+T_SIGNIN_TITLE_2,Sign in
+T_SKILL,Magic
+T_SKILL_NEEDEXPLORE,This item has not been discovered yet - Keep exploring and be the first!
+T_SKILLTREE,Magic Path
+T_SKIP_TODAY,Keep Skip Today
+T_SLIDE_D,"Dash forward in the facing direction, damaging enemies in the path"
+T_SLIDE_N,Dash N' Damage
+T_SLOTUNLOCK,Creation slot unlocked
+T_SOCIALUNLOCK_D,Unlocks social island
+T_SOCIALUNLOCK_N,Social Island unlocked!
+T_SOUND,Sound
+T_SOUNDEFFECTS,Sound Effects
+T_SPEEDINCREASE_D,Initial movement speed increased
+T_SPEEDINCREASE_N,Boosted movement speed
+T_SPLASHBANNER,Improve your Dreamer level and generate stronger weapons and characters!
+T_SPLITTING,Bullet splits into two after traveling a certain distance
+T_ST_CHARACTER_RANKING,Character Ranking
+T_ST_CREATOR,Explorer
+T_ST_CREATORNUM,Explorer Count
+T_ST_CREATORRANK,Explorer Leaderboard
+T_ST_CREATORTITLE_YOU,YOU ARE
+T_ST_CREATORTITLE_YOUARENOT,Reward for Top {0} Explorers
+T_ST_GETTITLE,{0}! You've earned this title for being the Explorers of this Magic. Show it off!
+T_ST_MORESKILL,A lot of Magic waiting to be explored!
+T_ST_MY,MY MAGIC
+T_ST_RANK_LEVEL,LEVEL
+T_ST_RANK_PURCHASE,Purchase
+T_ST_RANK_WEAPON,WEAPON
+T_ST_SKILLINFO,Magic Info
+T_ST_SKILLINFO_NOTFOUND,Magic effect to be explored
+T_ST_THANKS,Thank you for being the {0} explorer and making a huge contribution to discovering this magic!\n
+T_ST_THANKS_TITLE,"Thank You, Explorer!"
+T_ST_TITLE,Magic Info
+T_ST_WEAPON_RAKNING,Weapon Leaderboard
+T_ST_WEAPON_RANK,Most powerful weapon with this Magic
+T_ST_WORLD,WORLD MAGIC
+T_STAY_D,Gain a gem after staying still for a while
+T_STAY_N,Gain Gems by staying still
+T_STORE2,Now! Time for battle!
+T_STOREHOUSE,Inventory
+T_STOREHOUSE_E,EQUIP
+T_STOREHOUSE_EMOJI,Emoji
+T_STOREHOUSE_EMOTE,Emote
+T_STOREHOUSE_R,REMOVE
+T_STOREHOUSE_RP,REPLACE
+T_STOREHOUSE_TITLE,Title
+T_STOREHOUSE_VICTORY,Victory Pose
+T_STORY1,I already know your name.Now You can create any character you want.
+T_SUMMONFIREPILLAR_D,Summon fire pillars at nearby locations
+T_SUMMONFIREPILLAR_N,Summon Fire Pillar
+T_SUMMONGHOST_D,Summon an auto-tracking ghost that explodes upon contact with an enemy
+T_SUMMONGHOST_N,Summon ghost
+T_SUMMONLIGHTNING_D,Release multiple lightning strikes around you
+T_SUMMONLIGHTNING_N,Summon Lightning
+T_SUMMONROLLINGSTONE_D,"Summon a rolling boulder forward, damaging enemies it hits"
+T_SUMMONROLLINGSTONE_N,Summon Rolling Stone
+T_TEAM_A_LEFT,{0} has left the squad
+T_TEAM_DISBANDED,Squad Disbanded
+T_TEAM_EXCEEDED,Squad is full
+T_TEAM_FULL,Squad is full
+T_TEAM_INGAME,Currently in a game
+T_TEAM_INTEAM,In a squad
+T_TEAM_INVITATION,Squad invitation sent
+T_TEAM_INVITE,{0} invited you to join his squad
+T_TEAM_JOIN,You have joined the squad
+T_TEAM_JOIN_NEW,A new player has joined the squad
+T_TEAM_KICKOUT,Kick out
+T_TEAM_KICKOUT_CONFIRM,Confirm to kick {0} out?
+T_TEAM_LEAVE,You are in a squad - confirm leaving?
+T_TEAM_LEAVE_CONFIRM,Confirm leaving the squad?
+T_TEAM_LEFT,You have left the squad
+T_TEAM_NEWFRIEND,Add Friend
+T_TEAM_OFFLINE,Offline
+T_TEAM_ONLINE,Online
+T_TEAM_SEARCH_FRIEND,Input user name to search...
+T_TEAM_UNABLE,Unable to invite this friend to squad
+T_TELEPORT_D,"Teleport yourself to the target location, causing damage to the landing point"
+T_TELEPORT_N,flash teleport
+T_TEXTLIMIT,Continue to upgrade your magic to gain the ability to input more characters.
+T_THIEF_D,Steal Gems carried by the targets hit
+T_THIEF_N,Gem Bandit
+T_TIPS_BACKLOBBY,Would you like to bring all the materials back to the lobby?
+T_TIPS_BACKLOBBY_WARNING,This will overwrite your current selection
+T_TIPS_INFO,INFORMATION
+T_TITLE_AMMONUM,Bullet Baron
+T_TITLE_ATTRACT,Magnet Lord
+T_TITLE_AUTO_FIRE,The Automatic
+T_TITLE_BLOOD_RAGE,Scarlet Fury
+T_TITLE_BOUNCE,Deflector
+T_TITLE_BULLET_ABSORB,Life Leech
+T_TITLE_BULLET_BOUNCE,Ricochet Master
+T_TITLE_BULLETENLARGE,Big Bang
+T_TITLE_BURN,Inferno Lord
+T_TITLE_CHARACTER_SKILLS,Character Magic
+T_TITLE_CHARGED_DAMAGE,Power Surge
+T_TITLE_CHEST_BOT_DAMAGE,Fortune's Wrath
+T_TITLE_DAMAGE_REDUCTION,Ironclad Defender
+T_TITLE_DAMAGE_SPEED,Fury Sprinter
+T_TITLE_DAMAGE1,One-Shot Wonder
+T_TITLE_DARKEN,Tunnel Vision
+T_TITLE_DASH,Sharp Dasher
+T_TITLE_DIZZY,The Flashbang
+T_TITLE_ENLARGE,Titan's Wrath
+T_TITLE_EXPLOSION,Blast King
+T_TITLE_FIREINTERVAL1,Rapid Shooter
+T_TITLE_FOOT_BURN,Flame Walker
+T_TITLE_FREEZE,Glacier Warden
+T_TITLE_GEM_EFFECT_DOUBLE,Gem Greed
+T_TITLE_GEM_RANGE,Gem Magnet
+T_TITLE_GRASS,Chameleon
+T_TITLE_HEALTH_BOOST,Sheer Strength
+T_TITLE_HOMING,Heatseeker
+T_TITLE_INVINCIBLE,The Immortal
+T_TITLE_INVISIBLE,Shadow Warrior
+T_TITLE_LIFESTEAL,Bloodsucker
+T_TITLE_LIGHTNING,Thunderstrike
+T_TITLE_MOVE_GEM,Gem Seeker
+T_TITLE_OUT_OF_COMBAT_HEAL,Resurgence
+T_TITLE_OUT_OF_COMBAT_SPEED,Afterburner
+T_TITLE_PENATRATION,Soul Piercer
+T_TITLE_POISON,Toxic Avenger
+T_TITLE_RANGE,Eternal Marksman
+T_TITLE_RELOADTIME1,Swift Reload
+T_TITLE_REPEL,Repeller
+T_TITLE_SHINRA_TENSEI,Force Manipulator
+T_TITLE_SHORTSIGHT,Shortsight Doctor
+T_TITLE_SHRINK,Mighty Shrinker
+T_TITLE_SLIDE,Fury Dasher
+T_TITLE_SLOW,Momentum Snatcher
+T_TITLE_SPEED,Bullet Speedster
+T_TITLE_SPEED_BOOST,Flash Runner
+T_TITLE_SPLIT,Ultimate Splitter
+T_TITLE_STATIONARY_GEM,Still Sentinel
+T_TITLE_SUMMON_BOULDER,Rockfall Lord
+T_TITLE_SUMMON_FIRE_COLUMN,Inferno Conduit
+T_TITLE_SUMMON_GHOST,Phantom Caller
+T_TITLE_SUMMON_LIGHTNING,Mighty Thor
+T_TITLE_THIEF,Gem Raider
+T_TITLE_TOUCH_FREEZE,Frostbite
+T_TITLE_TOUCH_POISON,Venomous Touch
+T_TITLE_TRANSFORM,Shapeshifter
+T_TITLE_WEAPON_SKILLS,Weapon Magic
+T_TRACING_BULLETS,Bullets track enemies
+T_TRAJECTORY_DESC,Bullets curve in flight
+T_TRANSFORMATION,"Transform the enemies and disable their ability to shoot; but increase their movement speed, and allowing them to charge into others"
+T_TRAP_D,Place a ground spike trap; anyone passing over it will take damage
+T_TRAP_N,Trap
+T_TUO_MISSIONFINISH,"These tasks have been completed, go and claim the prize!"
+T_TUO_UPGRADEDETAIL,Click to see how powerful you will be <color=#CE2121><b>after upgrading! </b></color>
+T_TUTORAL_CONGRAT,Good job! Onto the next trial.
+T_TUTORIAL_01,Collect Gems from loot boxes
+T_TUTORIAL_02,"Kill enemies, raid their Gems"
+T_TUTORIAL_03,Dreamer with most Gems wins!
+T_TUTORIAL_04,Battle!
+T_TUTORIAL_CHANGECHA,"So cool! Whenever you generate a <color=#CE2121><b>new weapon</b></color> in the future, you can come here and test its effects!\nNow let’s play something even more <color=#CE2121><b>exciting</b></color>!"
+T_TUTORIAL_END,You’ve mastered all magical abilities. Use your imagination to become the strongest warrior in the kingdom!
+T_TUTORIAL_FIRSTTRY,Go and test how powerful my spell is!
+T_TUTORIAL_GOPVP,"Follow the task guide and participate in matches!\n<color=#CE2121><b>The more you fight, the more you generate, and the stronger you’ll become!</b></color>"
+T_TUTORIAL_GOUP,Click here to see how <color=#CE2121><b>powerful</b></color> you will become in the future!
+T_TUTORIAL_INTRO,"Hmm, I’ve heard of you. \n Warrior, create your own weapon and join the battle for my <color=#CE2121><b>Mightiest Warrior</b></color>!"
+T_TUTORIAL_KILLBOT,"There will be a training dummy on the right, use him to test how powerful your weapon is!"
+T_TUTORIAL_KILLBOTS,Go and try it!
+T_TUTORIAL_KNOWLEDGESLICE,"These are knowledge fragments, which will be distributed after each match based on your performance.\n<color=#CE2121><b>The higher your ranking, the more knowledge fragments you’ll receive!</b></color>"
+T_TUTORIAL_NEXTGEN,"Whenever you have a new idea, come back and create it!"
+T_TUTORIAL_STARTBUTTON,Click here to battle for the mightiest warrior! I can't wait to see you in action!
+T_TUTORIAL_TAPSHOOT,"Here’s a secret tip: tap the ""Fire"" button to auto-aim and attack the nearest target. Try it out!"
+T_TUTORIAL_TIPSNEW,Try out the new little tricks!
+T_TUTORIAL_TITLE,Tutorial
+T_TUTORIALNEW_2,"Listen up! My secret spell is just for you - 'Fire Dragon’ - try it, and prepare to be amazed!"
+T_TUTORIALNEW_M_1,Dream Book! Follow the clues and you'll become an invincible warrior!
+T_TUTORIALNEW_M_2,Your current goal is to play three exciting games! Only one game left! Go and try it!
+T_TUTORIALNEW_M_3,Return to lobby and check out what you found!
+T_TUTORIALNEW_MV,Slide the left joystick to move in different directions
+T_TUTORIALNEW_RL_1,Click this button to explore the many cool features yourself!
+T_TUTORIALNEW_RL_2,"You can claim rewards here - more matches you play, bigger rewards you get!"
+T_TUTORIALNEW_RO_1,"You are now a weapon master! Now, create your own character!"
+T_TUTORIALNEW_RO_2,Unleash your creativity - in DayDream you can get any character you dream of!
+T_TUTORIALNEW_RO_3,Hang on a moment - your own character is about to make an entrance!
+T_TUTORIALNEW_RO_4,"Step into a real battle, and see if your character is cool indeed!"
+T_TUTORIALNEW_ST,Slide the right joystick to aim; then release it to fire!
+T_TUTORIALNEW_WP_1,"There is a treasure chest on the right. If you look closer, you may find something unexpected."
+T_TUTORIALNEW_WP_1_S,Go check out the treasure chest above
+T_TUTORIALNEW_WP_2,Pick up your weapon and fire at the ches - maybe it hides my riches!
+T_TUTORIALNEW_WP_2_S,Break the chest!
+T_TUTORIALNEW_WP_3,"Oh! Indeed my Gem.. Grab it quickly and hide it, you don't want anyone else to find it"
+T_TUTORIALNEW_WP_3_S,Pick up the Gems
+T_TUTORIALNEW_WP_4,"There are 3 treasure chests here, go and grab all the gems [0#emoji_3] inside! "
+T_TUTORIALNEW_WP_4_S,You still need to pick up {0} Gems
+T_TUTORIALNEW_WP_5,You could only use my powerful weapon ONCE! Now it's your turn
+T_TUTORIALNEW_WP_6,Unleash your creativity and create a weapon that's truly YOURS!
+T_TUTORIALNEW_WP_7,"Hold on a moment, your magic is charging...Get ready to see your own weapon!"
+T_TUTORIALNEW_WP_8,<color=#CE2121><b>Player with the most Gems wins!</b></color> \n Jump into a real battle NOW!
+T_TUTORIALNEW_WP_9,Conquer the battle with your own weapon! I can only imagine how EPIC it'll be!
+T_UNINSPIRED,Uninspired
+T_UP_CON,Upgrade Conditions
+T_UPC_D_1,First glimpse of the door!
+T_UPC_D_2,Look how strong I am!
+T_UPC_D_3,I can generate anything I want!
+T_UPC_T_1,warrior dreamer
+T_UPC_T_2,aristocratic dreamer
+T_UPC_T_3,Tech Visionary
+T_UPW_D_1,"Ice dragon gun, freezes everything"
+T_UPW_D_2,The perfect combination of thunder and power
+T_UPW_D_3,Burn them all!
+T_UPW_DEFAULT_C,"Super powerful fire dragon gun, burning and causing a lot of damage"
+T_UPW_DEFAULT_T,Super powerful fire dragon gun
+T_UPW_T_1,ice dragon
+T_UPW_T_2,Thor's Hammer
+T_UPW_T_3,High-tech flamethrower
+T_WAY_OBTAIN,Way to obtain
+T_WEAPON,Weapon:
+T_WEAPON_ATTRIBUTE,Weapon Attribute
+T_WEAPON_MAGIC_TIPS,"Create more, and explore different weapon magics!"
+T_WEAPON_N,Weapon
+T_WEAPON_RANKLEVEL,King's judgment:
+T_WEAPONGENERATE_D,Consumed when creating weapons
+T_WEAPONGENERATE_N,Weapon ticket
+T_WEAPONLOAD,Weapon loading...
+T_WEAPONSLOT_D,Unlocks a slot for weapon creation
+T_WEAPONSLOT_N,Weapon slot
+TXT_1ST,1ST
+TXT_2ND,2ND
+TXT_3RD,3RD
+TXT_4TH,4TH
+TXT_5TH,5TH
+TXT_6TH,6TH
+TXT_CREATED_BY,Created by {0}
+TXT_CREATED_BY0,Created by
+TXT_CREATION_CONFIRM_2,It will arrive in no time!
+TXT_CREATION_MSG_1,Cast some magic!
+TXT_CREATION_TITLE_MAP,Create your arena
+TXT_CREATION_TITLE_WEAPON,Create your weapon
+TXT_CREATION_WAIT,Crafting...
+TXT_EXCLUSIVE_LANDMARK,Come and see my eclusive landmark!
+TXT_EXCLUSIVE_WEAPON,My creation is superior! We must use my weapon instead!
+TXT_GENERATION_BIG_TITLE,GENERATION STARTS
+TXT_GENERATION_DONE_MAP_1,Welcome to the arena by {0} and {0}!
+TXT_GENERATION_DONE_MAP_2_PROMPT,"""{0}"""
+TXT_GENERATION_DONE_WEAPON_1,Try out the weapon by <color=#FEBF53>{0}</color> now!
+TXT_GENERATION_DONE_WEAPON_2_PROMPT,"""{0}"""
+TXT_GENERATION_MSG_BOTTOM,"Walk around, and see magic unfold!"
+TXT_GENERATION_MSG_TOP,PROGRESS: {0}%
+TXT_LANDMARK,Landmark made by {0} is deployed!
+TXT_LEFT_PLAYERS,Remaining players: {0}
+TXT_LIKE_TITLE,Which is your favorite?
+TXT_LOADINGGAME_DES,Entering the arena
+TXT_MESSAGEBOX_CANCEL,Cancel
+TXT_MESSAGEBOX_CONFIRM,CONFIRM
+TXT_MESSAGEBOX_ERROR,ERROR
+TXT_MESSAGEBOX_INFO,INFORMATION
+TXT_MESSAGEBOX_NO,NO
+TXT_MESSAGEBOX_OK,OK
+TXT_MESSAGEBOX_REWARD,Reward
+TXT_MESSAGEBOX_REWARD_CONFIRM,Confirm
+TXT_MESSAGEBOX_SUGGESTION,SUGGESTION
+TXT_MESSAGEBOX_WARNING,WARNING
+TXT_MESSAGEBOX_YES,YES
+TXT_NAMEDES,User Name:
+TXT_NEXT,Next
+TXT_OBSERVING_INFO,Observing...
+TXT_RESTART_GAME,Please restart game to apply language change
+TXT_ROLE_MAP_CREATOR,ARENA MASTER
+TXT_ROLE_TITLE,I hereby appoint you as
+TXT_ROLE_WEAPON_CREATOR,WEAPON MASTER
+TXT_SAFEZONE_DES,Safe zone shrinking in
+TXT_SHRINK_SAFEZONE,Safe Zone Shrinking
+TXT_START,Start
+TXT_STORY_1,"Dreamers, this is your game!"
+TXT_STORY_2,Your fate shall be determined by your very own creation! \nCompete and survive for the grand reward!
+TXT_TAP_CLOSE,Tap to close
+TXT_TAP_CONTINUE,Tap to Continue
+TXT_TAP_SKIP,Tap to skip
+TXT_TRANING,TRAINING
+TXT_TRYOUT_WEAPON,Try out the weapon by {0} now!

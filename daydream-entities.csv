@@ -1,0 +1,1130 @@
+﻿Key,Content,Content(English)_update_time,Word Count,Context,Original,Original(Chinese Simplified)_update_time
+Account_DirtyName,Name contains inappropriate language,2025-01-20 08:11:27,40,名字中存在不合规用词,名称包含不当语言,2025-03-26 08:46:39
+Account_Invalid_Reward_Line,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:36
+Account_Reward_Line_Had_Rewarded,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:31
+Account_Reward_Line_Not_Finished,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:43
+AI_Arena_Empty_BluePrints,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:28
+AI_Arena_Empty_GameContext,Error_Arena_Empty,2025-01-20 08:11:27,120,"If you encounter any issues, please join our Discord server to provide feedback",竞技场空置中,2025-03-26 08:46:42
+AI_Arena_Not_Exist,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:38
+AI_Char_Empty_BluePrints,Sorry! We are unable to generate a character with your prompt; ticket will be returned,2025-01-20 08:11:27,90,你的词暂时无法生成有效内容，将会退回次数,抱歉！无法根据您的提示生成角色；票券将被退回,2025-03-26 08:46:34
+AI_Char_Empty_GameContext,Error_Character_Empty,2025-01-20 08:11:27,79,"If you encounter any issues, please join our Discord server to provide feedback",角色名称不能为空,2025-03-26 08:46:32
+AI_CHARACTER_NOT_EXIST,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:37
+AI_Character_Slot_Already_Exist,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:30
+AI_Create_Invalid_Price,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:40
+AI_Ethical_Or_Profanity,"The input contains sensitive words, please try another one!",2025-05-13 08:46:51,100,"The input contains sensitive words, please try another one!",输入包含敏感词， 换一个再试试吧！ ,2025-05-13 08:46:51
+AI_Invalid_AI_Item,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:43
+AI_Invalid_Arena_Loot_Slot_ID,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:38
+AI_Invalid_Desc,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:40
+AI_Invalid_Match,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",2025-01-20 08:08:10,216,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",糟糕！发生错误！请加入我们的<color=#5165F6><b>Discord</b></color>伺服器来报告错误{0},2025-03-26 08:46:34
+AI_Invalid_Price,"Price has changed, please quit and enter this page again",2025-01-20 08:11:27,60,价格已更改，请重启之后再尝试,价格已变动，请退出并重新进入此页面,2025-03-26 08:46:42
+AI_Invalid_Request,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:38
+AI_Invalid_Weapon_Loot_Slot_ID,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:43
+AI_IS_CREATING,Slot is in crafting queue,2025-01-20 08:11:28,25,创作槽位已经在等待中,栏位已在创作队列中,2025-03-26 08:46:30
+AI_Map_Slot_Already_Exist,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:28
+AI_NotEnough_Character_CreateCnt,Error! Not enough character creation opportunity,2025-01-20 08:11:28,79,"If you encounter any issues, please join our Discord server to provide feedback",错误！角色创建机会不足,2025-03-26 08:46:43
+AI_NotEnough_Character_Slot,Error! Not enough character slot,2025-01-20 08:11:28,79,"If you encounter any issues, please join our Discord server to provide feedback",错误！角色栏位不足,2025-03-26 08:46:38
+AI_NotEnough_Map_CreateCnt,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:37
+AI_NotEnough_Map_Slot,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:27
+AI_NotEnough_Weapon_CreateCnt,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:29
+AI_NotEnough_Weapon_Slot,Error! Not enough weapon creation slot,2025-01-20 08:11:28,79,"If you encounter any issues, please join our Discord server to provide feedback",错误！武器创建栏位不足,2025-03-26 08:46:43
+AI_SLOT_NOT_Exist,Error! AI creation slot does not exist,2025-01-20 08:11:28,79,"If you encounter any issues, please join our Discord server to provide feedback",错误！ AI创建栏位不存在,2025-03-26 08:46:36
+AI_SLOT_NOT_VALID,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:38
+AI_Unknown_Error,"Sorry Dreamer! AI doesn't understand your input yet, try something different!",2025-01-20 08:11:28,80,你的创意AI还不能理解！ 试着生成点别的吧！ ,抱歉，梦想家！ AI 暂时无法理解你的提示，试试其他东西吧！,2025-03-26 08:46:30
+AI_Weapon_Empty_BluePrints,Sorry! We are unable to generate a weapon with your prompt; ticket will be returned,2025-01-20 08:11:28,90,你的词暂时无法生成有效内容，将会退回次数,抱歉！无法根据您的提示生成武器；票券将被退回,2025-03-26 08:46:32
+AI_Weapon_Empty_GameContext,Error_Weapon_Empty,2025-01-20 08:11:28,80,"If you encounter any issues, please join our Discord server to provide feedback",武器空置中,2025-03-26 08:46:34
+AI_Weapon_Not_Exist,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:34
+AI_Weapon_Slot_Already_Exist,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:37
+AI_Wish_Not_Clear,Sorry! We are unable to generate with your prompt; ticket will be returned,2025-01-20 08:11:28,80,你的词暂时无法生成有效内容，将会退回次数,抱歉！无法根据您的提示生成内容；票券将被退回,2025-03-26 08:46:29
+ErrCode_ALREADYINGROUP,Already in squad,2025-01-20 08:11:28,22,已经在群组中,已加入小队,2025-03-26 08:46:35
+ErrCode_ALREADYINMATCHMAKING,"If you encounter any issues, please join our Discord server to provide feedback.2",2025-01-20 08:11:28,81,,如果您遇到任何问题，请加入我们的Discord伺服器提供反馈。 2,2025-03-26 08:46:28
+ErrCode_ALREADYINVITED,Already invited,2025-01-20 08:11:28,20,已经被邀请,已邀请,2025-03-26 08:46:42
+ErrCode_AUTOGROUPTIMEOUT,Auto team-up timed out,2025-01-20 08:11:28,22,自动组队超时,自动队伍组建超时,2025-03-26 08:46:31
+ErrCode_CANNOTINVITEOTHERREGION,Unable to invite Dreamers from other regions,2025-01-20 08:11:28,45,无法邀请其他区域的用户,无法邀请其他地区的梦想家,2025-03-26 08:46:29
+ErrCode_CANNOTINVITESELF,Unable to invite yourself,2025-01-20 08:11:28,30,无法邀请自己,无法邀请自己,2025-03-26 08:46:32
+ErrCode_CANNOTKICKSELF,Unable to kick yourself out,2025-01-20 08:11:28,35,无法将自己踢出,无法将自己踢出,2025-03-26 08:46:34
+ErrCode_Common,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",2025-01-20 08:11:28,103,,Oops，发生错误！请加入我们的<color=#5165F6><b>Discord</b></color>伺服器来报告错误{0},2025-03-26 08:46:41
+ErrCode_CREATCHAR_FAIL,"If you encounter any issues, please join our Discord server to provide feedback.",2025-01-20 08:11:28,80,,如果您遇到任何问题，请加入我们的Discord伺服器提供反馈。,2025-03-26 08:46:28
+ErrCode_CREATEGROUPFAIL,Fail to start squad,2025-01-20 08:11:28,22,创建群组失败,无法创建小队,2025-03-26 08:46:41
+ErrCode_CREATEPLAYERFAIL,Failed to create character,2025-01-20 08:11:28,22,创建玩家失败,创建角色失败,2025-03-26 08:46:28
+ErrCode_DIFFERENTGROUPS,Different squad,2025-01-20 08:11:28,20,不同的群组,不同小队,2025-03-26 08:46:30
+ErrCode_GROUPEXISTED,Squad already exists,2025-01-20 08:11:28,20,群组已存在,小队已经存在,2025-03-26 08:46:33
+ErrCode_GROUPINGAME,Unable to matchmake as squad member still in game,2025-01-20 08:11:28,50,还有组员在局内 ，无法开始匹配,无法进行配对，因为队伍成员仍在游戏中,2025-03-26 08:46:43
+ErrCode_GROUPNOTIDLEFORBIDCHANGEMODE,Unable to switch mode as squad member still in game,2025-01-20 08:11:28,60,还有组员在局内 ，无法切换模式,无法切换模式，因为队伍成员仍在游戏中,2025-03-26 08:46:37
+ErrCode_GROUPNOTINGAME,Squad not in game,2025-01-20 08:11:29,24,群组未在游戏中,小队不在游戏中,2025-03-26 08:46:38
+ErrCode_INVALIDGROUPMODE,Squad mode invalid,2025-01-20 08:11:29,22,群组模式无效,小队模式无效,2025-03-26 08:46:40
+ErrCode_INVITEEALREADYINGAME,Invitee currently in a game,2025-01-20 08:11:29,30,被邀请人已经在游戏中,受邀者目前正在游戏中,2025-03-26 08:46:36
+ErrCode_INVITEEALREADYINGROUP,Invitee already in squad,2025-01-20 08:11:29,30,被邀请人已经在群组中,受邀者已在小队中,2025-03-26 08:46:37
+ErrCode_INVITEEALREADYOFFLINE,Invitee is offline,2025-01-20 08:11:29,26,被邀请人已经离线,被邀请者目前离线,2025-03-26 08:46:40
+ErrCode_JOINERALREADYINGROUP,Joined Dreamer already in squad,2025-01-20 08:11:29,40,加入者已经在群组中,梦想家已在队伍中,2025-03-26 08:46:34
+ErrCode_LOGINGAMESERVERTIMEOUT,"If you encounter any issues, please join our Discord server to provide feedback.5",2025-01-20 08:11:29,81,,如果您遇到任何问题，请加入我们的Discord伺服器提供反馈。 5,2025-03-26 08:46:41
+ErrCode_MATCHMAKING_FAIL,Matchmaking failed,2025-01-20 08:11:29,18,匹配失败,配对失败,2025-03-26 08:46:28
+ErrCode_MMTIMEOUT,"If you encounter any issues, please join our Discord server to provide feedback.",2025-01-20 08:11:29,80,,如果您遇到任何问题，请加入我们的Discord伺服器提供反馈。,2025-03-26 08:46:32
+ErrCode_NETWORKISSUE,Network Error!,2025-01-20 08:11:29,15,,网路错误！,2025-03-26 08:46:30
+ErrCode_NOGAMESERVERAVAILABLE,"If you encounter any issues, please join our Discord server to provide feedback.4",2025-01-20 08:11:29,81,,如果您遇到任何问题，请加入我们的Discord伺服器提供反馈。 4,2025-03-26 08:46:41
+ErrCode_NOGROUP,No squad,2025-01-20 08:11:29,18,没有群组,无小队,2025-03-26 08:46:28
+ErrCode_NOSUCHPOOL,No such pool,2025-01-20 08:11:29,22,没有这样的池,没有这个池,2025-03-26 08:46:35
+ErrCode_NOTGROUPCAPTAIN,Not squad captain,2025-01-20 08:11:29,22,不是群组队长,非小队队长,2025-03-26 08:46:41
+ErrCode_NOTINGROUP,Not in squad,2025-01-20 08:11:29,20,不在群组中,不在小队中,2025-03-26 08:46:40
+ErrCode_REACHMAXINVITEE,Invitation limit reached,2025-01-20 08:11:29,26,达到邀请人数上限,已达邀请上限,2025-03-26 08:46:37
+ErrCode_REACHMAXMEMBER,Squad member limit reached,2025-01-20 08:11:29,26,达到群组成员上限,已达小队成员上限,2025-03-26 08:46:31
+FRIEND_ALREADY_INPUT_INVITER,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:36
+FRIEND_ALREADY_SENT_REQUEST,Friend request sent,2025-01-20 08:11:29,30,已经发送了好友申请,好友邀请已送出,2025-03-26 08:46:33
+FRIEND_BLOCK_MAX_COUNT,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:40
+FRIEND_CAN_NOT_INVITE_SELF,Unable to invite yourself,2025-01-20 08:11:29,30,无法邀请自己,无法邀请自己,2025-03-26 08:46:29
+FRIEND_DUPLICATE,Friends cannot be added repeatedly,2025-01-20 08:11:29,79,不可重复添加好友,好友不能重复添加,2025-03-26 08:46:35
+FRIEND_FRIEND_INVALID_CONFIG,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:32
+FRIEND_INVALID_ACCOUNT,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:30
+FRIEND_LEVEL_NOT_ENOUGH,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:30
+FRIEND_MAX_COUNT,Max no. of friends reached,2025-01-20 08:11:29,30,好友达到上限,好友数量已达上限,2025-03-26 08:46:34
+FRIEND_MAX_COUNT_OTHERS,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:35
+FRIEND_MAX_REQUEST,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:28
+FRIEND_NO_ENOUGH_ITEM,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:38
+FRIEND_NO_REQUEST,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:41
+FRIEND_NOT_FOUND,Friend not found,2025-01-20 08:11:29,20,没有找到好友,好友未找到,2025-03-26 08:46:37
+FRIEND_NOT_IN_SAME_REGION,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:32
+FRIEND_NOT_RETURN_PLAYER,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:36
+FRIEND_NOT_SAME_REGION,Error! Friend not in same region,2025-01-20 08:11:29,79,"If you encounter any issues, please join our Discord server to provide feedback",错误！好友不在同一地区,2025-03-26 08:46:30
+FRIEND_SELF,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:36
+INVENTORY_CHARACTER_NOT_EXISTS,"If you encounter any issues, please join our Discord server to provide feedback.1",2025-01-20 08:11:29,81,,如果您遇到任何问题，请加入我们的Discord伺服器提供反馈。 1,2025-03-26 08:46:32
+INVENTORY_INVALID_ITEM,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:30
+INVENTORY_INVALID_PARAMS,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:31
+INVENTORY_ITEM_ALREADY_EXPIRED,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:33
+INVENTORY_NEGATIVE_GEMS,Error! Negative Gem,2025-01-20 08:11:30,79,"If you encounter any issues, please join our Discord server to provide feedback",错误！宝石数量为负数,2025-03-26 08:46:40
+INVENTORY_NOT_ENOUGH_COINS,Insufficient coins,2025-01-20 08:11:30,20,没有足够的金币,金币不足,2025-03-26 08:46:34
+INVENTORY_NOT_ENOUGH_GEMS,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:37
+INVENTORY_NOT_ENOUGH_ITEMS,Insufficient items,2025-01-20 08:11:30,25,没有足够的道具,物品不足,2025-03-26 08:46:34
+INVENTORY_PURCHASE_FAIL,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:28
+SERVER_INTERNAL_EXCEPTION,"If you encounter any issues, please join our Discord server to provide feedback",2025-01-20 08:08:10,79,"If you encounter any issues, please join our Discord server to provide feedback",如果您遇到任何问题，请加入我们的Discord伺服器提供反馈,2025-03-26 08:46:42
+Stats_Invalid_Match,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",2025-01-20 08:08:10,216,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",Oops，发生错误！请加入我们的<color=#5165F6><b>Discord</b></color>伺服器来报告错误{0},2025-03-26 08:46:38
+Stats_Invalid_Price,"The price has changed, please restart and try again",2025-01-20 08:11:30,55,价格已更改，请重启之后再尝试,价格已变动，请重新启动并再试一次,2025-03-26 08:46:43
+Stats_Invalid_Region,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",2025-01-20 08:08:10,216,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",Oops，发生错误！请加入我们的<color=#5165F6><b>Discord</b></color>伺服器来报告错误{0},2025-03-26 08:46:32
+Stats_Invalid_Request_Param,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",2025-01-20 08:08:10,216,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",Oops，发生错误！请加入我们的<color=#5165F6><b>Discord</b></color>伺服器来报告错误{0},2025-03-26 08:46:38
+Stats_Update_Crown_Failed,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",2025-01-20 08:08:10,216,"Oops, error occurred! Please join our <color=#5165F6><b>Discord</b></color> server to report errors.{0}",Oops，发生错误！请加入我们的<color=#5165F6><b>Discord</b></color>伺服器来报告错误{0},2025-03-26 08:46:29
+T_ABOUTFEWMIN,Wait a little longer~,2025-04-22 10:35:34,20,,再稍等一会儿~,2025-04-22 10:35:34
+T_ACCOUNT,Account,2025-01-20 08:11:30,10,账号,帐号,2025-03-26 08:46:31
+T_ACHIEVED,Achieved,2025-01-20 08:11:30,12,已达到,达成,2025-03-26 08:46:30
+T_ACTION_ACT_COOL,Act Cool,2025-01-20 08:11:30,26,Act cool,装酷,2025-03-26 08:46:37
+T_ACTION_ACT_COOL_DESC,Strike a cool pose to show you’ve got it all together!,2025-03-26 08:46:47,76,Exude calm and confidence.,做出酷炫的姿势，展现你一切都在掌控之中！,2025-03-26 08:46:36
+T_ACTION_ANGRY,Angry,2025-01-20 08:08:10,20,Angry,愤怒,2025-03-26 08:46:38
+T_ACTION_ANGRY_D,Sooo Angry!,2025-01-20 08:11:30,30,太生气了,超级生气！,2025-03-26 08:46:31
+T_ACTION_ANGRY_DESC,Let your rage out!,2025-01-20 08:11:30,72,Expressing intense displeasure.,发泄你的怒火！,2025-03-26 08:46:42
+T_ACTION_CHEER_UP,Cheer up,2025-01-20 08:08:10,26,Cheer up,加油,2025-03-26 08:46:30
+T_ACTION_CHEER_UP_D,Stay positive!,2025-01-20 08:11:30,30,加油！ ,保持积极！,2025-03-26 08:46:42
+T_ACTION_CHEER_UP_DESC,Shake off the bad vibe and stay positive!,2025-01-20 08:11:30,56,Lift someone's spirits.,摆脱坏情绪，保持积极心态！,2025-03-26 08:46:34
+T_ACTION_CRY,Cry,2025-01-20 08:08:10,16,Cry,哭泣,2025-03-26 08:46:32
+T_ACTION_CRY_D,[crying...],2025-01-20 08:11:30,30,呜呜呜,呜呜呜,2025-03-26 08:46:33
+T_ACTION_CRY_DESC,Let out your tears with a soft cry..,2025-01-20 08:11:30,54,Express displeasure or frustration.,轻声哭泣..,2025-03-26 08:46:42
+T_ACTION_CRY_LOUDLY,Cry loudly,2025-01-20 08:08:10,30,Cry loudly,大声哭泣,2025-03-26 08:46:30
+T_ACTION_CRY_LOUDLY_D,Cry out loud..,2025-01-20 08:11:30,30,呜呜呜,大声哭出来..,2025-03-26 08:46:34
+T_ACTION_CRY_LOUDLY_DESC,Cry out loud,2025-01-20 08:11:30,72,Express sorrow with loud tears.,大声哭出来,2025-03-26 08:46:34
+T_ACTION_DANCE,Dance,2025-01-20 08:08:10,20,Dance,舞蹈,2025-03-26 08:46:40
+T_ACTION_DANCE_D,I learnt it in Hawaii,2025-01-20 08:11:30,30,我在夏威夷学的,我在夏威夷学的,2025-03-26 08:46:36
+T_ACTION_DANCE_DESC,Let the rhythm take over,2025-01-20 08:11:30,30,Move energetically to music.,让节奏掌控一切,2025-03-26 08:46:41
+T_ACTION_DISLIKE,Dislike,2025-01-20 08:08:10,24,Dislike,不喜欢,2025-03-26 08:46:30
+T_ACTION_DISLIKE_D,Nah I don't like it,2025-01-20 08:11:30,30,不喜欢就是不喜欢,就是不喜欢,2025-03-26 08:46:39
+T_ACTION_DISLIKE_DESC,Show your disapproval,2025-01-20 08:11:30,58,Show lack of fondness.,表达不满,2025-03-26 08:46:37
+T_ACTION_ENCOURAGE,Encourage,2025-01-20 08:08:10,28,Encourage,鼓励,2025-03-26 08:46:30
+T_ACTION_ENCOURAGE_DESC,Boost your team's morale,2025-01-20 08:11:31,28,Offer support or motivation.,提升你的队伍士气,2025-03-26 08:46:39
+T_ACTION_EVIL,Act evil,2025-01-20 08:11:31,18,Evil,作恶,2025-03-26 08:46:33
+T_ACTION_EVIL_D,Mischief time..,2025-01-20 08:11:31,30,嘿嘿， 干点坏事,恶作剧时间..,2025-03-26 08:46:32
+T_ACTION_EVIL_DESC,Give off an evil grin..,2025-01-20 08:11:31,70,Wicked or morally wrong.,露出邪恶的笑容..,2025-03-26 08:46:42
+T_ACTION_GLAD,Glad,2025-01-20 08:08:10,18,Glad,高兴,2025-03-26 08:46:32
+T_ACTION_GLAD_DESC,Express happiness!,2025-01-20 08:11:31,64,Experience pleasure or happiness.,表达快乐！,2025-03-26 08:46:40
+T_ACTION_GYMNASTICS,Gymnastics Move,2025-01-20 08:11:31,30,Gymnastics,体操动作,2025-03-26 08:46:35
+T_ACTION_GYMNASTICS_D,Look at me!,2025-01-20 08:11:31,30,看我帅吗？ ,看我！,2025-03-26 08:46:33
+T_ACTION_GYMNASTICS_DESC,Show off your acrobatic flair,2025-01-20 08:11:31,64,Perform athletic exercises.,展示你的空中特技,2025-03-26 08:46:31
+T_ACTION_HAPPY,Happy,2025-01-20 08:08:10,20,Happy,快乐,2025-03-26 08:46:38
+T_ACTION_HAPPY_D,Sooo happy!,2025-01-20 08:11:31,30,太开心了,超级开心！,2025-03-26 08:46:32
+T_ACTION_HAPPY_DESC,A cheerful gesture,2025-01-20 08:11:31,62,Feeling joyful or content.,欢快的姿势,2025-03-26 08:46:34
+T_ACTION_HELLO,Greet,2025-01-20 08:11:31,20,Hello,你好,2025-03-26 08:46:33
+T_ACTION_HELLO_D,Hey there!,2025-01-20 08:11:31,30,嗨！,你好！,2025-03-26 08:46:35
+T_ACTION_HELLO_DESC,A friendly greeting to everyone!,2025-01-20 08:11:31,68,A warm and friendly greeting.,跟所有人问好！,2025-03-26 08:46:29
+T_ACTION_LAUGH,Laugh,2025-01-20 08:08:10,20,Laugh,笑,2025-03-26 08:46:40
+T_ACTION_LAUGH_D,LOL,2025-01-20 08:11:31,30,哈哈哈哈哈,哈哈大笑,2025-03-26 08:46:36
+T_ACTION_LAUGH_DESC,"Share a hearty laugh, spread the joy!",2025-01-20 08:11:31,64,Express amusement with sound.,开怀大笑，传递快乐！,2025-03-26 08:46:33
+T_ACTION_LIKE,Like,2025-01-20 08:08:10,18,Like,喜欢,2025-03-26 08:46:28
+T_ACTION_LIKE_D,Love it!!,2025-01-20 08:11:31,30,好喜欢啊,超爱！ ！,2025-03-26 08:46:39
+T_ACTION_LIKE_DESC,I think I really like it!,2025-01-20 08:11:31,74,Feel fondness or appreciation.,我我真的很喜欢它！,2025-03-26 08:46:36
+T_ACTION_MAKE_FACES,Goofy Look,2025-01-20 08:11:31,30,Make faces,笨拙模样,2025-03-26 08:46:38
+T_ACTION_MAKE_FACES_DESC,Pull a funny face,2025-01-20 08:11:31,76,Contort face playfully or expressively.,做个搞笑的表情,2025-03-26 08:46:36
+T_ACTION_MOCK,Mock,2025-01-20 08:08:10,18,Mock,嘲讽,2025-03-26 08:46:28
+T_ACTION_MOCK_D,You so bad at the game!,2025-01-20 08:11:31,30,哈哈哈哈 真菜,你真菜！,2025-03-26 08:46:31
+T_ACTION_MOCK_DESC,"Mock your rivals, show no mercy!",2025-01-20 08:11:31,54,Ridicule by imitation.,嘲讽你的对手，不要手下留情！,2025-03-26 08:46:35
+T_ACTION_SALUTE,Salute,2025-01-20 08:08:10,22,Salute,敬礼,2025-03-26 08:46:32
+T_ACTION_SALUTE_D,Salute!,2025-01-20 08:11:31,30,salute！,敬礼！,2025-03-26 08:46:29
+T_ACTION_SALUTE_DESC,Pay respect,2025-01-20 08:11:31,76,A gesture of respect or greeting.,表示敬意,2025-03-26 08:46:29
+T_ACTION_SIGH,Sigh,2025-01-20 08:08:10,18,Sigh,唉,2025-03-26 08:46:37
+T_ACTION_SIGH_D,Sigh...,2025-01-20 08:11:31,30,诶！ ,唉...,2025-03-26 08:46:39
+T_ACTION_SIGH_DESC,Are you feeling frustrated?,2025-01-20 08:11:31,68,Release a long breath of relief.,你感到沮丧吗？,2025-03-26 08:46:29
+T_ACTION_SOMERSAULT,Flip,2025-01-20 08:11:32,30,Somersault,翻转,2025-03-26 08:46:32
+T_ACTION_SOMERSAULT_D,Feel like doing a flip?,2025-01-20 08:11:32,30,翻个跟头,想做个翻转吗？,2025-03-26 08:46:43
+T_ACTION_SOMERSAULT_DESC,Feel like doing a flip?,2025-01-20 08:11:32,64,A complete flip in the air.,想做个翻转吗？,2025-03-26 08:46:37
+T_ACTION_STREET_DANCE,Sreet dance,2025-01-20 08:11:32,34,Street dance,街头舞,2025-03-26 08:46:42
+T_ACTION_STREET_DANCE_DESC,Feel like breaking out some smooth dance moves?,2025-01-20 08:11:32,88,"Urban, expressive dance style.",想跳一跳舞吗？,2025-03-26 08:46:32
+T_ACTION_TAUNT,Taunting,2025-01-20 08:11:32,20,Taunt,挑衅,2025-03-26 08:46:27
+T_ACTION_TAUNT_D,Cheeky gesture,2025-01-20 08:11:32,30,略略略,俏皮的姿势,2025-03-26 08:46:39
+T_ACTION_TAUNT_DESC,Taunt your enemies with a cheeky gesture!,2025-01-20 08:11:32,62,Tease or provoke playfully.,嘲讽你的敌人！,2025-03-26 08:46:38
+T_ACTION_WAVE,Wave,2025-01-20 08:08:10,18,Wave,挥手,2025-03-26 08:46:35
+T_ACTION_WAVE_DESC,A friendly wave to greet everyone,2025-01-20 08:11:32,70,Gesture with hand to greet.,向大家挥手,2025-03-26 08:46:36
+T_ACTION_WIGGLE,Wiggle,2025-01-20 08:08:10,22,Wiggle,摇摆,2025-03-26 08:46:29
+T_ACTION_WIGGLE_DESC,See me wiggle a little,2025-01-20 08:11:32,66,Shake or move with small motions.,看我摆动,2025-03-26 08:46:32
+T_ACTIVITY_BT1,Play in 3 intense battles,2025-03-20 15:46:46,50,,来3场紧张刺激的对局吧,2025-03-26 08:46:46
+T_ACTIVITY_BT2,Complete 5 Gem Blitz battles,2025-03-20 15:40:44,50,我按照模式名改了,完成5场PVP对战,2025-03-26 08:46:45
+T_ACTIVITY_CH1,Create your own character!,2025-03-20 15:44:10,50,,生成一个你的专属角色！,2025-03-26 08:46:45
+T_ACTIVITY_CH2,Explore 3 new character magic,2025-03-20 15:45:09,50,,探索3个全新角色技能,2025-03-26 08:46:45
+T_ACTIVITY_KN1,Obtain 20 Era Runes,2025-03-20 15:45:27,50,现在是不是不叫年代碎片了？,获得20个知识碎片,2025-03-26 08:46:45
+T_ACTIVITY_LOGIN,Welcome to DayDream!,2025-03-20 06:38:30,50,,欢迎来到DayDream！,2025-03-26 08:46:45
+T_ACTIVITY_LOGIN2,Come back to DayDream tomorrow!,2025-03-20 15:44:01,50,,明天再登录DayDream吧！,2025-03-26 08:46:45
+T_ACTIVITY_MAP1,Create your own arena,2025-03-20 15:45:38,50,,生成一张自己的地图,2025-03-26 08:46:45
+T_ACTIVITY_PVE1,Complete Dungeon Rush (Novice),2025-03-20 15:47:30,50,按照模式名字+难度改了,完成PVE第一关,2025-03-26 08:46:46
+T_ACTIVITY_WP1,Explore weapon creation once,2025-03-20 06:38:29,50,,探索1次武器生成,2025-03-26 08:46:45
+T_ACTIVITY_WP2,Explore 5 new weapon magic,2025-03-20 15:45:34,50,,探索5个全新武器技能,2025-03-26 08:46:45
+T_AIRWAVE_D,Fire a penetrating wave of energy,2025-03-20 06:38:28,30,,发射一个能穿透的气波,2025-03-26 08:46:44
+T_AIRWAVE_N,Qi Wave,2025-03-20 06:38:28,16,,气功波,2025-03-26 08:46:44
+T_ATTRACTION_D,"Summon a black hole at the targeted location, pulling in nearby enemies",2025-03-20 06:38:28,50,,在击中位置召唤一个黑洞，吸引范围内的敌人,2025-03-26 08:46:44
+T_ATTRIBUTE,Attribute,2025-01-20 08:11:32,,武器属性,属性,2025-03-26 08:46:34
+T_ATTRIBUTES_AMMO,Magazine,2025-01-20 08:11:32,20,弹夹数量,弹匣,2025-03-26 08:46:29
+T_ATTRIBUTES_AUTOFIRE,Auto fire,2025-01-20 08:11:32,10,自动开火,自动射击,2025-03-26 08:46:33
+T_ATTRIBUTES_CHARGEBONUS,Charged bullet,2025-01-20 08:11:32,25,蓄力加伤,充能弹,2025-03-26 08:46:28
+T_ATTRIBUTES_COUNT,Bullet per shot,2025-01-20 08:11:32,16,子弹数量,每发子弹数,2025-03-26 08:46:43
+T_ATTRIBUTES_COUNT_D,Fire more bullets in a single shot,2025-01-20 08:11:32,34,一次射击中会射出更多子弹,单一射击发射更多子弹,2025-03-26 08:46:37
+T_ATTRIBUTES_COUNT2,The number of bullets increased by 2 rounds,2025-03-07 06:48:57,60,,子弹数量增加2发,2025-03-26 08:46:43
+T_ATTRIBUTES_COUNT4,The number of bullets increased by 4 rounds,2025-03-07 06:48:57,60,,子弹数量增加4发,2025-03-26 08:46:43
+T_ATTRIBUTES_COUNT6,The number of bullets increased by 6 rounds,2025-03-07 06:48:57,60,,子弹数量增加6发,2025-03-26 08:46:44
+T_ATTRIBUTES_DAMAGE,Amplified Damage,2025-03-20 03:18:45,20,单个子弹伤害,额外伤害,2025-03-26 08:46:41
+T_ATTRIBUTES_DAMAGE_UP,High damage,2025-01-20 08:11:32,18,高额伤害,高额伤害,2025-03-26 08:46:43
+T_ATTRIBUTES_DAMAGE_UPUP,Massive damage,2025-01-20 08:11:32,18,巨额伤害,巨额伤害,2025-03-26 08:46:31
+T_ATTRIBUTES_FIRE_INTERVAL,Fire rate,2025-01-20 08:11:32,15,开火间隔,射速,2025-03-26 08:46:33
+T_ATTRIBUTES_FIRE_INTERVAL_D_1,Slightly reduced shooting interval,2025-01-20 08:11:32,40,两次射击之间的时间间隔少许降低,稍微减少射击间隔,2025-03-26 08:46:43
+T_ATTRIBUTES_FIRE_INTERVAL_D_2,Reduced shooting interval,2025-01-20 08:11:32,36,两次射击之间的时间间隔降低,射击间隔缩短,2025-03-26 08:46:41
+T_ATTRIBUTES_FIRE_INTERVAL_D_3,Significantly reduced shooting interval,2025-01-20 08:11:32,40,两次射击之间的时间间隔显著降低,射击间隔显著缩短,2025-03-26 08:46:37
+T_ATTRIBUTES_FIRE_INTERVAL_D_4,The shooting interval is greatly shortened,2025-03-07 06:48:57,60,,射击间隔大量缩短,2025-03-26 08:46:44
+T_ATTRIBUTES_FIRE_INTERVAL_UP,High fire rate,2025-01-20 08:11:32,18,高速射速,高射速,2025-03-26 08:46:27
+T_ATTRIBUTES_FIRE_INTERVAL_UPUP,Rapid fire rate,2025-01-20 08:11:32,18,急速射速,快速射速,2025-03-26 08:46:30
+T_ATTRIBUTES_LIFESPAN,Range,2025-01-20 08:11:32,20,射程,射程,2025-03-26 08:46:39
+T_ATTRIBUTES_LIFESPAN_D_1,Slightly boosted bullet range,2025-01-20 08:11:33,40,子弹能够达到的最大距离少量提升,子弹射程略微提升,2025-03-26 08:46:31
+T_ATTRIBUTES_LIFESPAN_D_2,Bullet range increased,2025-03-07 06:48:57,36,子弹能够达到的最大距离提升,子弹射程增加,2025-03-26 08:46:36
+T_ATTRIBUTES_LIFESPAN_D_3,Bullet range significantly increased,2025-03-07 06:48:57,40,子弹能够达到的最大距离显著提升,子弹射程显著增加,2025-03-26 08:46:40
+T_ATTRIBUTES_LIFESPAN_D_4,Bullet range greatly increased,2025-03-07 06:48:57,40,,子弹射程大量增加,2025-03-26 08:46:44
+T_ATTRIBUTES_LIFESPAN_UP,Enhanced range,2025-01-20 08:11:33,18,增强射程,增强射程,2025-03-26 08:46:40
+T_ATTRIBUTES_LIFESPAN_UPUP,Ultra range,2025-01-20 08:11:33,18,超远射程,超长射程,2025-03-26 08:46:36
+T_ATTRIBUTES_RELOAD_TIME,Reload time,2025-01-20 08:11:33,16,每发子弹换弹时间,重新装填时间,2025-03-26 08:46:42
+T_ATTRIBUTES_SIGNIFICANT,Medium boost,2025-01-20 08:11:33,16,显著提升,中等提升,2025-03-26 08:46:34
+T_ATTRIBUTES_SLIGHT,Minor boost,2025-01-20 08:11:33,12,些微提升,小幅提升,2025-03-26 08:46:30
+T_ATTRIBUTES_SMALL,Small boost,2025-01-20 08:11:33,12,少量提升,微小提升,2025-03-26 08:46:35
+T_ATTRIBUTES_SPREAD,Bullet spread,2025-01-20 08:11:33,16,散射程度,子弹扩散,2025-03-26 08:46:38
+T_ATTRIBUTES_SUB,Major boost,2025-01-20 08:11:33,12,大幅提升,大幅提升,2025-03-26 08:46:41
+T_ATTRIBUTES_TRAIJECTORY,Trajectory,2025-01-20 08:11:33,25,子弹飞行轨迹,轨迹,2025-03-26 08:46:34
+T_ATTRIBUTES_VELOCITY,Bullet speed,2025-01-20 08:11:33,12,子弹飞行速度,子弹速度,2025-03-26 08:46:35
+T_AUTOFIRE_DESC,Weapon can fire continuously while holding the fire button,2025-01-20 08:11:33,70,武器能够在按住攻击键时持续射击,武器可以按住开火按钮连续发射,2025-03-26 08:46:30
+T_BATTLE_COUNTDOWN,Countdown,2025-01-20 08:11:33,10,游戏倒计时,倒数计时,2025-03-26 08:46:27
+T_BATTLE_COUNTTIME,Battle begins now!,2025-01-20 08:11:33,30,倒计时结束，战斗开始！,战斗开始！,2025-03-26 08:46:32
+T_BATTLE_KINGSELET,King's selection stage,2025-01-20 08:11:33,24,国王选择阶段,国王选择阶段,2025-03-26 08:46:28
+T_BATTLE_MISSION,Battle Mission,2025-04-23 07:07:50,20,,战斗任务,2025-04-23 07:07:50
+T_BATTLE_RELIVE,Revive in {0}s,2025-01-20 08:11:33,14,{0}秒后复活,{0} 秒后复活,2025-03-26 08:46:38
+T_BATTLE_START,Battle Starts!,2025-01-20 08:11:33,20,开始战斗,战斗开始！,2025-03-26 08:46:37
+T_BATTLE_START01,I shall choose a lucky Dreamer for the arena!,2025-01-20 08:11:33,72,本场游戏的地图我将用你们其中一人的！,这场战局的舞台，将由你们之一来构筑,2025-03-26 08:46:38
+T_BATTLE_START02,My arena shall replace all yours in this battle!,2025-01-20 08:11:33,64,本场游戏的地图我会使用我喜欢的！,这场战斗，只能在我的竞技场中进行！,2025-03-26 08:46:42
+T_BATTLE_START03,The arena of this battle is by —— {0}!,2025-03-26 08:46:47,168,本次将会使用——{0}的地图！,这场战斗将会使用—— {0}的场地！,2025-03-26 08:46:31
+T_BATTLE_START04,The King has chosen your arena!,2025-01-20 08:11:33,44,本国王选中了你的地图！,国王已经选择了你的竞技场！,2025-03-26 08:46:43
+T_BATTLE_TO_GET_MORE,Battle to get more,2025-04-23 07:11:50,20,,通过战斗获取更多碎片,2025-04-23 07:11:50
+T_BATTLEEVENT_ALLSPEEDUP,Everyone speeds up!,2025-03-20 06:38:28,48,,所有人移动速度提升！,2025-04-24 07:05:57
+T_BATTLEEVENT_LIGHTING,Lightning is about to strike!,2025-03-20 06:38:28,24,,闪电即将落下!,2025-03-26 08:46:44
+T_BATTLEEVENT_WOLF,The wolf is coming!,2025-03-20 06:38:28,48,,狼来了！,2025-04-24 08:09:00
+T_BEHUNTERED,Hunting begins! Top Gem holder is target!,2025-01-20 08:11:33,50,追杀事件开始，宝石最多者将成为目标,狩猎开始！持有最多宝石的人是目标！,2025-03-26 08:46:38
+T_BEHUNTERED_TIPS,You're being hunted,2025-01-20 08:11:33,20,你被追杀了,你被追猎了,2025-03-26 08:46:42
+T_BIG BULLET_1,Bullet size increases minimally,2025-01-20 08:11:33,35,子弹些许变大,子弹稍微变大,2025-03-26 08:46:30
+T_BIG BULLET_2,Bullet size increases slightly,2025-01-20 08:11:33,40,子弹少量变大,子弹大小略微增加,2025-03-26 08:46:31
+T_BIG BULLET_3,Bullet size increase moderately,2025-01-20 08:11:33,40,子弹显著变大,子弹大小适度增加,2025-03-26 08:46:37
+T_BIG BULLET_4,Bullet size increases greatly,2025-01-20 08:11:34,30,子弹大幅变大,子弹大小大幅增加,2025-03-26 08:46:40
+T_BLACKHOLE_D,Summons a large black hole that draws enemies into the center and deals damage.,2025-04-21 13:47:38,56,,召唤一个大黑洞，会将敌人吸引进中心，并造成伤害,2025-04-20 09:36:04
+T_BLACKHOLE_N,summon black hole,2025-04-21 13:47:38,18,,召唤黑洞,2025-04-10 11:25:41
+T_BLOODRAGE_D,"The lower your health, the faster your attack speed",2025-03-20 06:38:27,28,血量越低，攻速越快,血量越低，攻速越快,2025-03-26 08:46:40
+T_BLOODRAGE_N,Blood Rage,2025-01-20 08:11:34,14,血怒,血怒,2025-03-26 08:46:35
+T_BLOODSUCKING_D,Part of damage dealt on enemies is converted to self-healing,2025-01-20 08:11:34,65,攻击命中的一部分伤害会回复自己血量,对敌人造成的伤害的一部分会转化为自身的治疗,2025-03-26 08:46:43
+T_BORADCAST_MONSTER,Start a monster hunting spree,2025-01-20 08:08:10,50,Start a monster hunting spree,开始一场怪物狩猎狂热,2025-03-26 08:46:37
+T_BOSS_HALFMAN_1,Venomous Little Demon,2025-01-20 08:11:34,25,放毒小恶魔,蛇毒小恶魔,2025-03-26 08:46:41
+T_BOSS_HALFMAN_2,Knockback Little Demon,2025-01-20 08:11:34,25,击退小恶魔,击退小恶魔,2025-03-26 08:46:39
+T_BOSS_HALFMAN_3,Supreme Little Demon,2025-01-20 08:11:34,25,超级小恶魔,超级小恶魔,2025-03-26 08:46:34
+T_BOSS_KRATOS_1,Blazing Kratos,2025-01-20 08:11:34,20,火焰奎托斯,烈焰克拉托斯,2025-03-26 08:46:33
+T_BOSS_KRATOS_2,Frozen Kratos,2025-01-20 08:11:34,20,冰冻奎托斯,冰冻克雷多斯,2025-03-26 08:46:28
+T_BOSS_KRATOS_3,Supreme Kratos,2025-01-20 08:11:34,20,超级奎托斯,超级克拉托斯,2025-03-26 08:46:40
+T_BOSS_REDHAT_1,Ricochet Little Red,2025-01-20 08:11:34,20,弹射小红帽,弹射小红帽,2025-03-26 08:46:34
+T_BOSS_REDHAT_2,Splitshot Little Red,2025-01-20 08:11:34,20,分裂小红帽,散射小红帽,2025-03-26 08:46:43
+T_BOSS_REDHAT_3,Red Hat Wolf,2025-04-14 08:29:03,20,扫射小红帽,红帽大灰狼,2025-04-14 08:27:50
+T_BOSS_TRUMP_1,Shapeshifter Trump,2025-01-20 08:11:34,20,变形特朗普,变形特朗普,2025-03-26 08:46:33
+T_BOSS_TRUMP_2,Shrinking Trump,2025-01-20 08:11:34,20,变小特朗普,缩小特朗普,2025-03-26 08:46:35
+T_BOSS_TRUMP_3,Tyrant Trump,2025-01-20 08:11:34,20,超级特朗普,暴君特朗普,2025-03-26 08:46:40
+T_BOXDAMAGE_D,Deal double damage to treasure Boxes and Monsters,2025-03-17 07:41:03,70,对宝箱和BOT伤害翻倍,对宝箱和怪物造成双倍伤害,2025-03-26 08:46:38
+T_BOXDAMAGE_N,Treasure Hunter,2025-01-20 08:11:34,18,怪物杀手,宝藏猎人,2025-03-26 08:46:35
+T_BOXROOM,LOOT SPACE,2025-01-20 08:11:34,10,战利品空间,战利品收藏室,2025-03-26 08:46:31
+T_BROADCAST_BOX,Start a treasure box carnival,2025-01-20 08:08:10,50,Start a treasure box carnival,开始宝箱嘉年华,2025-03-26 08:46:38
+T_BULLETABSORPTION_D,Bullets hitting you during the duration will turn into healing but still apply effects,2025-03-20 06:38:27,64,开启后击中自己的子弹会让自己回血，但依然受到效果影响,持续时间内击中自己的子弹会变为回血，但依然受到效果影响,2025-03-26 08:46:43
+T_BULLETABSORPTION_N,Bullet Absorption,2025-01-20 08:11:34,18,吸收子弹,子弹吸收,2025-03-26 08:46:40
+T_BULLETREFLECTION_D,Bullets hitting you during the duration will bounce off randomly,2025-03-20 06:38:27,46,开启后一段时间内打中自己的子弹会被随机弹开,持续时间内打中自己的子弹会被随机弹开,2025-03-26 08:46:28
+T_BULLETREFLECTION_N,Bullet Deflection,2025-01-20 08:11:34,18,反弹子弹,子弹反弹,2025-03-26 08:46:33
+T_BURNING,Bullet leaves a burning area at the explosion site for a short period,2025-01-20 08:11:34,90,子弹爆炸的位置会留下持续一定时间的燃烧区域,子弹在爆炸地点留下一个短暂的燃烧区域,2025-03-26 08:46:28
+T_BUYCOST,Confirm to purchase {1} with {0}?,2025-01-20 08:11:34,35,确认花费{0}购买{1}吗？,确认以 {0} 购买 {1}？,2025-03-26 08:46:36
+T_BUYMAPREPLACEMENT,"Arena storage full, please confirm to replace existing arena:",2025-01-20 08:11:34,70,你的地图收藏数量已达上限，请确认是否要替换：,竞技场储存已满，请确认是否取代现有的竞技场：,2025-03-26 08:46:31
+T_BUYREPLACE,Replace your {0},2025-01-20 08:11:35,20,{0}替换,替换你的 {0},2025-03-26 08:46:42
+T_BUYREPLACEMENT,"Weapon storage full, please choose the weapon to replace",2025-01-20 08:11:35,60,你的武器收藏数量已达上限，请选择需要替换的：,武器储存已满，请选择要替换的武器,2025-03-26 08:46:31
+T_CANNOT_SELECT_DURABLE0,"Durability depleted, can be used again after repair.",2025-01-20 08:11:35,60,已无耐久度，修复完成后可再度使用,耐久度耗尽，修复后可再次使用。,2025-03-26 08:46:31
+T_CANNOT_SELECT_MATCHMAKING,Matchmaking in progress,2025-01-20 08:11:35,26,匹配中，无法选择,配对中...,2025-03-26 08:46:39
+T_CD_1,Long cooldown,2025-01-20 08:11:35,20,较长冷却时间,较长冷却时间,2025-03-26 08:46:30
+T_CD_2,Medium cooldown,2025-01-20 08:11:35,20,中等冷却时间,中等冷却时间,2025-03-26 08:46:27
+T_CD_3,Short cooldown,2025-01-20 08:11:35,20,较短冷却时间,短暂冷却时间,2025-03-26 08:46:39
+T_CD_4,Very short cooldown,2025-01-20 08:11:35,30,极短冷却时间,极短的冷却时间,2025-03-26 08:46:32
+T_CHARGEBONUS_DESC,"Hold ""fire"" button to charge and increase bullet damage",2025-01-20 08:11:35,70,武器可以长按蓄力增加子弹伤害,按住「开火」按钮可充能并增加子弹伤害,2025-03-26 08:46:42
+T_CHARGENERATE_D,Consumed when creating characters,2025-01-20 08:11:35,36,用于角色创建时使用,创建角色时消耗,2025-03-26 08:46:41
+T_CHARGENERATE_N,Character ticket,2025-01-20 08:11:35,24,角色创建次数,角色票券,2025-03-26 08:46:29
+T_CHARSLOT_D,Unlocks a slot for character creation,2025-01-20 08:11:35,64,获得后可以解锁角色创建界面的槽位,解锁角色创建栏位,2025-03-26 08:46:30
+T_CHARSLOT_N,Character slot,2025-01-20 08:11:35,30,角色创建槽位,角色栏位,2025-03-26 08:46:33
+T_CHAT_EMPTYEMOJI,,2025-06-04 07:50:46,30,,你还没有表情包，去获得更多吧,2025-06-04 07:50:46
+T_CHAT_INGAME_TITLE,,2025-06-04 07:50:10,20,玩家在游戏中，显示在聊天框最底部,对方正在游戏中,2025-06-04 07:50:10
+T_CHAT_INTEAM,,2025-06-04 07:51:44,10,,组队聊天,2025-06-04 07:51:44
+T_CHAT_OFFLINE_TITLE,,2025-06-04 07:49:43,20,玩家已离线，显示在聊天框最底部,对方已离线,2025-06-04 07:50:15
+T_CHAT_SEND,,2025-06-04 07:50:35,10,,发送,2025-06-04 07:50:35
+T_CHAT_TAB_TEAM,,2025-06-04 07:49:26,10,聊天顶部标签栏——队伍,队伍,2025-06-04 07:49:00
+T_CHAT_TOAST_EMPTY,,2025-06-04 07:50:55,20,,无法发送空消息,2025-06-04 07:50:55
+T_CHAT_TOAST_OFFLINE,,2025-06-04 07:51:15,20,,对方已离线，暂不能发送消息,2025-06-04 07:51:15
+T_CHAT_WITH,,2025-06-04 07:51:36,10,,和{0}聊天,2025-06-04 07:51:36
+T_CHOP_D,"Slash forward with a sword, dealing damage to enemies in front，attacks can bounce bullets，increases movement speed slightly",2025-03-27 02:21:42,46,,使用大刀劈砍，对身前敌人造成伤害，攻击可以反弹子弹，同时增加少量移速,2025-03-26 08:46:45
+T_CHOP_N,Sword,2025-03-20 06:38:29,12,,刀,2025-03-26 08:46:45
+T_CLAIM,CLAIM,2025-04-23 07:20:32,5,,领取,2025-04-23 07:20:32
+T_CLAIMED,CLAIMED,2025-04-23 07:20:45,10,,已领取,2025-04-23 07:09:23
+T_COCREATE_CHAR_TITLE,Creation,2025-01-20 08:11:35,8,,创造,2025-03-26 08:46:41
+T_COCREATE_RECOMMANDE,Recommend,2025-01-20 08:11:35,9,,推荐,2025-03-26 08:46:28
+T_COIN_D,"Obatained after games, used to various purchases",2025-01-20 08:11:35,80,通过赛后结算获取，能用来购买各种东西,游戏结算时获得，用于购买各种物品,2025-03-26 08:46:28
+T_COIN_N,Coin,2025-01-20 09:26:08,8,金币,金币,2025-03-26 08:46:43
+T_CONFIRM,Confirm,2025-01-20 08:11:35,10,确认,确认,2025-03-26 08:46:42
+T_CONFIRMCOST,Confirm to create with {0}?,2025-01-20 08:11:35,40,是否要消耗{0}创作？,确认要使用 {0} 创作吗？,2025-03-26 08:46:43
+T_COPEY,Copied to clipboard,2025-01-20 08:11:35,25,已复制到剪贴板,已复制到剪贴板,2025-03-26 08:46:37
+T_CREAT_FAIL,"Sorry! We encountered an error in creation, ticket will be returned",2025-01-20 08:11:35,80,创建无法完成，将会返还本次消耗,抱歉！创建时发生错误，票券将被退回,2025-03-26 08:46:43
+T_CREATCHAR,Dream up your character!,2025-01-20 08:11:35,25,创作你的角色吧！,创造你的角色！,2025-03-26 08:46:29
+T_CREATE_CHAR_TITLE,Dream up any character!,2025-01-20 08:11:35,23,,创造任何角色！,2025-03-26 08:46:30
+T_CREATE_ENTERTEXT,enter here!,2025-01-20 08:11:35,11,,进来吧！,2025-03-26 08:46:35
+T_CREATE_GENERATING,Generation in progress,2025-01-20 08:11:35,22,,产生中,2025-03-26 08:46:29
+T_CREATE_MAP_TITLE,Dream up any arena!,2025-01-20 08:11:35,19,,任意想像竞技场！,2025-03-26 08:46:42
+T_CREATE_NOW,CREATE,2025-03-18 07:48:28,4,,创建,2025-03-26 08:46:45
+T_CREATE_RECIPES,Recipes,2025-01-20 08:11:35,7,,食谱,2025-03-26 08:46:31
+T_CREATE_SELECTE,select,2025-01-20 08:11:36,6,,选择,2025-03-26 08:46:38
+T_CREATE_SELECTED,selected,2025-01-20 08:11:36,8,,已选择,2025-03-26 08:46:32
+T_CREATE_START,Start Dreaming!!!,2025-01-20 08:11:36,17,,开始做梦吧!!!,2025-03-26 08:46:39
+T_CREATE_TITLE,dream up anything you want,2025-01-20 08:11:36,26,,幻想你渴望的任何事物,2025-03-26 08:46:41
+T_CREATE_TRYOTHER,Try populars made by others,2025-01-20 08:11:36,27,,试试他人创作的热门作品,2025-03-26 08:46:29
+T_CREATE_WEAPON_TITLE,Dream up any weapon!,2025-01-20 08:11:36,20,,创造任何武器！,2025-03-26 08:46:34
+T_CREATENAME_DIRTY,The name contains inappropriate language and cannot be used.,2025-01-20 08:11:36,60,,名称包含不当语言，无法使用。,2025-03-26 08:46:33
+T_CREATENAME_REPEAT,Name is already taken.,2025-01-20 08:11:36,22,,名称已被占用。,2025-03-26 08:46:30
+T_CREATING,Crafting,2025-01-20 08:11:36,12,生成中,制作中,2025-03-26 08:46:33
+T_CREATION_LACK,Try out your creation now!,2025-01-20 08:11:36,30,快去试试你的创意吧！ ,现在试试你的创作吧！,2025-03-26 08:46:34
+T_CREATIVEROOM,CREATIVE SPACE,2025-01-20 08:11:36,16,创作空间,创意空间,2025-03-26 08:46:37
+T_CREATMAP,Dream up your arena!,2025-01-20 08:11:36,25,创作你的地图吧！,创作你的竞技场！,2025-03-26 08:46:35
+T_CREATMORETIME,We are crafting carefully...,2025-01-20 08:11:36,60,ops..需要更多时间,我们正在小心地打造...,2025-03-26 08:46:30
+T_CREATWEAPON,Dream up your weapon!,2025-01-20 08:11:36,25,创作你的武器吧！,创造你的武器！,2025-03-26 08:46:43
+T_CURRENTWEAPON_DURABLE_INVALID,"Weapon durability used up, repair it now!",2025-01-20 08:11:36,45,武器耐久已耗尽， 请尽快修理！ ,武器耐久度用尽，现在修复它！,2025-03-26 08:46:28
+T_CURSE_D,"Curse hit enemies, leaving a tomb upon death that damages those who step on it",2025-03-20 06:38:28,72,,击中的单位挂一个诅咒，死后留下一个坟墓，会对走上的对象造成伤害,2025-03-26 08:46:44
+T_CURSE_N,Curse,2025-03-20 06:38:28,14,,诅咒,2025-03-26 08:46:44
+T_DAILYREFRESH,Refresh at 4am daily,2025-01-20 08:11:36,24,每日4点刷新,每日4点刷新,2025-03-26 08:46:34
+T_DAMAGE_1,Deal minor damage,2025-01-20 08:11:36,25,造成些微伤害,造成微量伤害,2025-03-26 08:46:39
+T_DAMAGE_2,Deal small damage,2025-01-20 08:11:36,25,造成少量伤害,造成小量伤害,2025-03-26 08:46:35
+T_DAMAGE_3,Deal moderate damage,2025-01-20 08:11:36,30,造成显著伤害,造成显著伤害,2025-03-26 08:46:30
+T_DAMAGE_4,Deal heavy damage,2025-01-20 08:11:36,30,造成大量伤害,造成大量伤害,2025-03-26 08:46:30
+T_DAMAGE-TRIGGEREDSPEEDBOOST_D,Movement speed increases after taking damage,2025-03-20 06:38:27,32,受到伤害后移动速度增加,受到伤害后移动速度增加,2025-03-26 08:46:35
+T_DAMAGE-TRIGGEREDSPEEDBOOST_N,Injury Acceleration,2025-04-22 10:45:16,30,受伤加移速,受伤加速,2025-04-22 10:45:16
+T_DAMAGEREDUCTION_D,Reduce damage taken from others,2025-04-23 11:03:37,40,减少他人对自己的伤害,减少受到的伤害,2025-04-23 11:05:12
+T_DAMAGEREDUCTION_N,Damage reduction,2025-04-23 11:00:05,48,减伤,减伤,2025-04-23 11:00:04
+T_DASH_D,Temporarily gain a large movement speed boost,2025-03-20 06:38:27,30,短暂增加大量移动速度,短暂增加大量移动速度,2025-03-26 08:46:28
+T_DASH_N,Dash,2025-01-20 08:11:36,14,冲刺,冲刺,2025-03-26 08:46:30
+T_DAYDREAMSLOGAN,Create anything you imagine!,2025-01-20 08:11:36,40,创作你的想象,创造你所想象的一切！,2025-03-26 08:46:29
+T_DECISIVE_PHASE,CRUNCH TIME!,2025-03-20 15:42:42,30,这里描述的是battle最后阶段对吧？,最终时刻！,2025-04-25 14:04:20
+T_DEFAULT_DESC1,<color=#CE2121><b>FIRE DRAGON!</b></color> What a powerful spell! Let’s see what it creates!,2025-03-27 02:21:42,200,,<color=#E25A30><b>'FIRE DRAGON'</b></color> 真是一个强大的咒语！ 让我们来看看会生成什么！,2025-03-26 08:46:45
+T_DEFAULT_DESC2,"Watch closely, this is such a perfect creation from your <color=#CE2121><b>FIRE DRAGON!</b></color> spell!",2025-03-27 02:18:00,200,,注意看， 这条火龙就是你<color=#E25A30><b>FIRE DRAGON!</b></color>这条咒语的化身,2025-03-26 08:46:45
+T_DEFAULT_DESC3,"The spell is <color=#CE2121><b>FIRE DRAGON</b></color>, so I grants it the <color=#CE2121><b>Burning</b></color>weapon magic, what a perfect match!",2025-03-27 02:18:00,200,,咒语是<color=#E25A30><b>'FIRE DRAGON'</b></color>， 所以我给你<color=#E25A30><b>燃烧</b></color>作为武器机制， 简直是为你的武器量身打造！,2025-03-26 08:46:45
+T_DEFAULT_PROMPT,FIRE DRAGON,2025-03-20 06:38:29,100,,FIRE DRAGON,2025-03-19 08:53:01
+T_DEFAULT_PROMPT_SHOW,<color=#CE2121><b>FIRE DRAGON</b></color>,2025-03-27 02:18:00,100,,<color=#E25A30><b>FIRE DRAGON</b></color>,2025-03-26 08:46:46
+T_DELETE,DELETE,2025-04-25 08:06:30,10,,删除,2025-04-25 08:06:30
+T_DELETECOFIRM,Deletion is permanent - Confirm?,2025-01-20 08:11:37,35,删除后将无法找回，确认删除？,删除后无法恢复 - 确认？,2025-03-26 08:46:31
+T_DESC_BULLET,BULLET,2025-01-20 08:08:10,,BULLET,子弹,2025-03-26 08:46:38
+T_DESC_EFFECT,MAGIC,2025-01-20 08:11:37,,EFFECT,魔法,2025-03-26 08:46:34
+T_DESC_NEW,NEW,2025-01-20 08:08:10,,NEW,NEW,2025-03-18 09:45:26
+T_DIFFVERSION,Please exit the game to update to the latest version —— exciting new features await!,2025-03-26 08:46:47,100,请退出游戏后进行更新，以享受更好的游戏体验。,请退出游戏以更新至最新版本——新功能已就绪！,2025-03-26 08:46:43
+T_DIS_1,Cause minor displacement of target,2025-01-20 08:11:37,40,造成些微位移,对目标造成轻微位移,2025-03-26 08:46:36
+T_DIS_2,Cause small displacement of target,2025-01-20 08:11:37,40,造成少量位移,对目标造成小幅位移,2025-03-26 08:46:37
+T_DIS_3,Cause medium displacement of target,2025-01-20 08:11:37,40,造成显著位移,对目标造成中等位移,2025-03-26 08:46:43
+T_DIS_4,Cause major displacement of target,2025-01-20 08:11:37,40,造成大量位移,对目标造成较远位移,2025-03-26 08:46:43
+T_DISARMFIELD_D,Turn enemies into sheep that can't attack but deal collision damage.,2025-05-07 08:56:59,32,,让范围内的敌人变成无法攻击，可以撞人的小羊。,2025-05-07 08:57:06
+T_DISARMFIELD_N,Mass Polymorph,2025-05-07 08:55:19,18,,群体变形,2025-05-07 08:55:18
+T_DIZZINESS_D,Enemies hit have their movement directions reversed,2025-01-20 08:11:37,60,命中敌人上下左右的移动变为反向,被击中的敌人会使其移动方向反转,2025-03-26 08:46:29
+T_DRAGONFIST_D,Perform a melee rising uppercut,2025-03-20 06:38:28,28,,进行一次近战升龙拳,2025-03-26 08:46:44
+T_DRAGONFIST_N,Rising Uppercut,2025-03-20 06:38:28,16,,升龙拳,2025-03-26 08:46:44
+T_DRAWSLASH_D,Fire a sword energy slash in a designated direction,2025-03-20 06:38:28,32,,向指定方向发射一个剑气,2025-03-26 08:46:44
+T_DRAWSLASH_N,Quick Draw Slash,2025-03-20 06:38:28,16,,拔刀斩,2025-03-26 08:46:44
+T_DREAM_BOOK,Dream Book,2025-04-24 14:42:56,10,,Dream Book,2025-04-24 14:42:56
+T_DREAMBOOK_BIGREWARD,This is the grand prize you will get when you upgrade your dreamer level: <color=#CE2121><b>Super powerful new weapons and new characters</b></color>,2025-04-23 06:50:00,88,,这是你提升梦想家等级会获得的大奖：<color=#CE2121><b>超强的新武器和新角色</b></color>,2025-04-23 06:50:00
+T_DREAMBOOK_MISSION1,"This is your next mission objective. If you complete it, you will receive 15 knowledge fragments [0#emoji_1]!",2025-04-23 12:26:13,88,,这是你的下一个任务目标， 完成就能获得15个知识碎片[0#emoji_1]！,2025-04-23 12:26:13
+T_DREAMBOOK_MISSIONCOMPLETE,oh! dreamer! You are awesome. The mission has been completed. Go and receive the award!,2025-04-23 12:50:27,70,,哦！ 梦想家！ 你真是太棒了， 任务已完成， 快去领奖吧！ ,2025-04-21 13:41:52
+T_DREAMBOOK_MISSIONREWARD,"As long as you complete the task, come here to receive the prize! The king will not treat you badly!",2025-04-21 13:47:39,60,,只要完成了任务， 就来这里领奖！ 国王不会亏待你！,2025-04-21 13:41:52
+T_DREAMBOOK_MISSIONREWARD2,"Receive your reward quickly, you deserve it!",2025-04-23 12:50:27,46,,快收下你的奖励吧， 这是你应得的！ ,2025-04-21 13:41:52
+T_DREAMBOOK_MISSIONREWARDCLOSE,Mission accomplished! You are truly the greatest dreamer!,2025-04-23 12:50:27,48,,任务都完成了！ 你真是最棒的梦想家！ ,2025-04-21 13:41:52
+T_DREAMBOOK_MORERUIN,"If you want to get more knowledge fragments [0#emoji_1] more easily, then complete the task!",2025-04-23 12:50:27,86,,想要更轻松的获得更多知识碎片[0#emoji_1]， 那就去完成任务吧！ ,2025-04-21 13:41:52
+T_DREAMBOOK_NOUPGRADE,Just a little shy of an upgrade! Go back to the game to collect knowledge fragments [0#emoji_1]!,2025-04-23 12:50:27,84,,只差一点就能升级了！ 快再去对局里收集知识碎片[0#emoji_1]吧！ ,2025-04-21 13:41:52
+T_DREAMBOOK_PROGRESS,"Collect knowledge fragments [0#emoji_1], accumulate progress, upgrade the dreamer level, and receive grand prizes!",2025-04-23 12:50:27,90,,收集知识碎片[0#emoji_1]， 累计进度， 提升梦想家等级， 领取大奖！ ,2025-04-21 13:41:52
+T_DREAMBOOK_UPGRADE,oh! You have collected enough knowledge fragments [0#emoji_1]! It's time to upgrade!,2025-04-23 12:50:27,84,,哦！ 你已经收集了足够的知识碎片[0#emoji_1]！ 是时候升级了！ ,2025-04-21 13:41:52
+T_DREAMER_1,LV.1 Dreamer,2025-04-23 10:29:24,15,,1级梦想家,2025-04-23 10:29:23
+T_DREAMER_2,LV.2 Dreamer,2025-04-23 10:29:46,17,,2级梦想家,2025-04-23 10:32:21
+T_DREAMER_3,LV.3 Dreamer,2025-04-23 10:30:25,16,,3级梦想家,2025-04-23 10:30:25
+T_DREAMER_4,LV.4 Dreamer,2025-04-23 10:30:41,16,,4级梦想家,2025-04-23 10:30:41
+T_DREAMER_DESC_1,"Level 1 Dreamer, with a limited spell limit, can only cast basic magic",2025-04-23 10:46:12,68,创作者等级描述1（需要非常短）,1级梦想家，咒语上限较为有限，仅能施展基础的魔法,2025-04-23 10:46:12
+T_DREAMER_DESC_2,"Level 2 Dreamer, the spell limit is increased, and can control intermediate magic",2025-04-23 10:45:56,62,创作者等级描述2（需要非常短）,2级梦想家，咒语上限有所提升，能够驾驭中级魔法,2025-04-23 10:45:55
+T_DREAMER_DESC_3,"Level 3 Dreamer, the spell limit is greatly increased, and more advanced magic is mastered",2025-04-23 10:46:43,64,创作者等级描述3（需要非常短）,3级梦想家，咒语上限大幅提升，掌握了更高深的魔法,2025-04-23 10:46:42
+T_DREAMER_DESC_4,"Level 4 Dreamer, with spell cap reaching its peak, able to cast the ultimate magic",2025-04-23 10:46:27,74,创作者等级描述4（需要非常短）,4级梦想家，咒语上限达到巅峰，能够施展神乎其技的究极大魔法,2025-04-23 10:46:26
+T_DUR_1,Very short duration,2025-01-20 08:11:37,25,极短持续时间,极短持续时间,2025-03-26 08:46:41
+T_DUR_2,Short duration,2025-01-20 08:11:37,20,较短持续时间,短暂持续时间,2025-03-26 08:46:28
+T_DUR_3,Medium duration,2025-01-20 08:11:37,20,中等持续时间,中等持续时间,2025-03-26 08:46:41
+T_DUR_4,Long duration,2025-01-20 08:11:37,20,较长持续时间,较长持续时间,2025-03-26 08:46:35
+T_EFFECTS,Weapon Magic,2025-01-20 08:11:37,16,武器特效,武器魔法,2025-03-26 08:46:32
+T_EMPTY,Empty,2025-01-20 08:11:37,6,空,空,2025-03-26 08:46:28
+T_ENLARGEMENT_D,"Enemies hit grow larger, slow down, and cannot hide in grass",2025-01-20 08:11:37,65,命中敌人变大，移速变慢，无法在草丛隐身,被击中的敌人会变大、减速且无法躲藏在草中,2025-03-26 08:46:33
+T_ENTERFIRST,Please enter first,2025-01-20 08:11:37,20,请先输入内容,请先输入,2025-03-26 08:46:41
+T_EP_JOINBATTLE,Join Magic Battle,2025-01-20 08:08:10,20,Join Magic Battle,加入魔法战斗,2025-03-26 08:46:43
+T_EP_REWARD,Win great rewards,2025-01-20 08:08:10,20,Win great rewards,赢得丰厚奖励,2025-03-26 08:46:35
+T_ERA_RUIN_D,Collect knowledge fragments and upgrade your dreamer level! Become the most powerful dreamer!,2025-04-24 07:59:20,100,Collect knowledge fragments and upgrade your dreamer level! Become the most powerful dreamer!,收集知识碎片，提升梦想家等级！ 成为最强大的梦想家吧！ ,2025-04-24 07:59:20
+T_ERA_RUIN_T,Knowledge Fragments,2025-04-24 07:58:18,20,Knowledge Fragments,知识碎片,2025-04-24 07:58:18
+T_EXIT,EXIT,2025-04-25 08:05:47,10,,退出,2025-04-25 08:05:47
+T_EXPLOSION,Bullet hits cause explosions; kills trigger another explosion.,2025-02-19 03:27:47,60,子弹命中地点发生爆炸，击杀后再次产生爆炸,子弹命中爆炸，击杀再爆炸。,2025-03-26 08:46:41
+T_FAVORITE,Favorites,2025-01-20 08:11:37,12,最喜欢,最爱,2025-03-26 08:46:34
+T_FAVORITE_LIMIT,Daily limit reached,2025-01-20 08:11:37,30,已达到每日点赞上限,每日限制已达到,2025-03-26 08:46:32
+T_FAVORITE_SELECT,Choose your favorite,2025-01-20 08:11:37,30,选择你的最爱,选择你最喜爱的,2025-03-26 08:46:31
+T_FINAL_REWARD,Upgrade\nAward,2025-04-25 03:23:52,18,,升级\n大奖,2025-04-25 06:16:19
+T_FINISH_DESC,"Now that you have become the most powerful dreamer, you can compete with other top dreamers on the leaderboard!",2025-04-24 12:36:19,200,"Now that you have become the most powerful dreamer, you can compete with other top dreamers on the leaderboard!",您已经成为最强大的梦想家， 您可以在排行榜上与其他顶尖梦想家一决高下！ ,2025-04-24 12:36:19
+T_FIX_TEST,test fix bug,2025-02-19 09:38:32,25,,测试修复bug,2025-03-26 08:46:43
+T_FLAMETHROWER_D,"Continuously attack, dealing damage in a frontal area",2025-03-20 06:38:28,48,,可以持续攻击，并对身前一个范围造成伤害,2025-03-26 08:46:44
+T_FLAMETHROWER_N,Flamethrower,2025-03-20 06:38:28,16,,喷火器,2025-03-26 08:46:44
+T_FLAMINGFOOTSTEPS_D,Leave a trail of fire on the ground while moving during the duration,2025-03-20 06:38:27,40,开启后走的路上会留下持续一段时间的火焰,持续时间内走过的路上会留下火焰,2025-03-26 08:46:36
+T_FLAMINGFOOTSTEPS_N,Burning footsteps,2025-01-20 08:11:38,18,脚步燃烧,燃烧的足迹,2025-03-26 08:46:39
+T_FREEGET,"Higher rank, higher discount",2025-01-20 08:11:38,35,排名越高， 折扣越高,等级越高，折扣越高,2025-03-26 08:46:36
+T_FREEZING,Bullet freezes enemy for a short period upon impact,2025-01-20 08:11:38,70,命中敌人将其冰冻一段时间,子弹击中时会暂时冻结敌人,2025-03-26 08:46:41
+T_FREEZINGTOUCH_D,"Release a ring of frozen ground, freezing enemies standing on it",2025-03-20 06:38:27,48,开启后碰到的敌人会被冰冻,放出一圈冰冻大地，在上面的敌人会被冰冻,2025-03-26 08:46:40
+T_FREEZINGTOUCH_N,Freeze land,2025-03-19 09:06:18,25,触碰冰冻,冰冻大地,2025-03-26 08:46:37
+T_FRIEND,Friend,2025-01-20 08:11:38,8,好友记录,好友,2025-03-26 08:46:40
+T_FRIEND_ADDED,Friend added,2025-01-20 08:11:38,28,好友已成功添加,已新增好友,2025-03-26 08:46:31
+T_FRIEND_SENDED,Friend request sent,2025-01-20 08:11:38,28,好友邀请已发送,好友邀请已送出,2025-03-26 08:46:32
+T_FRIENDADD,Add,2025-01-20 08:11:38,8,好友添加,新增,2025-03-26 08:46:38
+T_FRIENDLIST,List,2025-01-20 08:11:38,12,好友列表,好友列表,2025-03-26 08:46:38
+T_FRIENDREQ,Request,2025-01-20 08:11:38,15,好友请求,好友请求,2025-03-26 08:46:30
+T_FRIENDS,Friends,2025-01-20 08:11:38,8,好友,好友,2025-03-26 08:46:32
+T_FRIENDUNLOCK_D,Unlocks friend system,2025-01-20 08:11:38,44,获得后可以解锁好友系统,解锁好友系统,2025-03-26 08:46:39
+T_FRIENDUNLOCK_N,Friend System unlocked!,2025-01-20 08:11:38,24,好友系统解锁,好友系统已解锁！,2025-03-26 08:46:41
+T_FUNCTIONUNLOCK,New feature unlocked,2025-01-20 08:11:38,30,功能解锁,新功能解锁,2025-03-26 08:46:41
+T_FUNPROMPT,What a creative prompt!,2025-01-20 08:11:38,25,¡Tu creación es genial!,多么富有创意的提示！,2025-03-26 08:46:40
+T_GAMEWEAPON,Weapon for the battle,2025-01-20 08:11:38,30,当局武器,本局战斗武器,2025-03-26 08:46:28
+T_GEM_HUNTER_APPEAR,A player became a gem hunter for a while!,2025-04-10 08:55:42,50,,一名玩家成为了一段时间的宝石猎人！,2025-03-26 08:46:31
+T_GEM_TONS,Tons of Gems incoming!,2025-01-20 08:11:38,30,Tons of gems coming! ,大量宝石即将到来！,2025-03-26 08:46:41
+T_GEMEFFECTDUPLICATION_D,Gem absorption effects are doubled,2025-03-20 06:38:27,32,吸取宝石后增益效果翻倍,吸取宝石后增益效果翻倍,2025-03-26 08:46:33
+T_GEMEFFECTDUPLICATION_N,Gem Doubling,2025-01-20 08:11:38,18,宝石翻倍,宝石加倍,2025-03-26 08:46:38
+T_GHOST_APPEAR,Ghosts will haunt the arena!,2025-01-20 08:11:38,40,鬼魂将在地图上飘荡！,鬼魂将会出现在竞技场！,2025-03-26 08:46:32
+T_GIFT_APPEAR,Powerful items dropping soon!,2025-01-20 08:11:38,50,超强道具即将上线！,强大的物品即将掉落！,2025-03-26 08:46:36
+T_GO,GO,2025-04-23 07:14:48,5,,前往,2025-04-23 07:14:48
+T_GOALFINISH,Unlock after completing Era Runes,2025-04-21 07:19:25,36,完成奖杯目标后解锁,获取足量知识碎片后解锁,2025-04-21 07:19:24
+T_GOALSET_GOAL,Target Stage,2025-03-25 07:04:57,100,,目标阶段,2025-03-26 08:46:46
+T_GOALSET_GOAL_DESC,"Stronger generation capabilities, more generation resources, and the ability to create the strongest weapons.",2025-03-25 07:04:57,100,,更强的生成能力， 更多的生成资源， 生成最强的武器,2025-03-26 08:46:46
+T_GOALSET_NOW,Current Stage,2025-03-25 07:04:57,100,这里的”阶段“有在别的地方出现过吗？替代的是“年代”？,当前阶段,2025-03-26 08:46:46
+T_GOALSET_NOW_DESC,"Generation capability is limited, and you can only create weaker weapons.",2025-03-25 07:04:57,100,这个是不是没写完整 哈哈,生成能力受到限制，生成较弱的武器,2025-03-26 08:46:46
+T_GOTOGETLOOT,Battle to acquire other players' creations!,2025-01-20 08:11:38,45,去游戏里获取他人的创作吧！,与其他玩家对战，掠夺他们的创作！,2025-03-26 08:46:32
+T_GRASS_D,"Turn into grass, immune to bullets; attacking reverts to normal form",2025-03-20 06:38:27,50,变成一颗草，移动或射击会变回原形，不会被攻击,变成小草，无法被子弹打中，攻击后变回原型,2025-03-26 08:46:31
+T_GRASS_N,Transform into grass,2025-01-20 08:11:38,20,变草,变身成草,2025-03-26 08:46:33
+T_GUIDE_CREATE_CHARACTER_INTRO,Create any character you want - Anything is possible!,2025-01-20 08:11:39,65,创建任何你想要的角色吧！ 无论什么都可以,创造你想要的任何角色 - 一切皆有可能！,2025-03-26 08:46:37
+T_GUIDE_CREATE_CHARACTER_WAIT,"Hang on , your character will be ready soon!",2025-03-07 06:49:04,80,"Hang on , your character will be ready soon! ",等一下，你的角色很快就会准备好了！,2025-03-26 08:46:35
+T_GUIDE_CREATE_CHARACTER_WEARED,A highly creative character is now equipped! Come and see what magic they have!\n,2025-01-20 08:12:44,100,"A highly creative character is now equipped! Come and see what magic they have!
+",一位富有创意的角色已经装备完成！快来看看他们有什么魔力！ \n,2025-03-26 08:46:40
+T_GUIDE_CREATELEVEL_INTRO1,"Level up your Dreaming Power, for cooler and more powerful creations!",2025-01-20 08:11:39,78,继续努力提升魔法师等级！ 生成更炫酷的形象， 获取更强大的能力吧！ ,提升你的梦想力，创造更酷、更强大的作品！,2025-03-26 08:46:41
+T_GUIDE_CREATELEVEL_INTRO2,"Collect more Era Runes, and level up your Dreaming Power!",2025-01-20 08:11:39,70,继续努力获得知识碎片， 提升魔法师等级吧！ ,收集更多时代符文，并升级你的梦想力！,2025-03-26 08:46:38
+T_GUIDE_PVE_INTRO,"What secrets are hidden in the King's dungeon? Team up and defeat the enemies, uncover the King's dark secrets!",2025-01-20 08:11:39,150,国王的地宫中藏着怎样的秘密！ 击败敌人， 探索国王不可告人的阴谋吧！,王的地下城中隐藏着什么秘密？组队一同击败敌人，揭开王的黑暗秘密！,2025-03-26 08:46:36
+T_GUIDE_REWARDLINE_INTRO,"Collect more Era Runes, and win bigger prizes!",2025-01-20 08:11:39,60,参与比赛， 获取更多的知识碎片， 大奖等你来领！ ,收集更多时代符文，赢得更大的奖品！,2025-03-26 08:46:34
+T_GUIDE_SKILLTREE_CHARACTER_INTRO1,"Like weapon Magics, here displays all the character magics discovered - once a magic is discovered by enough Dreamers on the server, it will be seen by everyone.",2025-01-20 08:11:39,170,和武器一样， 这里是已经被探索出来的角色机制， 有足够多数量的玩家探索到这个机制， 这个机制就会被公之于众,像武器魔法一样，这里显示所有已发现的角色魔法 -一旦伺服器上有够多梦想家发现此魔法，它将被公之于众。,2025-03-26 08:46:35
+T_GUIDE_SKILLTREE_CHARACTER_INTRO2,This is where you as an Explorer shine and showcase your unique glory! Character Magic you discover as a pioneer Explorer will be displayed here.,2025-01-20 08:11:39,150,而这里， 就是独属于你的探索领域， 你作为先驱者发现的角色机制就会显示在这个区域， 是独属于你的荣耀！ ,这是你作为发现者的光辉时刻，展现你独特的荣耀！作为先驱发现者，你发现的角色魔法将在此显示。,2025-03-26 08:46:38
+T_GUIDE_SKILLTREE_WEAPON_INTRO1,"Here displays all the weapon Magics discovered - once a Magic is discovered by enough Dreamers on the server, it will be seen by everyone.",2025-01-20 08:11:39,140,这里是全服玩家已经探索出来的武器机制， 有足够多数量的玩家探索到这个机制， 这个机制就会被公之于众,此处显示所有已发现的武器魔法 - 一旦伺服器上有够多梦想家发现此魔法，它将被公之于众。,2025-03-26 08:46:42
+T_GUIDE_SKILLTREE_WEAPON_INTRO2,This is where you as an Explorer showcase your unique glory! Weapon Magic you discover as a pioneer Explorer will be displayed here.,2025-01-20 08:11:39,150,而这里， 就是独属于你的探索领域， 你作为先驱者发现的武器机制就会显示在这个区域， 是独属于你的荣耀！ ,这是你作为发现者展示独特荣耀的地方！作为先锋发现者，你所发现的武器魔法将在此显示。,2025-03-26 08:46:30
+T_GUIDE_TIMEALTERNATING_INRO1,"Here you are, Primal Dreamer! Now you can create stuff in primitive forms and with primitive Magic.",2025-01-20 08:11:39,110,当前你是原始魔法师， 你的魔法只能生成最原始的形象和最基础的能力,你来了，原始梦想者！现在你可以创造出原始形态的东西，并使用原始魔法。,2025-03-26 08:46:43
+T_GUIDE_TIMEALTERNATING_INRO2,"Level up your Dreaming Power, for cooler and more powerful creations!",2025-01-20 08:11:39,90,随着你不断提升能力， 你的魔法会变强， 生成更炫酷的形象， 获得更强大的能力！ ,提升你的梦想力，创造更酷、更强大的作品！,2025-03-26 08:46:29
+T_GUIDE_TIMEALTERNATING_INRO3,"Though now you can only create primitive characters and weapons, leveling up your Dreaming Power unlocks more powerful and diverse creations!",2025-01-20 08:11:39,160,你当前只能生成原始形象的角色， 获取最原始的武器， 但只要继续升级， 就能获得更强的能力！,目前虽然只能创建原始角色和武器，但提升你的梦想力可以解锁更强大和多样的创作！,2025-03-26 08:46:34
+T_GUIDE_TIMEALTERNATING_INRO4,This is the number of<color=#e25a30>Era Runes</color> required to advance your Dreaming Power - you can earn them in every game played,2025-01-20 08:11:39,150,这里是你进阶需要获得的知识碎片数量， 每次对局都能获得知识碎片,这是提升梦想力所需的<color=#e25a30>时代符文</color>数量 - 你可以在每场游戏中获得它们,2025-03-26 08:46:40
+T_GUIDE_WEAPON01,"Dreamers, time to create your first weapon!",2025-01-20 08:11:39,60,勇士，来创造属于你的武器吧！,梦想家，是时候创造你的第一件武器！,2025-03-26 08:46:33
+T_GUIDE_WEAPON02,Enter your weapon prompt here,2025-01-20 08:11:39,60,输入词来创造你自己的武器,请在此输入你的武器提示,2025-03-26 08:46:37
+T_GUIDE_WEAPON03,"Hang on, the weapon will be ready soon",2025-01-20 08:11:39,60,稍等片刻，武器马上就好,等一下，武器很快就会准备好了,2025-03-26 08:46:42
+T_GUIDE_WEAPON04,Click here to see the character you just created!,2025-04-22 12:51:32,60,点击此处来浏览你刚创建的武器,点击此处查看您刚刚创建的角色！,2025-04-22 12:51:32
+T_GUIDE_WEAPON04C,Click here to see the character you just created!,2025-04-24 08:41:33,100,Click here to see the character you just created!,点击此处查看您刚刚创建的武器！,2025-04-24 08:41:33
+T_GUIDE_WEAPON05,The weapon you created has been equipped - let me show you something magical first!,2025-01-20 08:11:39,100,这是你生成的武器，已经装备上了，快去战斗吧！,你创造的武器已经装备好了 -快去试试吧！,2025-03-26 08:46:31
+T_GUIDE_WEAPON06,Want to try out others' weapons too?,2025-01-20 08:11:39,60,尝试他人的武器也是一个不错的选择,也想试试别人的武器吗？,2025-03-26 08:46:35
+T_GUIDE_WEAPON07,Tip: You can only obtain one weapon after a game,2025-01-20 08:11:39,60,小贴士：在一场游戏后，你只能拿取一个,提示：每场游戏只能获得一件武器,2025-03-26 08:46:40
+T_GUIDE_WEAPON08,Try out your weapon on training dummy!,2025-01-20 08:11:39,50,前往试用你的武器,在训练假人上试用你的武器！,2025-03-26 08:46:40
+T_GUIDEPICTURE_ANY,Defeat the enemy and plunder all his gems [0#emoji_3]! Also be careful not to be defeated by others,2025-04-21 13:47:39,100,,击败敌人， 即可掠夺他的全部宝石[0#emoji_3]！ 也要小心不要被别人击败哦,2025-04-21 13:41:50
+T_GUIDEPICTURE_BOX,Every treasure chest contains the King's Gem[0#emoji_3]! Collect them quickly to win the game!,2025-04-23 12:50:27,100,,每个宝箱都藏着国王的宝石[0#emoji_3]！ 快把他们收集起来， 来获取比赛胜利吧！ ,2025-04-21 13:41:50
+T_GUIDEPICTURE_FRAGMENT,Collect knowledge fragments [0#emoji_1]! Increase your magician level! Create the strongest weapons and characters!,2025-04-23 12:50:27,100,,收集知识碎片[0#emoji_1]！ 提升魔法师等级！ 创造最强的武器和角色吧！ ,2025-04-21 13:41:50
+T_GUIDEPICTURE_UPGRADE,"Want to generate the most powerful weapon? Go and upgrade your magician level! The higher the level, the stronger the weapon!",2025-04-23 12:50:27,100,,想要生成最强的武器吗？ 快去提升你的魔法师等级吧！ 等级越高， 武器越强！ ,2025-04-20 09:14:27
+T_GUIDEPICTURE_WIN,"The person with the most gems[0#emoji_3] wins the game! The higher the ranking, the more generous the rewards!",2025-04-23 12:50:27,100,,宝石[0#emoji_3]最多的人获得比赛胜利！ 排名越高， 奖励越丰厚！ ,2025-04-21 13:41:50
+T_HAMMER_D,"Smash forward with a hammer, dealing heavy damage in an area in front",2025-03-21 11:50:40,50,,使用锤子往前下砸，对身前一个范围造成大量伤害,2025-03-26 08:46:45
+T_HAMMER_N,Hammer,2025-03-20 06:38:29,14,,锤子,2025-03-26 08:46:45
+T_HEAL_1,Restore minor health,2025-01-20 08:11:39,25,造成些微回复,恢复少量生命值,2025-03-26 08:46:31
+T_HEAL_2,Restore small health,2025-01-20 08:11:39,25,造成少量回复,恢复少量生命值,2025-03-26 08:46:35
+T_HEAL_3,Restore moderate health,2025-01-20 08:11:39,30,造成显著回复,恢复中等生命值,2025-03-26 08:46:40
+T_HEAL_4,Restore major health,2025-01-20 08:11:39,25,造成大量回复,恢复大量生命值,2025-03-26 08:46:28
+T_HEALTHBOOST_D,Initial health increased,2025-03-20 06:38:27,22,初始血量增加,初始血量增加,2025-03-26 08:46:28
+T_HEALTHBOOST_N,Health Boost,2025-01-20 08:11:40,18,血量提升,生命提升,2025-03-26 08:46:41
+T_HISTORY,History,2025-01-20 08:11:40,8,历史记录,历史,2025-03-26 08:46:36
+T_HOOKLOCK_D,"Pull yourself towards the hit location, causing damage and disarming the enemy",2025-04-21 13:47:38,50,,将自身拉向命中位置，对敌人造成伤害和缴械,2025-04-20 09:37:13
+T_HOOKLOCK_N,Web Hook,2025-04-21 03:34:52,14,,网钩,2025-04-21 03:34:51
+T_HUD_CANCEL_DIR,Cancel direction,2025-04-21 13:47:38,18,,取消方向,2025-04-10 11:25:41
+T_HUD_DESC,Enter edit mode and customize button position and size,2025-04-21 13:47:38,44,,进入编辑模式，自定义按钮位置和大小,2025-04-10 11:25:41
+T_HUD_MOVE_MODE,Whether to enable joystick following,2025-04-21 13:47:38,26,,是否开启摇杆跟随,2025-04-10 11:25:41
+T_HUD_NAME,Custom button layout,2025-04-21 13:47:38,24,,自定义按钮布局,2025-04-10 11:25:41
+T_HUD_SAVE_1,Set 1,2025-04-21 13:47:38,16,,套装1,2025-04-10 11:25:41
+T_HUD_SAVE_2,Set 2,2025-04-21 13:47:38,16,,套装2,2025-04-10 11:25:41
+T_HUD_SAVE_3,Set 3,2025-04-21 13:47:38,16,,套装3,2025-04-10 11:25:41
+T_HUD_SAVE_SUCCESS,Saved successfully,2025-04-21 13:47:38,18,,保存成功,2025-04-10 11:25:41
+T_HUD_SCALE,size,2025-04-21 13:47:38,14,,大小,2025-04-10 11:25:41
+T_HUNTERENEMY,Hunting begins! <color=#E25A30><b>{0}</b></color> is chosen as target!,2025-03-26 08:46:47,70,追杀事件开始，<color=#CE2121><b>{0}</b></color>被选为追杀目标,狩猎开始！ <color=#E25A30><b>{0}</b></color> 被选为目标！,2025-03-26 08:46:35
+T_ICEWALL_D,Create three solid walls with health,2025-04-21 13:47:38,34,,制造三个有生命值的实体墙,2025-04-20 09:37:14
+T_ICEWALL_N,Protective Ice Wall,2025-03-20 06:38:28,18,,防护冰墙,2025-03-26 08:46:44
+T_ICTHORN_D,"Summons a column of ice spikes, causing multiple damage to enemies it touches.",2025-04-21 13:47:38,46,,召唤一列冰刺，对触碰敌人造成多次伤害,2025-04-20 09:37:14
+T_ICTHORN_N,Summon Ice Spikes,2025-04-21 13:47:38,18,,召唤冰刺,2025-04-10 11:25:41
+T_INFOMAT,Profile,2025-01-20 08:11:40,12,个人信息,个人档案,2025-03-26 08:46:35
+T_INFOMATIONS,Profile,2025-01-20 08:11:40,8,个人信息,个人档案,2025-03-26 08:46:31
+T_INGAME_BROADCAST_M_1,no special effects,2025-01-20 08:11:40,18,,无特殊效果,2025-03-26 08:46:32
+T_INGAME_BROADCAST_M_2,Super drought,2025-01-20 08:11:40,13,,超级干旱,2025-03-26 08:46:28
+T_INGAME_BROADCAST_M_3,Water World,2025-01-20 08:11:40,11,,水世界,2025-03-26 08:46:39
+T_INGAME_BROADCAST_M_4,Gobi Desert,2025-01-20 08:11:40,11,,戈壁沙漠,2025-03-26 08:46:35
+T_INGAME_BROADCAST_M_5,grassland,2025-01-20 08:11:40,9,,草原,2025-03-26 08:46:30
+T_INGAME_BROADCAST_M_6,wetlands,2025-01-20 08:11:40,8,,湿地,2025-03-26 08:46:42
+T_INGAME_BROADCAST_M_7,stone forest,2025-01-20 08:11:40,12,,石林,2025-03-26 08:46:37
+T_INGAME_BROADCAST_MAP,"Presenting the map created by <color=#FBB03B><b>{0}</b></color>, with <color=#E25A30><b>{1}</b></color> special terrain",2025-03-26 08:46:47,119,,呈现由<color=#FBB03B><b>{0}</b></color>创建的地图，包含<color=#E25A30><b>{1}</b></color>特殊地形,2025-03-26 08:46:28
+T_INGAME_BROADCAST_W_1,Explosive,2025-01-20 08:11:40,9,,爆炸的,2025-03-26 08:46:29
+T_INGAME_BROADCAST_W_10,Slowing down,2025-01-20 08:11:40,12,减速,减速,2025-03-26 08:46:33
+T_INGAME_BROADCAST_W_11,Lifesteal,2025-01-20 08:11:40,10,吸血,吸血,2025-03-26 08:46:29
+T_INGAME_BROADCAST_W_12,Enlarging,2025-01-20 08:11:40,10,变大,放大,2025-03-26 08:46:42
+T_INGAME_BROADCAST_W_13,Shrinking,2025-01-20 08:11:40,10,变小,缩小,2025-03-26 08:46:38
+T_INGAME_BROADCAST_W_14,Transforming,2025-01-20 08:11:40,12,变形,变形,2025-03-26 08:46:28
+T_INGAME_BROADCAST_W_15,Blinding,2025-01-20 08:11:40,12,近视,致盲,2025-03-26 08:46:43
+T_INGAME_BROADCAST_W_16,Stunning,2025-01-20 08:11:40,10,眩晕,眩晕,2025-03-26 08:46:41
+T_INGAME_BROADCAST_W_17,BlackHole,2025-03-21 08:47:56,10,吸引,黑洞,2025-03-26 08:46:36
+T_INGAME_BROADCAST_W_18,Homing bullet,2025-01-20 08:11:40,16,追踪子弹,追踪弹,2025-03-26 08:46:29
+T_INGAME_BROADCAST_W_19,Larger bullet,2025-01-20 08:11:40,16,子弹变大,子弹变大,2025-03-26 08:46:41
+T_INGAME_BROADCAST_W_2,Penetration,2025-01-20 08:11:40,11,,穿透,2025-03-26 08:46:43
+T_INGAME_BROADCAST_W_3,Bouncing,2025-01-20 08:11:40,8,,弹跳,2025-03-26 08:46:38
+T_INGAME_BROADCAST_W_4,Burning,2025-01-20 08:11:41,7,,燃烧,2025-03-26 08:46:28
+T_INGAME_BROADCAST_W_5,Frozen,2025-01-20 08:11:41,6,,冰封,2025-03-26 08:46:31
+T_INGAME_BROADCAST_W_6,Poisonous,2025-01-20 08:11:41,9,,毒性,2025-03-26 08:46:29
+T_INGAME_BROADCAST_W_7,Lightning,2025-01-20 08:11:41,9,,闪电,2025-03-26 08:46:40
+T_INGAME_BROADCAST_W_8,Knockback,2025-01-20 08:11:41,9,,击退,2025-03-26 08:46:29
+T_INGAME_BROADCAST_W_9,Splitting,2025-01-20 08:11:41,9,,分裂,2025-03-26 08:46:41
+T_INGAME_BROADCAST_WEAPON,"Presenting the weapon created by <color=#FBB03B><b>{0}</b></color>, with <color=#E25A30><b>{1}</b></color>",2025-03-26 08:46:47,107,,呈现由<color=#FBB03B><b>{0}</b></color>创造的武器，搭载<color=#E25A30><b>{1}</b></color>,2025-03-26 08:46:31
+T_INGAME_ENTER_TEXT,Enter text..,2025-01-20 08:11:41,12,,输入文字..,2025-03-26 08:46:28
+T_INGAME_EVENT,Big Event!,2025-01-20 08:08:10,12,Big Event!,大事件！,2025-03-26 08:46:30
+T_INGAME_FEEDBACK_APPEAR,RATE YOUR DESIGN,2025-01-20 08:11:41,16,,评价你的设计,2025-03-26 08:46:39
+T_INGAME_FEEDBACK_MATCH,RATE YOUR CREATION,2025-01-20 08:11:41,18,,评价你的创作,2025-03-26 08:46:33
+T_INGAME_KING,The KING,2025-01-20 08:11:41,8,,The KING,2025-03-21 02:56:16
+T_INGAME_NEXT_LEVEL,Congratulations !Go to next level!,2025-01-20 08:11:41,34,,恭喜！前往下一层！,2025-03-26 08:46:43
+T_INGAME_PLACE,Place,2025-01-20 08:11:41,5,,位置,2025-03-26 08:46:33
+T_INGAME_PROMPT,Prompt,2025-01-20 08:11:41,6,,提示,2025-03-26 08:46:40
+T_INGAME_QUIT,Are you sure you want to exit the game?,2025-01-20 08:11:41,39,,您确定要退出游戏吗？,2025-03-26 08:46:38
+T_INGAME_RESULT_ADD,ADD FRIEND,2025-01-20 08:11:41,20,添加好友（全大写）,加入好友,2025-03-26 08:46:30
+T_INGAME_RESULT_HEADSHOT,AVATAR,2025-01-20 08:11:41,14,头像（全大写）,角色,2025-03-26 08:46:33
+T_INGAME_RESULT_KILL,KILL,2025-01-20 08:11:41,4,,击杀,2025-03-26 08:46:30
+T_INGAME_RESULT_ME,YOU,2025-01-20 08:11:41,14,ME,你,2025-03-26 08:46:39
+T_INGAME_RESULT_NAME,NAME,2025-01-20 08:11:41,4,,名称,2025-03-26 08:46:42
+T_INGAME_RESULT_POINT,POINT,2025-04-24 08:15:05,10,,分数,2025-04-24 08:15:05
+T_INGAME_RESULT_RANK,RANK,2025-01-20 08:11:41,4,,排名,2025-03-26 08:46:29
+T_INGAME_RESULT_TROPHY,TROPHY,2025-01-20 08:11:41,6,,奖杯,2025-03-26 08:46:31
+T_INGAME_TAP_CONTINUE,Tap to Continue,2025-01-20 08:11:41,15,,点击继续,2025-03-26 08:46:28
+T_INGAME_TEMPLATE_ADORABLE,Adorable panda,2025-01-20 08:11:41,14,,可爱的熊猫,2025-03-26 08:46:33
+T_INGAME_TEMPLATE_ANCIENT,An ancient relic,2025-01-20 08:11:41,16,,古代遗物,2025-03-26 08:46:41
+T_INGAME_TEMPLATE_BARBIE,Lovely Barbie,2025-01-20 08:11:42,13,,可爱的芭比,2025-03-26 08:46:35
+T_INGAME_TEMPLATE_BATMAN,Batman for justice,2025-01-20 08:11:42,18,,正义蝙蝠侠,2025-03-26 08:46:41
+T_INGAME_TEMPLATE_BLOSSOMING,Blossoming rose gun,2025-01-20 08:11:42,19,,玫瑰绽放枪,2025-03-26 08:46:27
+T_INGAME_TEMPLATE_BLUE_INKED,Blue-inked pen,2025-01-20 08:11:42,14,,蓝墨钢笔,2025-03-26 08:46:29
+T_INGAME_TEMPLATE_CAT,British shorthair cat,2025-01-20 08:11:42,21,,英国短毛猫,2025-03-26 08:46:32
+T_INGAME_TEMPLATE_CATWOMAN,Catwoman in black outfit,2025-01-20 08:11:42,24,,黑衣猫女,2025-03-26 08:46:36
+T_INGAME_TEMPLATE_COLD,A jar of cold milk,2025-01-20 08:11:42,18,,一罐冷牛奶,2025-03-26 08:46:31
+T_INGAME_TEMPLATE_COLORFUL,Colorful lollipop,2025-01-20 08:11:42,17,,五彩棒棒糖,2025-03-26 08:46:28
+T_INGAME_TEMPLATE_COMPACT,hairdryer gun,2025-01-20 08:11:42,13,,吹风机枪,2025-03-26 08:46:36
+T_INGAME_TEMPLATE_DARK,Dungeon of darkness,2025-01-20 08:11:42,19,,黑暗地牢,2025-03-26 08:46:27
+T_INGAME_TEMPLATE_DOG,A dog with big ears,2025-01-20 08:11:42,19,,一只大耳狗,2025-03-26 08:46:41
+T_INGAME_TEMPLATE_DRAGON,Dragon breathing fire,2025-01-20 08:11:42,21,,龙息火焰,2025-03-26 08:46:37
+T_INGAME_TEMPLATE_ELSA,Elsa with the power of ice,2025-01-20 08:11:42,26,,艾莎与冰之力量,2025-03-26 08:46:29
+T_INGAME_TEMPLATE_FIRE,Hellfire shotgun,2025-01-20 08:11:42,16,,地狱火霰弹枪,2025-03-26 08:46:38
+T_INGAME_TEMPLATE_FISH,Giant shark gun,2025-01-20 08:11:42,15,,巨型鲨鱼枪,2025-03-26 08:46:40
+T_INGAME_TEMPLATE_FIZZY,Fizzy coke,2025-01-20 08:11:42,10,,气泡可乐,2025-03-26 08:46:42
+T_INGAME_TEMPLATE_FLUFFY,A fluffy pillow,2025-01-20 08:11:42,15,,一个蓬松的枕头,2025-03-26 08:46:41
+T_INGAME_TEMPLATE_FROG,Frog warrior,2025-01-20 08:11:42,12,,蛙武士,2025-03-26 08:46:37
+T_INGAME_TEMPLATE_FROZEN,Frozen land,2025-01-20 08:11:42,11,,冰封之地,2025-03-26 08:46:28
+T_INGAME_TEMPLATE_GENTLE,A cow,2025-01-20 08:11:42,5,,一头牛,2025-03-26 08:46:28
+T_INGAME_TEMPLATE_GUN,A lethal black gun,2025-01-20 08:11:42,18,,致命黑枪,2025-03-26 08:46:43
+T_INGAME_TEMPLATE_HORSE,A brown horse,2025-03-07 06:49:08,14,,一匹棕色的马,2025-03-26 08:46:32
+T_INGAME_TEMPLATE_INTERESTING,Ancient book,2025-01-20 08:11:42,12,,古书,2025-03-26 08:46:42
+T_INGAME_TEMPLATE_IRON_MAN,Iron-man in yellow suit,2025-01-20 08:11:42,23,,黄色套装钢铁人,2025-03-26 08:46:39
+T_INGAME_TEMPLATE_JAMES_BOND,Elegant James Bond,2025-01-20 08:11:42,18,,优雅的詹姆斯庞德,2025-03-26 08:46:37
+T_INGAME_TEMPLATE_JOHN_SNOW,Jon Snow from Game of Thrones,2025-01-20 08:11:42,29,,冰与火之歌的琼恩雪诺,2025-03-26 08:46:31
+T_INGAME_TEMPLATE_JOKER,Joker with clownish grin,2025-01-20 08:11:42,24,,小丑带着傻笑,2025-03-26 08:46:38
+T_INGAME_TEMPLATE_JURASSIC,Jurassic world,2025-01-20 08:11:43,14,,侏罗纪世界,2025-03-26 08:46:42
+T_INGAME_TEMPLATE_KNIGHT,The guardian knight,2025-01-20 08:11:43,19,,守护骑士,2025-03-26 08:46:36
+T_INGAME_TEMPLATE_LEMON,Lemontree land,2025-01-20 08:11:43,14,,柠檬树之地,2025-03-26 08:46:30
+T_INGAME_TEMPLATE_MAJESTIC,Majestic castle,2025-01-20 08:11:43,15,,宏伟的城堡,2025-03-26 08:46:33
+T_INGAME_TEMPLATE_MANUFACTURING,Bustling factory,2025-01-20 08:11:43,16,,繁忙工厂,2025-03-26 08:46:32
+T_INGAME_TEMPLATE_MONKEY,Monkey with banana,2025-01-20 08:11:43,18,,香蕉猴子,2025-03-26 08:46:40
+T_INGAME_TEMPLATE_MYSTERIOUS,Mysterious forest,2025-01-20 08:11:43,17,,神秘森林,2025-03-26 08:46:42
+T_INGAME_TEMPLATE_PENGUIN,A mercenary penguin,2025-01-20 08:11:43,19,,雇佣兵企鹅,2025-03-26 08:46:30
+T_INGAME_TEMPLATE_PHOENIX,The home of mighty phoenix,2025-03-07 06:49:09,27,,凤凰的家园,2025-03-26 08:46:29
+T_INGAME_TEMPLATE_PIRATE,Pirate with evil grin,2025-01-20 08:11:43,21,,带着邪恶笑容的海盗,2025-03-26 08:46:29
+T_INGAME_TEMPLATE_RETRO,Retro arcade,2025-01-20 08:11:43,12,,复古街机,2025-03-26 08:46:34
+T_INGAME_TEMPLATE_SAMURAI,Samurai with a sharp katana,2025-01-20 08:11:43,27,,武士拥有一把锋利的日本刀,2025-03-26 08:46:33
+T_INGAME_TEMPLATE_SPONGEBOB,Green Spongebob,2025-01-20 08:11:43,15,,绿色海绵宝宝,2025-03-26 08:46:37
+T_INGAME_TEMPLATE_SPORTS,A stadium for sports events,2025-01-20 08:11:43,27,,运动场馆,2025-03-26 08:46:42
+T_INGAME_TEMPLATE_STREAMLINED,Racing car with lightning,2025-01-20 08:11:43,25,,闪电赛车,2025-03-26 08:46:38
+T_INGAME_TEMPLATE_STRONG,A powerful wind turbine,2025-01-20 08:11:43,23,,强力涡轮机,2025-03-26 08:46:29
+T_INGAME_TEMPLATE_SWEET,Candyland full of sweet treats.,2025-01-20 08:11:43,31,,糖果乐园充满甜蜜的美食。,2025-03-26 08:46:30
+T_INGAME_TEMPLATE_SWORD,Powerful sword,2025-01-20 08:11:43,14,,强大的剑,2025-03-26 08:46:34
+T_INGAME_TEMPLATE_TOM,Tom from Tom and Jerry,2025-01-20 08:11:43,22,,汤姆猫与杰利鼠的汤姆,2025-03-26 08:46:30
+T_INGAME_TEMPLATE_TRANQUIL,A tranquil aquarium,2025-01-20 08:11:43,19,,一座宁静的水族馆,2025-03-26 08:46:34
+T_INGAME_TEMPLATE_TRANSFORMER,Optimus prime,2025-01-20 08:11:43,13,,柯博文,2025-03-26 08:46:30
+T_INGAME_TEMPLATE_TROPICAL,Tropical sugarcane,2025-01-20 08:11:43,18,,热带甘蔗,2025-03-26 08:46:37
+T_INGAME_TEMPLATE_WATER,Water pistol,2025-01-20 08:11:43,12,,水枪,2025-03-26 08:46:33
+T_INGAME_TEMPLATE_WHITE,Cat with white fur,2025-01-20 08:11:43,18,,白毛猫,2025-03-26 08:46:28
+T_INGAME_TEMPLATE_WINNIE,Winnie the Pooh,2025-01-20 08:11:43,15,,小熊维尼,2025-03-26 08:46:41
+T_INGAME_TEMPLATE_YELLOW,Dog in yellow coat,2025-01-20 08:11:43,18,,穿黄色外套的狗,2025-03-26 08:46:42
+T_INGAME_UI_REMAINING,Remaining players,2025-01-20 08:11:43,17,,剩余玩家,2025-03-26 08:46:31
+T_INGAME_USERNAME,User Name:,2025-01-20 08:11:44,10,,用户名：,2025-03-26 08:46:36
+T_INGAME_USERNAME_D,Let me see your strength,2025-01-20 08:11:44,24,,让我看看你的实力,2025-03-26 08:46:39
+T_INS_C_1,Trying to design a superhero character?,2025-04-21 13:47:39,36,,试着设计一个超级英雄角色？,2025-04-20 09:14:27
+T_INS_C_2,Want to try your hand at being an adventurer from the future?,2025-04-21 13:47:39,40,,想试试一个来自未来的冒险家吗？,2025-04-20 09:14:27
+T_INS_C_3,Maybe generate a traveler from another world?,2025-04-21 13:47:39,44,,或许生成一个来自异世界的旅行者吗？,2025-04-20 09:14:27
+T_INS_C_4,Maybe create a mysterious magician?,2025-04-21 13:47:39,40,,也许可以创造一个神秘的魔法师？,2025-04-20 09:14:27
+T_INS_C_5,Maybe create a ruthless bounty hunter?,2025-04-21 13:47:39,42,,或许可以创造一个冷酷的赏金猎人？,2025-04-20 09:14:27
+T_INS_M_1,Trying to generate a medieval style castle?,2025-04-21 13:47:39,40,,试着生成一个中世纪风格的城堡？,2025-04-20 09:14:27
+T_INS_M_2,Try creating a map completely covered in forest?,2025-04-21 13:47:39,44,,试试创造一个被森林完全覆盖的地图？,2025-04-20 09:14:27
+T_INS_M_3,Want to try a city hidden in the deep sea?,2025-04-21 13:47:39,40,,想试试一个隐藏在深海的城市吗？,2025-04-20 09:14:27
+T_INS_M_4,Maybe design a desolate desert wasteland?,2025-04-21 13:47:39,42,,或许可以设计一个荒凉的沙漠废土？,2025-04-20 09:14:27
+T_INS_M_5,Want to design a future city full of unknown technologies?,2025-04-21 13:47:39,46,,想设计一个充满未知科技的未来都市吗？,2025-04-20 09:14:27
+T_INS_W_1,Trying to design a weapon used by ancient knights?,2025-04-23 12:50:27,44,,试着设计一把古代骑士使用的武器？ ,2025-04-20 09:14:27
+T_INS_W_2,Want to design a future weapon powered entirely by technology?,2025-04-21 13:47:39,50,,想设计一个完全依赖科技驱动的未来武器吗？,2025-04-20 09:14:27
+T_INS_W_3,Want to try using animals as weapons?,2025-04-21 13:47:39,34,,想试试用动物作为武器吗？,2025-04-20 09:14:27
+T_INS_W_4,Maybe try a weapon whose power comes from the stars or the universe?,2025-04-21 13:47:39,58,,或许可以试试一件武器，它的力量来源于星空或宇宙？,2025-04-20 09:14:27
+T_INS_W_5,Do you want to create a weapon that utilizes natural elements?,2025-04-21 13:47:39,46,,你是否想创造一个利用自然元素的武器？,2025-04-20 09:14:27
+T_INTRO_NAME,"What is your name, Dreamer?",2025-01-20 08:11:44,27,,你叫什么名字，梦想家？,2025-03-26 08:46:38
+T_INTRO_PART1_1,"Listen up, use the left joystick to move",2025-01-20 08:11:44,40,,听好了，用左侧摇杆移动,2025-03-26 08:46:33
+T_INTRO_PART1_2,"Well done, use the right fire button, click to shoot",2025-01-20 08:11:44,52,,做得好！点击开火键即可射击,2025-03-26 08:46:41
+T_INTRO_PART1_3,"There is an enemy in front of you, let me see your skills",2025-01-20 08:11:44,57,,你面前有一个敌人，让我看看你的实力,2025-03-26 08:46:29
+T_INTRO_PART1_4,"not,bad",2025-01-20 08:11:44,7,,不错,2025-03-26 08:46:34
+T_INTRO_PART1_5,There is another enemy in the grass ahead,2025-01-20 08:11:44,41,,前面的草丛中还有另一个敌人,2025-03-26 08:46:38
+T_INTRO_PART1_6,Find him and kill him,2025-01-20 08:11:44,21,,找到并杀了他,2025-03-26 08:46:43
+T_INTRO_PART1_7,congratulations! let's go to next step,2025-01-20 08:11:44,38,,恭喜！让我们前往下一步,2025-03-26 08:46:31
+T_INTRO_PART2_1,Feel free to imagine and create whatever you want here,2025-01-20 08:11:44,54,,在这里随意想像和创造你想要的任何东西,2025-03-26 08:46:42
+T_INTRO_PART2_2,"Whatever you want, enter it here",2025-01-20 08:11:44,32,,无论你想要什么，都可以在这里输入,2025-03-26 08:46:38
+T_INTRO_PART2_3,"Here are other people’s creations, you can find inspiration",2025-03-26 08:46:47,59,,这里有其他人的创作，你可以找到灵感,2025-03-26 08:46:33
+T_INTRO_PART2_4,You can also just use other people’s ideas and see what magic happens,2025-03-26 08:46:47,69,,"你也可以使用别人的想法，看看会发生什""魔""事",2025-03-26 08:46:29
+T_INTRO_PART2_5,"Once the creation is complete, click here to confirm and wait for the magic to happen.",2025-01-20 08:11:44,86,,创建完成后，点击此处确认并等待魔法发生。,2025-03-26 08:46:40
+T_INTRO_STRENGTH,Show me your strength!,2025-01-20 08:11:44,22,,展示你的实力！,2025-03-26 08:46:35
+T_INVINCIBILITY_D,Become immune to damage and negative effects for a duration,2025-03-20 06:38:27,42,不受伤害与负面效果影响,持续时间内不受伤害与负面效果影响,2025-03-26 08:46:39
+T_INVINCIBILITY_N,Invincibility,2025-01-20 08:11:44,14,无敌,无敌,2025-03-26 08:46:34
+T_INVISIBILITY_D,"Go invisible for a short time; moving, attacking, or taking damage reveals you",2025-03-20 06:38:27,58,使用后隐身一段时间，可以移动，攻击或者受击会现形,使用后隐身一段时间，可以移动，攻击或者受击会现形,2025-03-26 08:46:33
+T_INVISIBILITY_N,Invisibility,2025-01-20 08:11:44,14,隐身,隐身,2025-03-26 08:46:35
+T_KEEPMOVING_D,Gain a gem after moving a certain distance,2025-03-20 06:38:27,38,每移动一段距离，获得一个宝石,每移动一段距离，获得一个宝石,2025-03-26 08:46:41
+T_KEEPMOVING_N,Move to earn Gems,2025-01-20 08:11:44,22,移动获得宝石,移动得宝石,2025-04-22 10:43:10
+T_KINDLE_D,"Ignite hit enemies, causing continuous damage",2025-03-20 06:38:28,38,,点燃命中的敌人，受到持续伤害,2025-03-26 08:46:44
+T_KINDLE_N,Ignite,2025-03-20 06:38:28,14,,点燃,2025-03-26 08:46:44
+T_KINGCHOOSEMAP,"Now, I shall decide whose arena will grace this battle!",2025-01-20 08:11:44,56,现在我要选出本场将用谁的地图！,现在，我将决定哪个竞技场将会成为这场战斗的舞台！,2025-03-26 08:46:28
+T_KINGCHOOSEWHO,It shall be {0}'s!,2025-01-20 08:11:44,28,将会是{0}！,它应该是 {0} 的！,2025-03-26 08:46:30
+T_KNOCKBACK,Bullet knocks enemy back a certain distance,2025-01-20 08:11:44,60,将敌人击退一段距离,子弹将敌人击退一定距离,2025-03-26 08:46:43
+T_KNOCKBACK_SLOWDOWN_D,Knock back enemies and slow them down,2025-01-20 08:11:44,40,将敌人击退一定距离同时造成减速,击退敌人并减慢他们的速度,2025-03-26 08:46:36
+T_LACK_DESC,Earn more Coins and creation opportunities through battles!,2025-01-20 08:11:45,80,通过对局获得更多金币和生成机会！ 尝试更多创意吧！,透过战斗获得更多金币和创造机会！,2025-03-26 08:46:29
+T_LACK_WAY,How to get,2025-01-20 08:11:45,15,获取方式,如何取得,2025-03-26 08:46:35
+T_LANGUAGE,Language,2025-01-20 08:11:45,10,语言,语言,2025-03-26 08:46:35
+T_LEADERBOARD,Leaderboard,2025-01-20 08:11:45,11,,排行榜,2025-03-26 08:46:36
+T_LEVELUP_CHARACTER,Increase prompt limit to {0} characters,2025-01-20 08:11:45,50,文本上限提高至{0}字符,将提示限制增加到{0}个字元,2025-03-26 08:46:29
+T_LEVELUP_N_1,The upper limit of the number of input characters that can be generated has been increased from <color=#CE2121><b>15</b></color> to <color=#CE2121><b>20</b></color>,2025-04-23 12:12:18,166,,生成可输入字符数上限从<color=#CE2121><b>15</b></color>提升至<color=#CE2121><b>20</b></color>,2025-04-23 12:12:18
+T_LEVELUP_N_2,The upper limit of the number of input characters that can be generated is increased from <color=#CE2121><b>20</b></color> to <color=#CE2121><b>25</b></color>,2025-04-23 12:12:18,166,,生成可输入字符数上限从<color=#CE2121><b>20</b></color>提升至<color=#CE2121><b>25</b></color>,2025-04-23 12:12:18
+T_LEVELUP_N_3,The upper limit of the number of input characters that can be generated has been increased from <color=#CE2121><b>25</b></color> to <color=#CE2121><b>30</b></color>,2025-04-23 12:12:18,166,,生成可输入字符数上限从<color=#CE2121><b>25</b></color>提升至<color=#CE2121><b>30</b></color>,2025-04-23 12:12:18
+T_LEVELUP_SHOW1,maximum level of generation is,2025-04-24 11:25:25,36,,生成最高等级提升,2025-04-24 11:25:25
+T_LEVELUP_SHOW2,The upper limit of characters is,2025-04-24 11:24:47,34,,生成字符数上限提升至,2025-04-24 11:24:42
+T_LEVELUP_W_1,The maximum level of generated weapons/characters has been increased from [0#emoji_11] to [0#emoji_12],2025-04-23 12:12:18,92,,生成武器/角色最高等级从[0#emoji_11]提升至[0#emoji_12] ,2025-04-23 12:12:18
+T_LEVELUP_W_2,The maximum level of generated weapons/characters has been increased from [0#emoji_12] to [0#emoji_13],2025-04-23 12:12:18,88,,生成武器/角色最高等级从[0#emoji_12]提升至[0#emoji_13],2025-04-23 12:12:18
+T_LEVELUP_W_3,The maximum level of generated weapons/characters has been increased from [0#emoji_13] to [0#emoji_14],2025-04-23 12:12:18,92,,生成武器/角色最高等级从[0#emoji_13]提升至[0#emoji_14] ,2025-04-23 12:12:18
+T_LIGHTNING,Bullet triggers a delayed lightning strike at the impact location,2025-01-20 08:11:45,72,命中位置在延迟一段时间后落下一道雷击,子弹触发闪电，延迟后击中目标位置,2025-03-26 08:46:42
+T_LOBBY_BACK,back,2025-01-20 08:11:45,4,,返回,2025-03-26 08:46:42
+T_LOBBY_BATTLE,MAGIC BATTLE,2025-01-20 08:11:45,12,,魔法战斗,2025-03-26 08:46:38
+T_LOBBY_CONGRATULATIONS,Congratulations !,2025-01-20 08:11:45,17,,恭喜！,2025-03-26 08:46:32
+T_LOBBY_MATCHING,Matching,2025-01-20 08:11:45,8,,配对,2025-03-26 08:46:39
+T_LOBBY_NAME_ERROR,The name is not available,2025-01-20 08:11:45,25,,名称不可用,2025-03-26 08:46:28
+T_LOBBY_NAME_IRREGULAR,Nickname must be within 3~12 characters,2025-01-20 08:11:45,39,,昵称必须在3~12个字元内,2025-03-26 08:46:28
+T_LOBBY_SKIP,SKIP,2025-01-20 08:11:45,4,,跳过,2025-03-26 08:46:36
+T_LOGIN_CONNECTING,Connecting to server,2025-01-20 08:11:45,20,,连接伺服器,2025-03-26 08:46:40
+T_LOGIN_PRIVICY,privacy policy,2025-01-20 08:11:45,14,,隐私政策,2025-03-26 08:46:37
+T_LOGIN_USERITEM,Terms of use,2025-01-20 08:11:45,12,,使用条款,2025-03-26 08:46:43
+T_LOOT_REPAIR,Purchased weapons come with limited usage - Create your own weapons!,2025-01-20 08:11:45,70,购买的武器只能试用， 尝试自己生成一把你的专属武器吧！ ,购买的武器有使用限制 - 自制你的武器！,2025-03-26 08:46:33
+T_LVLUP_BUTTON1,Completed!,2025-03-26 06:31:40,20,,完成！ ,2025-03-26 08:46:46
+T_LVLUP_BUTTON2,Promotion!,2025-03-26 06:31:46,20,,升级！,2025-04-23 13:10:45
+T_LVLUP_TITLE1,Basic Trial,2025-03-26 06:31:28,20,,简单试炼,2025-03-26 08:46:46
+T_LVLUP_TITLE2,Ultimate Trial,2025-03-26 06:31:34,20,,终极试炼,2025-03-26 08:46:46
+T_MAGMA_APPEAR,Lava is erupting!,2025-01-20 08:11:45,30,岩浆开始喷发！,火山爆发了！,2025-03-26 08:46:28
+T_MAGNET_D,Pick up all gems within a range at intervals,2025-04-21 13:47:38,42,,间隔拾取周围一个范围内的所有宝石,2025-04-20 09:37:14
+T_MAGNET_N,Gem Pickup,2025-04-22 10:42:57,18,,宝石拾取,2025-04-20 09:25:45
+T_MAP,Arena:,2025-01-20 08:11:45,10,地图：,竞技场：,2025-03-26 08:46:43
+T_MAP_MODEDESC_PVE_1,PVE mode 1,2025-03-07 06:49:12,80,PVE mode 1,PVE模式1,2025-03-26 08:46:38
+T_MAP_MODEDESC_PVE_2,PVE mode 2,2025-03-07 06:49:12,30,PVE mode 2,PVE模式2,2025-03-26 08:46:39
+T_MAP_MODEDESC_PVE_3,PVE mode 3,2025-03-07 06:49:12,30,PVE mode 3,PVE模式3,2025-03-26 08:46:30
+T_MAP_MODEDESC_PVE_4,PVE mode 4,2025-03-07 06:49:12,30,PVE mode 4,PVE模式4,2025-03-26 08:46:29
+T_MAP_MODEDESC_PVP_1,PVP mode 1,2025-03-07 06:49:12,34,single match,PVP模式1,2025-03-26 08:46:29
+T_MAP_MODEDESC_PVP_2,PVP mode 2,2025-03-07 06:49:12,32,2v2v2 match,PVP模式2,2025-03-26 08:46:33
+T_MAP_MODEDESC_PVP_3,PVP mode 3,2025-03-07 06:49:12,28,3v3 match,PVP模式3,2025-03-26 08:46:28
+T_MAP_MODENAME_PVE_1,Novice,2025-01-20 08:11:45,18,PVE1,新手,2025-03-26 08:46:40
+T_MAP_MODENAME_PVE_2,Veteran,2025-01-20 08:11:45,18,PVE2,老手,2025-03-26 08:46:39
+T_MAP_MODENAME_PVE_3,Elite,2025-01-20 08:11:45,18,PVE3,精英,2025-03-26 08:46:33
+T_MAP_MODENAME_PVE_4,Legend,2025-01-20 08:11:45,18,PVE4,传说,2025-03-26 08:46:31
+T_MAP_MODENAME_PVP_1,Gem Blitz,2025-01-20 08:11:46,30,PVP Single,宝石争夺,2025-03-26 08:46:31
+T_MAP_MODENAME_PVP_2,Duo,2025-01-20 08:11:46,26,PVP Dual,两人组队,2025-03-26 08:46:36
+T_MAP_MODENAME_PVP_3,Trio,2025-01-20 08:11:46,30,PVP Triple,三人组队,2025-03-26 08:46:39
+T_MAP_N,Arena,2025-04-23 06:49:21,10,,竞技场,2025-04-23 06:49:21
+T_MAPDOWNFAIL,Arena loading failed; default arena is used,2025-01-20 08:11:46,56,地图下载失败，将会用默认地图,竞技场载入失败，使用预设竞技场,2025-03-26 08:46:27
+T_MAPGENERATE_D,Consumed when creating arenas,2025-01-20 08:11:46,36,用于地图创建时使用,创建竞技场时消耗,2025-03-26 08:46:42
+T_MAPGENERATE_N,Arena ticket,2025-01-20 08:11:46,24,地图创建次数,竞技场票券,2025-03-26 08:46:39
+T_MAPSLOT_D,Unlocks a slot for arena creation,2025-01-20 08:11:46,64,获得后可以解锁地图创建界面的槽位,解锁竞技场创建栏位,2025-03-26 08:46:36
+T_MAPSLOT_N,Arena slot,2025-01-20 08:11:46,24,地图创建槽位,竞技场栏位,2025-03-26 08:46:41
+T_MASSCURSE_D,"Release a group curse; cursed enemies leave a poison pool upon death, damaging those who step on it",2025-03-20 06:38:28,70,,释放群体诅咒，击中的单位死后留下毒池，会对走上的对象造成伤害,2025-03-26 08:46:44
+T_MASSCURSE_N,Group Curse,2025-03-20 06:38:28,18,,群体诅咒,2025-03-26 08:46:44
+T_MATCHRESULT_BRING,Take your favorite creation loot!,2025-01-20 08:11:46,35,带走你最爱的战利品！,带走你最爱的战利品！,2025-03-26 08:46:34
+T_MATCHRESULT_NO1,VICTORY!,2025-01-20 08:11:46,35,胜利！,胜利！,2025-03-26 08:46:40
+T_MATCHRESULT_NO2,Good job!,2025-01-20 08:11:46,30,继续努力！,做得好！,2025-03-26 08:46:36
+T_MATCHRESULT_NO3,You are No.{0},2025-01-20 08:11:46,30,你是第{0}名,你是第{0}名,2025-03-26 08:46:31
+T_MATCHRESULT_NO4,Good job!,2025-01-20 08:11:46,30,继续努力！,做得好！,2025-03-26 08:46:37
+T_MATCHRESULT_REWARD,Get a weapon and an arena for free!,2025-01-20 08:11:46,40,可以免费获取一个武器和一个地图！,免费获得武器和竞技场！,2025-03-26 08:46:43
+T_MODESEL_TITLE,Game Modes,2025-01-20 08:11:46,38,Mode Selection,游戏模式,2025-03-26 08:46:34
+T_MODESEL_TITLE_PVE,Dungeon Rush,2025-01-20 08:11:46,16,PVE,地牢刷宝,2025-03-26 08:46:31
+T_MODESEL_TITLE_PVP,Gem Blitz,2025-01-20 08:11:46,16,PVP,宝石争夺,2025-03-26 08:46:39
+T_MONSTER_GOUST,Ghost,2025-03-20 06:38:29,14,,幽灵,2025-03-26 08:46:45
+T_MONSTER_SKULL,Minion,2025-03-20 15:19:46,18,,骷髅小兵,2025-03-26 08:46:44
+T_MONSTER_SLAVE,King’s Slave,2025-03-27 02:21:42,20,,国王的奴隶,2025-03-26 08:46:45
+T_MONSTER_SLIME,Slime,2025-03-20 06:38:29,16,,史莱姆,2025-03-26 08:46:45
+T_MONSTER_SPECTER,Ghost Mage,2025-03-20 06:38:29,18,,幽灵法师,2025-03-26 08:46:45
+T_MORE_N,More,2025-04-23 06:51:09,10,,更多,2025-04-23 06:51:09
+T_MUSIC,Music,2025-01-20 08:11:46,6,音乐,音乐,2025-03-26 08:46:41
+T_MYOPIA_D,Enemy hit is added an opaque mask on screen,2025-01-20 08:11:46,50,命中敌人镜头边加一圈有透明度的遮罩,敌人被击中时屏幕会添加一个半透明的遮罩,2025-04-20 09:55:39
+T_NAME_LOBBY_BOT,Training Dummy,2025-01-20 08:11:46,32,TrainingBot,训练假人,2025-03-26 08:46:33
+T_NEWCHARACTER,New character,2025-01-20 08:11:46,15,新角色,新角色,2025-03-26 08:46:36
+T_NEWMAP,New Arena,2025-01-20 08:11:46,12,新地图,新竞技场,2025-03-26 08:46:42
+T_NEWNAME,New name,2025-01-20 08:11:46,12,新名字,新名称,2025-03-26 08:46:37
+T_NEWWEAPON,New weapon,2025-01-20 08:11:46,12,新武器,新武器,2025-03-26 08:46:41
+T_NEXT_STAGE,Next Stage,2025-04-25 08:23:06,10,,下一阶段,2025-04-25 08:23:06
+T_NIGHTFALL_D,"Emit a wave of light, narrowing the vision of nearby enemies",2025-03-20 06:38:27,46,使用后让附近的敌人视野变窄,释放出一圈光波，让附近的敌人视野变窄,2025-03-26 08:46:43
+T_NIGHTFALL_N,Vision Narrowing,2025-01-20 08:11:46,18,天黑,视野狭窄,2025-03-26 08:46:32
+T_NO_WEAPONBUFF,No Bonus,2025-04-23 12:12:34,10,,无加成,2025-04-23 12:12:34
+T_NOANYSKILL,"Sorry, but you didn't get anything cool this time...",2025-03-20 15:37:10,100,,可惜，你没有得到任何有趣的东西,2025-03-26 08:46:45
+T_NOBUYCOIN,Insufficient coins,2025-01-20 08:11:46,20,货币不足,金币不足,2025-03-26 08:46:31
+T_NOCOIN_RENAME,Insufficient coins,2025-01-20 08:11:47,18,金币不足，无法更改,金币不足,2025-03-26 08:46:40
+T_NOREMINDAGAIN,Do not remind me again,2025-01-20 08:11:47,25,下次不再提示,不再提醒我,2025-03-26 08:46:40
+T_NORENAME,Name not changed,2025-01-20 08:11:47,20,昵称未更改,名称未变更,2025-03-26 08:46:42
+T_NORMAL_MISSION,Level Up Mission,2025-04-23 07:06:50,20,,升级任务,2025-04-23 07:06:50
+T_NUMBNESS_D,"Paralyze hit enemies, making them temporarily immobile",2025-03-20 06:38:28,42,,麻痹命中的敌人，让其间隔无法移动,2025-03-26 08:46:44
+T_NUMBNESS_N,Paralyze,2025-03-20 06:38:28,14,,麻痹,2025-03-26 08:46:44
+T_OBTAINED,Obtained,2025-04-23 07:08:38,10,,已获取,2025-04-23 07:08:38
+T_ONLYWINNER,Champion Exclusive!,2025-01-20 08:11:47,20,冠军专属！,冠军专属！,2025-03-26 08:46:43
+T_OUT-OF-COMBATRAPIDHEALING_D,Healing effect increases after not taking damage for a while,2025-03-20 06:38:27,42,未受到伤害一段时间后回血效果增加,未受到伤害一段时间后回血效果增加,2025-03-26 08:46:40
+T_OUT-OF-COMBATRAPIDHEALING_N,Rapid healing by exiting battle,2025-01-20 08:11:47,35,脱战快速回血,脱战回血,2025-04-22 10:43:47
+T_OUT-OF-COMBATSPEEDBOOST_D,Movement speed increases after not taking damage for a while,2025-03-20 06:38:27,42,未受到伤害一段时间后移动速度增加,未受到伤害一段时间后移动速度增加,2025-03-26 08:46:41
+T_OUT-OF-COMBATSPEEDBOOST_N,Flawless Acceleration,2025-04-22 10:44:46,35,无伤加速,无伤加速,2025-04-22 10:44:04
+T_OWN,OWNED,2025-01-20 08:08:10,8,OWNED,已拥有,2025-03-26 08:46:36
+T_PAYGET,Purchase limit,2025-01-20 08:11:47,20,购买限制,购买限制,2025-03-26 08:46:34
+T_PIERCING,Bullet penetrates through everything,2025-01-20 08:11:47,50,子弹可以穿透所有物品,子弹可以穿透一切,2025-03-26 08:46:33
+T_POISONING,Enemy hit by bullet takes poisonous damage for a short period,2025-01-20 08:11:47,88,被命中的敌人会受到持续一段时间的中毒掉血效果,被子弹击中的敌人会在短时间内承受毒性伤害,2025-03-26 08:46:36
+T_POISONOUSTOUCH_D,Poison enemies you touch after activation,2025-03-20 06:38:27,40,开启后碰到的敌人会受到中毒效果,释放后碰到的敌人会受到中毒效果,2025-03-26 08:46:40
+T_POISONOUSTOUCH_N,Poisoned upon contact,2025-01-20 08:11:47,25,触碰中毒,接触时中毒,2025-03-26 08:46:39
+T_PRO,PROMOTION,2025-03-25 07:03:46,,,PROMOTION,2025-03-25 07:06:17
+T_PRO_CHAR_LV_UP,Improvement of character’s basic attributes,2025-04-23 12:50:27,26,,角色基础属性提升,2025-04-20 09:14:27
+T_PRO_CREATE_LEVEL,Max Create level,2025-04-23 12:36:20,18,,最高生成等级,2025-04-23 12:31:29
+T_PRO_CREATE_LV_UP,Create level cap increased,2025-04-23 12:36:26,26,,生成等级上限提升,2025-04-20 09:14:27
+T_PRO_GET_MORE,Get more,2025-04-21 13:47:39,18,,获取更多,2025-04-20 09:22:40
+T_PRO_HP,HP,2025-04-21 13:47:39,14,,血量,2025-04-20 09:14:27
+T_PRO_MAX,Highest,2025-04-21 13:47:39,14,,最高,2025-04-20 09:22:40
+T_PRO_SEE_MORE,check the details,2025-04-21 13:47:39,18,,查看详情,2025-04-20 09:22:40
+T_PRO_SKILL_CD,Skill cooldown,2025-04-21 13:47:39,18,,技能冷却,2025-04-21 10:23:48
+T_PRO_SPEED,Movement speed,2025-04-21 13:47:39,14,,移速,2025-04-20 09:14:27
+T_PRO_TITLE1,Generation effects enhanced,2025-03-25 07:04:57,100,,生成效果提升,2025-03-26 08:46:46
+T_PRO_TITLE1_DESC,Highest grade of weapon created: A,2025-03-24 03:25:50,100,,生成武器最高等级为： A,2025-03-26 08:46:46
+T_PRO_TITLE1_DESC1,Maximum weapon level: <color=#CE2121><b>A</b></color>,2025-03-26 11:19:02,,,生成武器最高等级为： <color=#CE2121><b>A</b></color>,2025-03-26 11:18:47
+T_PRO_TITLE1_DESC2,Maximum weapon level: <color=#CE2121><b>S</b></color>,2025-03-26 11:19:06,,,生成武器最高等级为：<color=#CE2121><b> S</b></color>,2025-03-26 11:18:51
+T_PRO_TITLE1_DESC3,Maximum weapon level: <color=#CE2121><b>SS</b></color>,2025-03-26 11:19:04,,,生成武器最高等级为： <color=#CE2121><b>SS</b></color>,2025-03-26 11:18:50
+T_PRO_TITLE1_DESC4,Maximum weapon level: <color=#CE2121><b>SSS</b></color>,2025-03-26 11:19:08,,,生成武器最高等级为： <color=#CE2121><b>SSS</b></color>,2025-03-26 11:18:54
+T_PRO_TITLE2,Generation capabilities enhanced,2025-03-25 07:04:57,100,,生成能力提升,2025-03-26 08:46:46
+T_PRO_TITLE2_DESC,Spell length increased to 40 characters,2025-03-24 03:29:05,100,,生成咒语长度提升至40,2025-03-26 08:46:46
+T_PRO_TITLE2_DESC1,Spell generation length increased to 40,2025-03-25 07:04:57,,,生成咒语长度提升至40,2025-03-26 08:46:46
+T_PRO_TITLE2_DESC2,Spell generation length increased to 60,2025-03-25 07:04:58,,,生成咒语长度提升至60,2025-03-26 08:46:46
+T_PRO_TITLE2_DESC3,Spell generation length increased to 80,2025-03-25 07:04:57,,,生成咒语长度提升至80,2025-03-26 08:46:46
+T_PRO_TITLE2_DESC4,Spell generation length increased to 100,2025-03-25 07:04:58,,,生成咒语长度提升至100,2025-03-26 08:46:46
+T_PRO_UP_DETAILS,Upgrade content,2025-04-21 13:47:39,18,,升级内容,2025-04-20 09:14:27
+T_PRO_UP_TO,UPGRADING TO,2025-04-24 13:18:13,20,,升级至,2025-04-24 13:18:13
+T_PROMOTION_ALLRANK,All Levels:,2025-03-20 06:38:28,18,,全等级：,2025-03-26 08:46:44
+T_PROMOTION_DES,Level up your magic to become stronger - then use more powerful spells to create different weapons and characters!,2025-03-20 15:12:46,84,”咒语“是新的统一术语？是prompt这个词在游戏里的包装吗？,增加魔法等级可以获得变更强！可以用更厉害的咒语去召唤不同的武器和角色形象！,2025-03-26 08:46:44
+T_PROMOTION_DES_NUM,Increase from {0} to {1},2025-03-20 06:38:28,30,,从{0}提升到{1},2025-03-26 08:46:44
+T_PROMOTION_DES_UP,Expanded spell length,2025-03-20 15:17:32,26,我这里用spell了，也加到统一术语里面了,描述字符上限提升,2025-03-26 08:46:44
+T_PROMOTION_FINISHALL,You're now my mightiest Dreamer! More exciting stuff coming soon!,2025-03-20 15:36:52,62,,你已经成为目前最强大的梦想家了，未来会呈现更多内容！,2025-03-26 08:46:45
+T_PROMOTION_IMPROVE,Players level up,2025-03-20 15:08:12,24,,玩家们提升自己,2025-03-26 08:46:44
+T_PROMOTION_NO_FINISH,Level-up tasks not completed!,2025-03-20 15:07:53,28,,还未完成升级任务！,2025-04-23 13:11:46
+T_PROMOTION_PREVIEW,Level-Up Preview,2025-03-20 15:14:10,18,,升级预览,2025-04-23 13:11:23
+T_PROMOTION_ROAD,Path of Evolution,2025-03-20 06:38:28,18,是那个升级的描述图对吧,进化之路,2025-03-26 08:46:44
+T_PROMOTION_TASK,Level-Up Task:,2025-03-20 15:14:21,20,,升级任务：,2025-04-23 13:11:17
+T_PROMOTION_TITLE,Ability Level-Up,2025-03-20 15:08:36,18,,能力升级,2025-04-23 13:11:37
+T_PROMOTION_UNLOCK_PVE,Unlock after completing the level-up task.,2025-03-25 02:59:19,20,,完成升级任务后解锁,2025-04-23 13:10:39
+T_PROMOTION_UPGRADE,Level Up,2025-03-20 15:12:55,14,“晋升”统一用level up，也加到统一术语表里了,升级,2025-04-23 13:11:28
+T_PROMOTION_VIEW,Preview,2025-03-20 06:38:28,14,,预览,2025-03-26 08:46:44
+T_PUNCTURE_D,"Thrust forward with a spear, dealing damage in a straight line，attack can bounce bullets and accelerate yourself at the same time",2025-03-27 02:21:42,46,,使用长枪往前突刺，对一条直线造成伤害，攻击可以反弹子弹，同时加速自身,2025-03-26 08:46:45
+T_PUNCTURE_N,Spear,2025-03-24 07:00:00,12,,矛,2025-03-26 08:46:45
+T_PURCHASE,Purchase,2025-01-20 08:11:47,10,购买,购买,2025-03-26 08:46:32
+T_PUSH_DESC,"Your free generation tickets have been refreshed, come and try out your creativity!",2025-05-13 09:36:36,100,"Your free generation tickets have been refreshed, come and try out your creativity!",你的免费生成次数已经刷新， 快来试试你的创意吧！ ,2025-05-13 09:36:36
+T_PUSH_TITLE,DayDream Time! ,2025-05-13 09:34:24,20,DayDream Time!,DayDream时间！ ,2025-05-13 09:34:24
+T_PV_1,"An evil king arrives, proclaims a grand contest for ‘Dreamers'",2025-03-26 08:46:47,100,"An evil king arrives, proclaims a grand contest for ‘Dreamers'",一位邪恶的国王到来，宣布为「梦想家」举办一场盛大的比赛,2025-03-26 08:46:31
+T_PV_2,They must forge powerful weapons and armors to stand out,2025-01-20 08:08:10,100,They must forge powerful weapons and armors to stand out,他们必须锻造强大的武器和盔甲来脱颖而出,2025-03-26 08:46:33
+T_PV_3,A sinister ambition drives him…,2025-03-26 08:46:47,100,A sinister ambition drives him…,一股邪恶的野心驱使着他…,2025-03-26 08:46:37
+T_PV_4,"Under his spell, villagers labor to earn his dark approval, pouring all their creativity and sweat into each creation.",2025-01-20 08:08:10,120,"Under his spell, villagers labor to earn his dark approval, pouring all their creativity and sweat into each creation.",在他的魔法下，村民们劳动以求得到他的黑暗认可，将所有的创造力和汗水都倾注于每一件作品中。,2025-03-26 08:46:40
+T_PV_START,A once peaceful village...,2025-01-20 08:08:10,100,A once peaceful village...,曾经和平的村庄...,2025-03-26 08:46:38
+T_PVE_BPTIME,Personal Best,2025-01-20 08:11:47,14,最佳通关时间,个人最佳纪录,2025-03-26 08:46:30
+T_PVE_NOLIFE,You ran out of respawn..watch your teammates in action!,2025-01-20 08:11:47,60,你已经无法复活，看看队友的表现吧！,你没有复活次数了，观看你的队友们的表现吧！,2025-03-26 08:46:33
+T_PVE_NOTPASS,Not Completed,2025-01-20 08:11:47,15,未通关,未完成,2025-03-26 08:46:36
+T_PVE_PASSRANK,Speedrun Leaderboard,2025-01-20 08:11:47,,速通排行榜,快速通关排行榜,2025-03-26 08:46:29
+T_PVE_PASSTIME,Time(s),2025-01-20 08:11:47,,通关时间,时间,2025-03-26 08:46:42
+T_PVE_REWARD,1st Time Completion,2025-01-20 08:11:47,30,首次通关奖励,第一次完成,2025-03-26 08:46:38
+T_PVP_START,Collect Gems! Player with most Gems wins!,2025-03-20 15:43:23,50,,收集宝石！ 宝石最多的人获得胜利！ ,2025-03-26 08:46:45
+T_QUALITY_HIGH,High,2025-03-24 11:07:34,20,,高消耗,2025-03-26 08:46:46
+T_QUALITY_LOW,Fluent,2025-04-25 08:19:24,20,,流畅,2025-04-25 08:20:02
+T_QUALITY_MID,Balanced,2025-03-24 11:07:38,20,,中消耗,2025-03-26 08:46:46
+T_QUALITY_N,Performance Mode,2025-03-24 11:06:26,20,,性能消耗模式,2025-03-26 08:46:46
+T_REATCHED_MAX_LEVEL,Reached the maximum level,2025-04-25 08:16:59,,,已达到最大等级,2025-04-25 08:16:59
+T_RECOMMAND,Recommended,2025-01-20 08:11:47,12,官方推荐,推荐,2025-03-26 08:46:42
+T_RECRUITMENT,Recruitment,2025-04-25 07:52:25,20,,招募令,2025-04-25 07:52:25
+T_REDRAW,Redraw,2025-04-21 13:47:38,14,,重绘,2025-04-10 11:25:41
+T_RENAME,Rename,2025-01-20 08:11:47,6,重命名,重新命名,2025-03-26 08:46:42
+T_RENAME_CONFIRM,"Confirm changing name to {1}, with {0}?",2025-01-20 08:11:47,50,确认花费{0}将昵称修改为{1}？,确认将名称改为{1}，使用{0}？,2025-03-26 08:46:38
+T_RENAME_SUCCESS,Name changed successfully,2025-01-20 08:11:47,30,昵称修改成功,名称变更成功,2025-03-26 08:46:28
+T_REPAIR_TIPS,Weapon Durability drops by 1 each game. Weapon can no longer be used when durability reaches 0 - Please remember to repair your weapon promptly!,2025-01-20 08:11:47,180,武器耐久每局消耗1点，当耐久归零时，武器将无法继续使用，请记得及时修复,武器耐久度每场游戏减少1，当耐久度达到0时武器将无法使用 - 请记得及时修复你的武器！,2025-03-26 08:46:34
+T_REPAIRCONFIRM,Do you want to spend {0} coins to repair?,2025-01-20 08:11:48,44,是否花费{0}数量的金币进行修复？,您是否要花费{0}金币来修复？,2025-03-26 08:46:38
+T_RESTART_SETTING,The setting changes will take effect after restarting the game,2025-03-26 12:11:41,100,,设置变更会在游戏重启后全部生效,2025-03-26 12:11:41
+T_RESULT,Result,2025-01-20 08:11:48,30,结果,结果,2025-03-26 08:46:43
+T_RESULT_CREATEC,Create stronger characters!,2025-04-25 08:15:07,30,,创建更强的角色！,2025-04-25 08:15:07
+T_RESULT_CREATEW,Create stronger weapons!,2025-04-25 08:14:44,30,,创建更强的武器！,2025-04-25 08:14:44
+T_RESULT_DESC,Come back and challenge again when you become stronger!,2025-04-25 08:15:47,100,,变得更强后再来挑战吧！,2025-04-25 08:15:47
+T_RESULT_DISCOUNT,purchase discount,2025-04-21 13:47:39,18,,购买折扣,2025-04-21 13:41:52
+T_RESULT_DISCOUNT_S,make persistent efforts,2025-04-21 13:47:39,18,,再接再厉,2025-04-21 13:41:52
+T_RESULT_DISCOUNT_SHOW,Price reduction {0}[0#emoji_0],2025-04-25 08:52:57,50,,降价{0}[0#emoji_0],2025-04-24 07:50:37
+T_RESULT_DISCOUNT_TITLE,Ranking details !,2025-04-23 12:50:27,24,,排名详情！,2025-04-23 02:50:12
+T_RESULT_LOSE,Change to a stronger weapon character and try again!,2025-04-23 12:50:27,36,,换更强的武器角色再试试！ ,2025-04-21 13:41:52
+T_REWARDLINE_INTRODUCE,You can unlock and claim more rewards by earning Era Runes,2025-01-20 08:11:48,60,这里可以通过获取碎片来领取更多奖励,您可以透过获得时代符文来解锁和领取更多奖励,2025-03-26 08:46:39
+T_RICOCHET,Bullet bounces multiple times after hitting an arena object,2025-01-20 08:11:48,65,"子弹命中建筑物之后会多次反弹,并会随距离变大",子弹在击中竞技场物体后会多次弹跳,2025-03-26 08:46:37
+T_ROCK_APPEAR,The unstoppable rolling stone has set off!,2025-01-20 08:11:48,45,滚石起步，势不可挡！,无法阻挡的滚石已经启动！,2025-03-26 08:46:28
+T_ROCK_D,Turn into a stone for a short time; shooting will revert to normal form; immune to bullets,2025-03-20 06:38:28,62,,变成一个短时间的石头，射击会变回原形，不会被子弹打中,2025-03-26 08:46:44
+T_ROCK_N,Turn into Stone,2025-03-20 06:38:28,18,,变成石头,2025-03-26 08:46:44
+T_ROLE_N,Role,2025-04-23 06:47:45,10,,角色,2025-04-23 06:47:45
+T_RWAEDOWNED,Current progress,2025-01-20 08:11:48,20,当前拥有,目前进度,2025-03-26 08:46:32
+T_RWARDLINE,King's treasure,2025-01-20 08:11:48,16,国王宝藏,王的宝藏,2025-03-26 08:46:38
+T_SAVELOCAL,Saved to device,2025-01-20 08:11:48,20,已保存至本地,已储存至装置,2025-03-26 08:46:40
+T_SELECTALL,Import All,2025-01-20 08:11:48,16,全部选择,汇入全部,2025-03-26 08:46:39
+T_SELFBIG_D,"During the duration, the body size becomes larger and the upper limit of blood volume, attack speed and shooting range are increased, and it will gradually return to the original state.",2025-04-21 13:47:38,72,,持续期间体型变大并提高血量上限、攻速和射程，会逐渐变回原始状态,2025-04-20 09:37:15
+T_SELFBIG_N,Enlarge Yourself,2025-03-20 06:38:28,18,,自身变大,2025-03-26 08:46:44
+T_SELFSMALL_D,"During the duration, the body size becomes smaller and the movement speed increases. When encountering an enemy, it will steal the opponent's gems, but will be stepped on.",2025-04-21 13:47:38,78,,持续期间体型变小并移速加快，碰到敌人后会偷取对方的宝石，但会被人踩伤,2025-04-20 09:37:15
+T_SELFSMALL_N,Shrink Yourself,2025-03-20 06:38:28,18,,自身变小,2025-03-26 08:46:44
+T_SERVER_DISCONNECT,Disconnected from server,2025-01-20 08:11:48,50,与服务器断开了连接,与伺服器断线,2025-03-26 08:46:31
+T_SETTING,Settings,2025-01-20 08:11:48,10,设置,设置,2025-03-26 08:46:32
+T_SETTLE_ALLRANK,All rankings,2025-01-20 08:08:10,,All rankings,所有排名,2025-03-26 08:46:33
+T_SETTLE_YOURRANK,You are No.{0},2025-01-20 08:08:10,,You are No.{0},你是第{0}名,2025-03-26 08:46:31
+T_SHARE,SHARE,2025-01-20 08:11:48,8,分享,分享,2025-03-26 08:46:39
+T_SHARE_AIGRENERATED,AI GENERATED,2025-01-20 08:11:48,20,AI生成,AI 生成,2025-03-26 08:46:29
+T_SHARE_CHAR,CHARACTER!,2025-01-20 08:11:48,20,角色！,角色！,2025-03-26 08:46:30
+T_SHARE_MAP,ARENA!,2025-01-20 08:11:48,15,地图！,竞技场！,2025-03-26 08:46:35
+T_SHARE_NOTFOUND,Sharing channel not found,2025-01-20 08:11:48,50,未找到对应分享渠道,未找到分享频道,2025-03-26 08:46:43
+T_SHARE_NOTION,Join me in creating super fun stuff with AI!,2025-01-20 08:11:48,68,这是我用AI创建的，来试试你的吧！,加入我，利用AI创造超有趣的东西！,2025-03-26 08:46:36
+T_SHARE_WEAPON,WEAPON!,2025-01-20 08:11:48,20,武器！,武器！,2025-03-26 08:46:38
+T_SHINRATENSEI_D,"Emit a wave of light, pushing away all nearby enemies",2025-03-20 06:38:27,42,使用后推开身边所有敌人,释放出一圈光波，推开身边所有敌人,2025-03-26 08:46:41
+T_SHINRATENSEI_N,Push away enemies,2025-01-20 08:11:48,18,推开敌人,击退敌人,2025-03-26 08:46:43
+T_SHRINKING_D,"The hit enemy will shrink in size, resulting in a reduced attack range, and will be trampled by others.",2025-04-21 13:47:38,66,命中敌人变小，且攻击距离变短,被命中的敌人将会缩小体积，导致攻击范围下降，会被他人踩伤,2025-04-20 09:37:15
+T_SIGNATURE,Tagline,2025-01-20 08:11:48,8,个性签名,个性签名,2025-03-26 08:46:41
+T_SIGNATURE_D,Edit your tagline!,2025-01-20 08:11:48,20,请编辑你的个性签名吧,编辑你的个性签名！,2025-03-26 08:46:39
+T_SIGNATURE_DIRTY,Inappropriate language detected in tagline,2025-01-20 08:11:48,60,个性签名中存在不合规用词,个性签名侦测到不当语言,2025-03-26 08:46:42
+T_SIGNATURE_DO,Please sign,2025-04-25 07:54:28,15,,请签名,2025-04-25 07:54:28
+T_SIGNIN_C_D_ID,Breath of water!,2025-04-23 12:12:18,20,,水之呼吸！,2025-04-23 12:12:18
+T_SIGNIN_C_D_TH,I'll protect this place,2025-04-23 12:12:18,22,,我来守护这里,2025-04-23 12:12:18
+T_SIGNIN_C_D_VN,There is only one truth!,2025-04-23 12:12:18,24,,真相只有一个！,2025-04-23 12:12:18
+T_SIGNIN_C_T_ID,Kamado Tanjiro,2025-04-23 12:12:18,20,,灶门炭治郎,2025-04-23 12:12:18
+T_SIGNIN_C_T_TH,patron saint,2025-04-23 12:12:18,16,,守护神,2025-04-23 12:12:18
+T_SIGNIN_C_T_VN,conan,2025-04-23 12:12:18,14,,柯南,2025-04-23 12:12:18
+T_SIGNIN_CONTENT,Day {0},2025-04-21 13:47:39,20,,第{0}天,2025-04-20 09:14:27
+T_SIGNIN_TITLE_1,three days,2025-04-21 13:47:39,14,,三日,2025-04-20 09:14:27
+T_SIGNIN_TITLE_2,Sign in,2025-04-21 13:47:39,14,,签到,2025-04-20 09:14:27
+T_SKILL,Magic,2025-01-20 08:11:48,12,特殊机制,魔法,2025-03-26 08:46:33
+T_SKILL_NEEDEXPLORE,This item has not been discovered yet - Keep exploring and be the first!,2025-01-20 08:11:49,74,还没有人探索出该技能， 请加油探索， 成为最先发现它的玩家吧！ ,这个物品尚未被发现 - 继续探索，成为第一个发现者！,2025-03-26 08:46:41
+T_SKILLTREE,Magic Path,2025-01-20 08:11:49,20,机制库,魔法之路,2025-03-26 08:46:41
+T_SKIP_TODAY,Keep Skip Today,2025-05-16 07:10:53,10,,今日不在弹出,2025-05-16 07:10:53
+T_SLIDE_D,"Dash forward in the facing direction, damaging enemies in the path",2025-03-20 06:38:27,56,往面朝方向冲一段距离，对中间碰到的敌人造成伤害,往面朝方向冲一段距离，对中间碰到的敌人造成伤害,2025-03-26 08:46:33
+T_SLIDE_N,Dash N' Damage,2025-01-20 08:11:49,14,滑铲,冲刺伤害,2025-03-26 08:46:40
+T_SLOTUNLOCK,Creation slot unlocked,2025-01-20 08:11:49,24,创作槽位解锁,创造栏位解锁,2025-03-26 08:46:35
+T_SOCIALUNLOCK_D,Unlocks social island,2025-01-20 08:11:49,40,获得后可以解锁社交岛,解锁社交岛,2025-03-26 08:46:35
+T_SOCIALUNLOCK_N,Social Island unlocked!,2025-01-20 08:11:49,25,社交岛解锁,社交岛已解锁！,2025-03-26 08:46:37
+T_SOUND,Sound,2025-01-20 08:11:49,6,声音,声音,2025-03-26 08:46:39
+T_SOUNDEFFECTS,Sound Effects,2025-01-20 08:11:49,15,音效,音效,2025-03-26 08:46:28
+T_SPEEDINCREASE_D,Initial movement speed increased,2025-03-20 06:38:27,26,初始移动速度增加,初始移动速度增加,2025-03-26 08:46:42
+T_SPEEDINCREASE_N,Boosted movement speed,2025-01-20 08:11:49,22,移动速度提升,移速提升,2025-04-22 10:45:37
+T_SPLASHBANNER,Improve your Dreamer level and generate stronger weapons and characters!,2025-04-23 12:50:27,54,,提升梦想家等级， 生成更强的武器和角色吧！ ,2025-04-23 12:12:18
+T_SPLITTING,Bullet splits into two after traveling a certain distance,2025-01-20 08:11:49,70,射出一段距离后会分裂成2个子弹,子弹在行进一定距离后会分裂成两个,2025-03-26 08:46:32
+T_ST_CHARACTER_RANKING,Character Ranking,2025-01-20 08:11:49,20,角色排行榜,角色排行榜,2025-03-26 08:46:27
+T_ST_CREATOR,Explorer,2025-01-20 08:11:49,34,CREATOR: {0},发现者,2025-03-26 08:46:28
+T_ST_CREATORNUM,Explorer Count,2025-01-20 08:11:49,30,发现者数量: {0},发现者数量,2025-03-26 08:46:33
+T_ST_CREATORRANK,Explorer Leaderboard,2025-01-20 08:11:49,22,发现者排行榜,发现者排行榜,2025-03-26 08:46:30
+T_ST_CREATORTITLE_YOU,YOU ARE,2025-01-20 08:08:10,24,YOU ARE,你是,2025-03-26 08:46:42
+T_ST_CREATORTITLE_YOUARENOT,Reward for Top {0} Explorers,2025-01-20 08:11:49,32,前{0}名发现者的奖励,前 {0} 名发现者的奖励,2025-03-26 08:46:42
+T_ST_GETTITLE,{0}! You've earned this title for being the Explorers of this Magic. Show it off!,2025-04-23 09:39:43,120,{0}！您是这个魔法的发现者之一而获得了这个称号，快去炫耀一下吧！,{0}！您是这个魔法的发现者之一而获得了这个称号，快去炫耀一下吧！,2025-04-23 09:39:43
+T_ST_MORESKILL,A lot of Magic waiting to be explored!,2025-01-20 08:11:49,50,海量技能等待被探索,大量技能等待被探索！,2025-03-26 08:46:29
+T_ST_MY,MY MAGIC,2025-01-20 08:11:49,42,MY SPECIAL SKILL,我的魔法,2025-03-26 08:46:36
+T_ST_RANK_LEVEL,LEVEL,2025-01-20 08:08:10,20,LEVEL,等级,2025-03-26 08:46:28
+T_ST_RANK_PURCHASE,Purchase,2025-01-20 08:11:49,26,PURCHASE,购买,2025-03-26 08:46:39
+T_ST_RANK_WEAPON,WEAPON,2025-01-20 08:11:49,20, [de],武器,2025-03-26 08:46:31
+T_ST_SKILLINFO,Magic Info,2025-01-20 08:11:49,44,SKILL INFORMATION,技能资讯,2025-03-26 08:46:28
+T_ST_SKILLINFO_NOTFOUND,Magic effect to be explored,2025-01-20 08:11:49,30,技能效果待探索,待发现的魔法效果,2025-03-26 08:46:42
+T_ST_THANKS,Thank you for being the {0} explorer and making a huge contribution to discovering this magic!\n,2025-01-20 08:12:44,200,Thank you for being the {0} explorer and making a huge contribution to discovering this magic!,感谢你成为第 {0} 位发现者，并对发现这个魔法做出了巨大的贡献\n,2025-04-22 02:41:23
+T_ST_THANKS_TITLE,"Thank You, Explorer!",2025-01-20 08:08:10,30,"Thank You, Explorer!",谢谢您，发现者！,2025-03-26 08:46:41
+T_ST_TITLE,Magic Info,2025-01-20 08:11:49,18,技能信息,魔法资讯,2025-03-26 08:46:39
+T_ST_WEAPON_RAKNING,Weapon Leaderboard,2025-01-20 08:11:50,20,武器排行榜,武器排行榜,2025-03-26 08:46:29
+T_ST_WEAPON_RANK,Most powerful weapon with this Magic,2025-01-20 08:11:50,40,拥有该技能的最强武器,附加该魔法的最强武器,2025-03-26 08:46:41
+T_ST_WORLD,WORLD MAGIC,2025-01-20 08:15:59,42,WORLD SKILL TREE,世界魔法,2025-03-26 08:46:42
+T_STAY_D,Gain a gem after staying still for a while,2025-03-20 06:38:27,40,保持不动一段时间，获得一个宝石,保持不动一段时间，获得一个宝石,2025-03-26 08:46:29
+T_STAY_N,Gain Gems by staying still,2025-01-20 08:11:50,30,不动获得宝石,不动得宝石,2025-04-22 10:42:42
+T_STORE2,Now! Time for battle!,2025-01-20 08:11:50,22,,现在！战斗的时刻！,2025-03-26 08:46:39
+T_STOREHOUSE,Inventory,2025-01-20 08:11:50,,仓库,物品栏,2025-03-26 08:46:32
+T_STOREHOUSE_E,EQUIP,2025-01-20 08:11:50,12,EQUIPE,装备,2025-03-26 08:46:38
+T_STOREHOUSE_EMOJI,Emoji,2025-01-20 08:11:50,,表情,表情符号,2025-03-26 08:46:43
+T_STOREHOUSE_EMOTE,Emote,2025-01-20 08:11:50,,emote,表情,2025-03-26 08:46:35
+T_STOREHOUSE_R,REMOVE,2025-01-20 08:08:10,12,REMOVE,移除,2025-03-26 08:46:29
+T_STOREHOUSE_RP,REPLACE,2025-01-20 08:08:10,12,REPLACE,替换,2025-03-26 08:46:31
+T_STOREHOUSE_TITLE,Title,2025-01-20 08:11:50,,称号,称号,2025-03-26 08:46:29
+T_STOREHOUSE_VICTORY,Victory Pose,2025-01-20 08:11:50,,胜利姿势,胜利姿势,2025-03-26 08:46:43
+T_STORY1,I already know your name.Now You can create any character you want.,2025-03-07 06:49:17,68,,我已经知道你的名字。现在你可以创建任何你想要的角色。,2025-03-26 08:46:43
+T_SUMMONFIREPILLAR_D,Summon fire pillars at nearby locations,2025-03-20 06:38:27,34,使用后在附近地点召唤的火柱,使用后在附近地点召唤火柱,2025-03-26 08:46:36
+T_SUMMONFIREPILLAR_N,Summon Fire Pillar,2025-01-20 08:11:50,18,召唤火柱,召唤火柱,2025-03-26 08:46:32
+T_SUMMONGHOST_D,Summon an auto-tracking ghost that explodes upon contact with an enemy,2025-03-20 06:38:27,54,使用后召唤一个会自动追踪敌人的鬼，接触后爆炸,使用后召唤一个会自动追踪敌人的鬼，接触后爆炸,2025-03-26 08:46:38
+T_SUMMONGHOST_N,Summon ghost,2025-01-20 08:11:50,18,召唤鬼魂,召唤鬼魂,2025-03-26 08:46:35
+T_SUMMONLIGHTNING_D,Release multiple lightning strikes around you,2025-03-27 02:18:00,28,,释放一道强大的闪电,2025-03-26 08:46:32
+T_SUMMONLIGHTNING_N,Summon Lightning,2025-01-20 08:11:50,18,召唤雷电,召唤闪电,2025-03-26 08:46:38
+T_SUMMONROLLINGSTONE_D,"Summon a rolling boulder forward, damaging enemies it hits",2025-03-20 06:38:27,54,使用后往前召唤一个滚石，对命中的敌人造成伤害,使用后往前召唤一个滚石，对命中的敌人造成伤害,2025-03-26 08:46:33
+T_SUMMONROLLINGSTONE_N,Summon Rolling Stone,2025-01-20 08:11:50,30,召唤滚石,召唤滚石,2025-03-26 08:46:29
+T_TEAM_A_LEFT,{0} has left the squad,2025-01-20 08:11:50,28,{0} 已离开队伍,{0} 已离开小队,2025-03-26 08:46:36
+T_TEAM_DISBANDED,Squad Disbanded,2025-01-20 08:11:50,20,队伍已解散,小队解散,2025-03-26 08:46:31
+T_TEAM_EXCEEDED,Squad is full,2025-01-20 08:11:50,18,队伍已满,小队已满,2025-03-26 08:46:40
+T_TEAM_FULL,Squad is full,2025-01-20 08:11:50,18,队伍已满,小队已满,2025-03-26 08:46:37
+T_TEAM_INGAME,Currently in a game,2025-01-20 08:11:50,20,对局中,目前在游戏中,2025-03-26 08:46:29
+T_TEAM_INTEAM,In a squad,2025-01-20 08:11:51,16,队伍中,队伍中,2025-03-26 08:46:35
+T_TEAM_INVITATION,Squad invitation sent,2025-01-20 08:11:51,24,组队邀请已发送,小队邀请已送出,2025-03-26 08:46:40
+T_TEAM_INVITE,{0} invited you to join his squad,2025-01-20 08:11:51,36,{0} 邀请您加入他的队伍,{0} 邀请你加入他的小队,2025-03-26 08:46:37
+T_TEAM_JOIN,You have joined the squad,2025-01-20 08:11:51,30,您已加入队伍,你已加入小队,2025-03-26 08:46:42
+T_TEAM_JOIN_NEW,A new player has joined the squad,2025-01-20 08:11:51,40,新玩家已加入小队,有一名新玩家加入了小队,2025-03-26 08:46:35
+T_TEAM_KICKOUT,Kick out,2025-01-20 08:11:51,24,Kickout,踢出,2025-03-26 08:46:39
+T_TEAM_KICKOUT_CONFIRM,Confirm to kick {0} out?,2025-01-20 08:11:51,58,Confirm to kick out {0}?,确认踢出 {0}？,2025-03-26 08:46:36
+T_TEAM_LEAVE,You are in a squad - confirm leaving?,2025-01-20 08:11:51,48,你已在队伍中， 是否确认离开队伍以继续,您目前在一个小队中 - 确认离开？,2025-03-26 08:46:30
+T_TEAM_LEAVE_CONFIRM,Confirm leaving the squad?,2025-01-20 08:11:51,30,是否确认离开组队？ ,确认离开小队？,2025-03-26 08:46:30
+T_TEAM_LEFT,You have left the squad,2025-01-20 08:11:51,25,您已离开队伍,你已经离开小队,2025-03-26 08:46:29
+T_TEAM_NEWFRIEND,Add Friend,2025-01-20 08:11:51,20,添加新好友,添加好友,2025-03-26 08:46:31
+T_TEAM_OFFLINE,Offline,2025-01-20 08:11:51,16,已下线,离线,2025-03-26 08:46:32
+T_TEAM_ONLINE,Online,2025-01-20 08:11:51,14,在线,在线,2025-03-26 08:46:33
+T_TEAM_SEARCH_FRIEND,Input user name to search...,2025-01-20 08:11:51,64,Input username to search...,输入使用者名称以搜寻...,2025-03-26 08:46:41
+T_TEAM_UNABLE,Unable to invite this friend to squad,2025-01-20 08:11:51,38,无法邀请该好友入队,无法邀请好友加入小队,2025-03-26 08:46:34
+T_TELEPORT_D,"Teleport yourself to the target location, causing damage to the landing point",2025-04-21 13:47:38,46,,将自身传送到目标地点，对落点造成伤害,2025-04-20 09:37:15
+T_TELEPORT_N,flash teleport,2025-04-21 13:47:38,18,,闪现传送,2025-04-10 11:25:41
+T_TEXTLIMIT,Continue to upgrade your magic to gain the ability to input more characters.,2025-01-20 08:08:10,,Continue to upgrade your magic to gain the ability to input more characters.,继续升级你的魔法以获得输入更多字元的能力。,2025-03-26 08:46:36
+T_THIEF_D,Steal Gems carried by the targets hit,2025-01-20 08:11:51,45,偷取命中对象身上携带的宝石,偷取被击中目标携带的宝石,2025-03-26 08:46:35
+T_THIEF_N,Gem Bandit,2025-01-20 08:11:51,14,小偷,宝石强盗,2025-03-26 08:46:40
+T_TIPS_BACKLOBBY,Would you like to bring all the materials back to the lobby?,2025-01-20 08:11:51,60,,您是否要将所有材料带回大厅？,2025-03-26 08:46:32
+T_TIPS_BACKLOBBY_WARNING,This will overwrite your current selection,2025-01-20 08:11:51,42,,这将覆盖您目前的选择,2025-03-26 08:46:40
+T_TIPS_INFO,INFORMATION,2025-01-20 08:11:51,11,,信息,2025-03-26 08:46:37
+T_TITLE_AMMONUM,Bullet Baron,2025-01-20 08:11:51,22,弹夹数量称号,子弹男爵,2025-03-26 08:46:37
+T_TITLE_ATTRACT,Magnet Lord,2025-01-20 08:11:51,18,吸引称号,磁力领主,2025-03-26 08:46:30
+T_TITLE_AUTO_FIRE,The Automatic,2025-01-20 08:11:51,22,自动开火称号,无情机器人,2025-03-26 08:46:43
+T_TITLE_BLOOD_RAGE,Scarlet Fury,2025-01-20 08:11:51,14,血怒,深红怒火,2025-03-26 08:46:31
+T_TITLE_BOUNCE,Deflector,2025-01-20 08:11:51,18,反弹称号,反弹者,2025-03-26 08:46:39
+T_TITLE_BULLET_ABSORB,Life Leech,2025-01-20 08:11:52,20,吸收子弹 ,生命吸取,2025-03-26 08:46:41
+T_TITLE_BULLET_BOUNCE,Ricochet Master,2025-01-20 08:11:52,20,反弹子弹 ,弹反大师,2025-03-26 08:46:35
+T_TITLE_BULLETENLARGE,Big Bang,2025-01-20 08:11:52,22,子弹变大称号,大爆炸,2025-03-26 08:46:36
+T_TITLE_BURN,Inferno Lord,2025-01-20 08:11:52,18,燃烧称号,地狱火领主,2025-03-26 08:46:43
+T_TITLE_CHARACTER_SKILLS,Character Magic,2025-01-20 08:11:52,42,Character Skills,角色技能,2025-03-26 08:46:29
+T_TITLE_CHARGED_DAMAGE,Power Surge,2025-01-20 08:11:52,22,蓄力加伤称号,力量激增,2025-03-26 08:46:28
+T_TITLE_CHEST_BOT_DAMAGE,Fortune's Wrath,2025-01-20 08:11:52,32,宝箱bot伤害增加称号,财富之怒,2025-03-26 08:46:36
+T_TITLE_DAMAGE_REDUCTION,Ironclad Defender,2025-01-20 08:11:52,20,减伤 ,铁甲守卫,2025-03-26 08:46:36
+T_TITLE_DAMAGE_SPEED,Fury Sprinter,2025-01-20 08:11:52,24,受伤加移速称号,狂怒疾驰者,2025-03-26 08:46:36
+T_TITLE_DAMAGE1,One-Shot Wonder,2025-01-20 08:11:52,28,单个子弹伤害称号1,一击奇才,2025-03-26 08:46:33
+T_TITLE_DARKEN,Tunnel Vision,2025-01-20 08:11:52,20,天黑,隧道视野,2025-03-26 08:46:34
+T_TITLE_DASH,Sharp Dasher,2025-01-20 08:11:52,16,冲刺 ,锐速冲锋,2025-03-26 08:46:37
+T_TITLE_DIZZY,The Flashbang,2025-01-20 08:11:52,18,眩晕称号,闪光弹,2025-03-26 08:46:31
+T_TITLE_ENLARGE,Titan's Wrath,2025-01-20 08:11:52,18,变大称号,泰坦之怒,2025-03-26 08:46:41
+T_TITLE_EXPLOSION,Blast King,2025-01-20 08:11:52,18,爆炸称号,爆破王,2025-03-26 08:46:41
+T_TITLE_FIREINTERVAL1,Rapid Shooter,2025-01-20 08:11:52,24,开火间隔称号1,快速射手,2025-03-26 08:46:29
+T_TITLE_FOOT_BURN,Flame Walker,2025-01-20 08:11:52,22,脚步燃烧称号,烈焰行者,2025-03-26 08:46:31
+T_TITLE_FREEZE,Glacier Warden,2025-01-20 08:11:52,18,冰冻称号,冰川守护者,2025-03-26 08:46:34
+T_TITLE_GEM_EFFECT_DOUBLE,Gem Greed,2025-01-20 08:11:52,35,吸取宝石效果翻倍,宝石狂热,2025-03-26 08:46:38
+T_TITLE_GEM_RANGE,Gem Magnet,2025-01-20 08:11:52,30,增加获取宝石范围称号,宝石磁铁,2025-03-26 08:46:36
+T_TITLE_GRASS,Chameleon,2025-01-20 08:11:52,16,变草 ,变色龙,2025-03-26 08:46:37
+T_TITLE_HEALTH_BOOST,Sheer Strength,2025-01-20 08:11:52,22,血量提升称号,血量提升,2025-03-26 08:46:28
+T_TITLE_HOMING,Heatseeker,2025-01-20 08:11:52,22,追踪子弹称号,追热者,2025-03-26 08:46:39
+T_TITLE_INVINCIBLE,The Immortal,2025-01-20 08:11:52,18,无敌称号,不死之身,2025-03-26 08:46:42
+T_TITLE_INVISIBLE,Shadow Warrior,2025-01-20 08:11:52,16,隐身 ,暗影战士,2025-03-26 08:46:34
+T_TITLE_LIFESTEAL,Bloodsucker,2025-01-20 08:11:52,18,吸血称号,血魔,2025-03-26 08:46:36
+T_TITLE_LIGHTNING,Thunderstrike,2025-01-20 08:11:52,18,雷击称号,雷霆击击,2025-03-26 08:46:28
+T_TITLE_MOVE_GEM,Gem Seeker,2025-01-20 08:11:53,26,移动获得宝石称号,宝石猎人,2025-03-26 08:46:34
+T_TITLE_OUT_OF_COMBAT_HEAL,Resurgence,2025-01-20 08:11:53,26,脱战快速回血称号,自动愈合,2025-03-26 08:46:41
+T_TITLE_OUT_OF_COMBAT_SPEED,Afterburner,2025-01-20 08:11:53,22,脱战加速称号,火箭助推器,2025-03-26 08:46:39
+T_TITLE_PENATRATION,Soul Piercer,2025-01-20 08:11:53,18,穿透称号,魂穿者,2025-03-26 08:46:37
+T_TITLE_POISON,Toxic Avenger,2025-01-20 08:11:53,18,中毒称号,毒性复仇者,2025-03-26 08:46:33
+T_TITLE_RANGE,Eternal Marksman,2025-01-20 08:11:53,26,子弹生命周期称号,永恒神射手,2025-03-26 08:46:35
+T_TITLE_RELOADTIME1,Swift Reload,2025-01-20 08:11:53,32,每发子弹换弹时间称号1,极速换弹,2025-03-26 08:46:38
+T_TITLE_REPEL,Repeller,2025-01-20 08:11:53,18,击退称号,驱逐器,2025-03-26 08:46:37
+T_TITLE_SHINRA_TENSEI,Force Manipulator,2025-01-20 08:11:53,22,神罗天征称号,力场操控者,2025-03-26 08:46:34
+T_TITLE_SHORTSIGHT,Shortsight Doctor,2025-01-20 08:11:53,18,近视称号,近视医生,2025-03-26 08:46:34
+T_TITLE_SHRINK,Mighty Shrinker,2025-01-20 08:11:53,18,变小称号,强力缩小器,2025-03-26 08:46:37
+T_TITLE_SLIDE,Fury Dasher,2025-01-20 08:11:53,16,滑铲 ,狂怒突击者,2025-03-26 08:46:36
+T_TITLE_SLOW,Momentum Snatcher,2025-01-20 08:11:53,18,减速称号,动量窃取者,2025-03-26 08:46:42
+T_TITLE_SPEED,Bullet Speedster,2025-01-20 08:11:53,26,子弹飞行速度称号,子弹速递者,2025-03-26 08:46:36
+T_TITLE_SPEED_BOOST,Flash Runner,2025-01-20 08:11:53,26,移动速度提升称号,闪光奔跑者,2025-03-26 08:46:31
+T_TITLE_SPLIT,Ultimate Splitter,2025-01-20 08:11:53,18,分裂称号,终极分裂者,2025-03-26 08:46:39
+T_TITLE_STATIONARY_GEM,Still Sentinel,2025-01-20 08:11:53,26,不动获得宝石称号,永恒守望,2025-03-26 08:46:34
+T_TITLE_SUMMON_BOULDER,Rockfall Lord,2025-01-20 08:11:53,22,召唤滚石称号,落石领主,2025-03-26 08:46:32
+T_TITLE_SUMMON_FIRE_COLUMN,Inferno Conduit,2025-01-20 08:11:53,22,召唤火柱称号,地狱之道,2025-03-26 08:46:31
+T_TITLE_SUMMON_GHOST,Phantom Caller,2025-01-20 08:11:53,22,召唤鬼魂称号,幻影召唤者,2025-03-26 08:46:38
+T_TITLE_SUMMON_LIGHTNING,Mighty Thor,2025-01-20 08:11:53,22,召唤雷电称号,壮硕索尔,2025-03-26 08:46:34
+T_TITLE_THIEF,Gem Raider,2025-01-20 08:11:53,18,小偷称号,宝石盗墓者,2025-03-26 08:46:39
+T_TITLE_TOUCH_FREEZE,Frostbite,2025-01-20 08:11:53,22,触碰冰冻称号,霜冻,2025-03-26 08:46:34
+T_TITLE_TOUCH_POISON,Venomous Touch,2025-01-20 08:11:53,22,触碰中毒称号,毒触,2025-03-26 08:46:39
+T_TITLE_TRANSFORM,Shapeshifter,2025-01-20 08:11:53,18,变形称号,变形者,2025-03-26 08:46:35
+T_TITLE_WEAPON_SKILLS,Weapon Magic,2025-01-20 08:11:53,36,Weapon Skills,武器魔法,2025-03-26 08:46:40
+T_TRACING_BULLETS,Bullets track enemies,2025-01-20 08:11:54,40,自动开火，发射出的子弹会跟踪敌人,自动开火，子弹会锁定敌人,2025-03-26 08:46:27
+T_TRAJECTORY_DESC,Bullets curve in flight,2025-01-20 08:11:54,24,子弹在飞行过程中变为曲线,子弹在飞行中会弯曲,2025-03-26 08:46:36
+T_TRANSFORMATION,"Transform the enemies and disable their ability to shoot; but increase their movement speed, and allowing them to charge into others",2025-01-20 08:11:54,150,将敌人变形，无法射击，但移动速度加快，可以撞人,将敌人变成无法射击的状态，但增加他们的移动速度，并可冲撞其他人,2025-03-26 08:46:29
+T_TRAP_D,Place a ground spike trap; anyone passing over it will take damage,2025-03-20 06:38:28,44,,放置地刺陷阱，路过的人将会受到伤害,2025-03-26 08:46:44
+T_TRAP_N,Trap,2025-03-20 06:38:28,14,,陷阱,2025-03-26 08:46:44
+T_TUO_MISSIONFINISH,"These tasks have been completed, go and claim the prize!",2025-04-23 12:50:27,48,,这些任务都已经完成了， 快去领奖吧！ ,2025-04-23 12:12:18
+T_TUO_UPGRADEDETAIL,Click to see how powerful you will be <color=#CE2121><b>after upgrading! </b></color>,2025-04-23 12:12:18,100,,点击看看升级后你会有<color=#CE2121><b>多么强大！</b></color>,2025-04-23 12:12:18
+T_TUTORAL_CONGRAT,Good job! Onto the next trial.,2025-01-20 08:11:54,30,,做得好！继续下一个试炼。,2025-03-26 08:46:32
+T_TUTORIAL_01,Collect Gems from loot boxes,2025-01-20 08:11:54,30,夺取宝石,从战利品箱中收集宝石,2025-03-26 08:46:39
+T_TUTORIAL_02,"Kill enemies, raid their Gems",2025-01-20 08:11:54,30,获取BUFF,击败敌人，掠夺他们的宝石,2025-03-26 08:46:28
+T_TUTORIAL_03,Dreamer with most Gems wins!,2025-01-20 08:11:54,30,胜利,拥有最多宝石的梦想家胜出！,2025-03-26 08:46:34
+T_TUTORIAL_04,Battle!,2025-01-20 08:11:54,10,开打！,战斗！,2025-03-26 08:46:34
+T_TUTORIAL_CHANGECHA,"So cool! Whenever you generate a <color=#CE2121><b>new weapon</b></color> in the future, you can come here and test its effects!\nNow let’s play something even more <color=#CE2121><b>exciting</b></color>!",2025-03-27 02:21:42,100,,太帅了！你以后任何时候生成的<color=#E25A30><b>新的武器</b></color>， 都可以来这里试试效果！\n现在来玩点更<color=#E25A30><b>刺激</b></color>的吧！,2025-03-26 08:46:46
+T_TUTORIAL_END,You’ve mastered all magical abilities. Use your imagination to become the strongest warrior in the kingdom!,2025-03-27 02:21:42,100,,你已经掌握所有的魔法能力了， 去发挥你的想象力， 成为王国的<color=#E25A30><b>最强勇士吧！</b></color>,2025-03-26 08:46:46
+T_TUTORIAL_FIRSTTRY,Go and test how powerful my spell is!,2025-03-25 07:04:57,100,,快去试试我的咒语有多么强大吧！,2025-03-26 08:46:46
+T_TUTORIAL_GOPVP,"Follow the task guide and participate in matches!\n<color=#CE2121><b>The more you fight, the more you generate, and the stronger you’ll become!</b></color>",2025-03-27 02:21:42,100,"""任务“用quest，别的key里出现过吗？",跟着任务指引参与对局吧！\n <color=#E25A30><b> 打得越多， 生成越多， 你就会越来越强！</b></color>,2025-03-26 08:46:46
+T_TUTORIAL_GOUP,Click here to see how <color=#CE2121><b>powerful</b></color> you will become in the future!,2025-03-27 02:18:00,100,,点击这里，看看未来的你有<color=#E25A30><b>多么强大！</b></color> ,2025-03-26 08:46:46
+T_TUTORIAL_INTRO,"Hmm, I’ve heard of you. \n Warrior, create your own weapon and join the battle for my <color=#CE2121><b>Mightiest Warrior</b></color>!",2025-03-27 02:21:42,100,,哼， 我听过你的名字 \n 勇士， 来生成一把你的专属武器， 来参与这我的王国内<color=#E25A30><b>最强勇士</b></color>的角逐吧,2025-03-26 08:46:45
+T_TUTORIAL_KILLBOT,"There will be a training dummy on the right, use him to test how powerful your weapon is!",2025-04-21 13:47:38,62,,右边会有一个训练假人， 快用他试试你的武器有多强吧！,2025-04-20 09:14:27
+T_TUTORIAL_KILLBOTS,Go and try it!,2025-04-21 13:47:38,22,,快去试试吧！,2025-04-21 13:41:51
+T_TUTORIAL_KNOWLEDGESLICE,"These are knowledge fragments, which will be distributed after each match based on your performance.\n<color=#CE2121><b>The higher your ranking, the more knowledge fragments you’ll receive!</b></color>",2025-03-27 02:21:42,100,,这是知识碎片， 每场比赛后都会根据你的表现发放\n <color=#E25A30><b>排名越高， 知识碎片越多！</b></color> ,2025-03-26 08:46:46
+T_TUTORIAL_NEXTGEN,"Whenever you have a new idea, come back and create it!",2025-03-20 15:48:02,100,,任何时候有了新的灵感， 都可以来这里生成一次， 兑现你的灵感！,2025-03-26 08:46:46
+T_TUTORIAL_STARTBUTTON,Click here to battle for the mightiest warrior! I can't wait to see you in action!,2025-03-20 15:44:46,100,,点击这里开参与最强勇士角逐吧！我都有点迫不及待了！,2025-03-26 08:46:45
+T_TUTORIAL_TAPSHOOT,"Here’s a secret tip: tap the ""Fire"" button to auto-aim and attack the nearest target. Try it out!",2025-03-27 02:21:42,100,,告诉你一个小技巧， 点击射击按钮， 就会自动帮你瞄准最近的敌人！ 快试试吧！,2025-03-26 08:46:46
+T_TUTORIAL_TIPSNEW,Try out the new little tricks!,2025-03-25 07:04:58,,,快试试新的小技巧,2025-03-26 08:46:46
+T_TUTORIAL_TITLE,Tutorial,2025-01-20 08:11:54,10,教程,教学,2025-03-26 08:46:34
+T_TUTORIALNEW_2,"Listen up! My secret spell is just for you - 'Fire Dragon’ - try it, and prepare to be amazed!",2025-03-27 02:21:42,80,,我有一条私藏已久的秘咒，听好了——‘火龙’！试试吧，定会令你大为惊叹！,2025-03-26 08:46:45
+T_TUTORIALNEW_M_1,Dream Book! Follow the clues and you'll become an invincible warrior!,2025-03-20 15:36:20,100,,Dream Book! 遵循这本书的指引， 你就能成为无敌的强者！,2025-03-26 08:46:45
+T_TUTORIALNEW_M_2,Your current goal is to play three exciting games! Only one game left! Go and try it!,2025-03-24 11:37:44,50,,来3场紧张刺激的对局是你当前的目标！还差最后一场！  去试试吧！,2025-03-26 08:46:45
+T_TUTORIALNEW_M_3,Return to lobby and check out what you found!,2025-03-20 15:35:00,50,,返回大厅， 试试你的最新发现吧！ ,2025-03-26 08:46:45
+T_TUTORIALNEW_MV,Slide the left joystick to move in different directions,2025-03-20 15:28:50,46,,滑动左摇杆， 你就会向滑动的方向移动,2025-03-26 08:46:45
+T_TUTORIALNEW_RL_1,Click this button to explore the many cool features yourself!,2025-03-20 15:24:09,58,,点击这个按钮， 这里还有大量的功能等待你自己探索,2025-03-26 08:46:45
+T_TUTORIALNEW_RL_2,"You can claim rewards here - more matches you play, bigger rewards you get!",2025-03-20 15:33:30,64,,你可以在这里领奖， 你参与比赛越多， 拿的奖就越多！ ,2025-03-26 08:46:45
+T_TUTORIALNEW_RO_1,"You are now a weapon master! Now, create your own character!",2025-03-20 15:29:11,76,,你已经是武器大师了！ 现在来点更刺激的， 生成一个你的专属角色吧！,2025-03-26 08:46:45
+T_TUTORIALNEW_RO_2,Unleash your creativity - in DayDream you can get any character you dream of!,2025-03-20 15:30:37,80,,发挥你的想象力， 你想要任何角色， 在DayDream里都能满足你！ ,2025-03-26 08:46:45
+T_TUTORIALNEW_RO_3,Hang on a moment - your own character is about to make an entrance!,2025-03-20 15:24:43,50,,稍等片刻， 等待和你的专属角色见面吧！ ,2025-03-26 08:46:45
+T_TUTORIALNEW_RO_4,"Step into a real battle, and see if your character is cool indeed!",2025-03-20 15:34:05,100,,来一场真正的战斗， 看看你的专属角色够不够酷吧！,2025-03-26 08:46:45
+T_TUTORIALNEW_ST,Slide the right joystick to aim; then release it to fire!,2025-03-20 15:28:06,52,,滑动右摇杆来瞄准， 松开摇杆即可开火射击！,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_1,"There is a treasure chest on the right. If you look closer, you may find something unexpected.",2025-04-21 13:47:38,58,,右边有一只宝箱，靠近看看，或许会有意想不到的发现,2025-04-20 09:14:27
+T_TUTORIALNEW_WP_1_S,Go check out the treasure chest above,2025-04-21 13:47:38,28,,快去看看上面的宝箱,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_2,Pick up your weapon and fire at the ches - maybe it hides my riches!,2025-03-20 15:22:45,58,,拿起你的枪，朝那宝箱开几枪！说不定藏着我的财宝！,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_2_S,Break the chest!,2025-03-20 06:38:29,30,,打破宝箱！ ,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_3,"Oh! Indeed my Gem.. Grab it quickly and hide it, you don't want anyone else to find it",2025-03-20 15:23:42,70,,哦！ 果然是我的宝石， 快捡走藏起来， 可别被别人发现了！ ,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_3_S,Pick up the Gems,2025-03-20 15:46:52,30,,捡起掉落的宝石,2025-03-26 08:46:46
+T_TUTORIALNEW_WP_4,"There are 3 treasure chests here, go and grab all the gems [0#emoji_3] inside! ",2025-04-21 13:47:38,82,,这里还有3个宝箱， 快去把里面的宝石[0#emoji_3]都抢回来吧！ ,2025-04-21 13:41:52
+T_TUTORIALNEW_WP_4_S,You still need to pick up {0} Gems,2025-03-20 15:43:37,30,,还要捡起{0}个宝石,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_5,You could only use my powerful weapon ONCE! Now it's your turn,2025-03-20 15:22:16,58,,我的强力武器你只能用一次， 现在到你来自己试试了,2025-03-26 08:46:44
+T_TUTORIALNEW_WP_6,Unleash your creativity and create a weapon that's truly YOURS!,2025-03-20 15:22:00,48,,发挥你的想象了， 生成一把你的专属武器,2025-03-26 08:46:44
+T_TUTORIALNEW_WP_7,"Hold on a moment, your magic is charging...Get ready to see your own weapon!",2025-03-20 15:29:45,64,,稍等片刻， 你的法力正在生效， 准备见证你的专属武器吧,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_8,<color=#CE2121><b>Player with the most Gems wins!</b></color> \n Jump into a real battle NOW!,2025-03-27 02:18:00,100,,<color=#E25A30><b>宝石最多的人， 会获得比赛胜利！</b></color> \n 快去来一场真正的战斗吧！ ,2025-03-26 08:46:45
+T_TUTORIALNEW_WP_9,Conquer the battle with your own weapon! I can only imagine how EPIC it'll be!,2025-03-20 15:35:56,60,,用你的专属武器大杀四方！ 我都不敢想这会有多刺激！,2025-03-26 08:46:45
+T_UNINSPIRED,Uninspired,2025-01-20 08:08:10,16,Uninspired,缺乏灵感,2025-03-26 08:46:37
+T_UP_CON,Upgrade Conditions,2025-02-06 08:06:24,30,Upgrade Conditions,升级条件,2025-03-26 08:46:43
+T_UPC_D_1,First glimpse of the door!,2025-04-23 12:12:18,20,,初窥门径！,2025-04-23 12:12:18
+T_UPC_D_2,Look how strong I am!,2025-04-23 12:12:18,24,,看看我有多强！,2025-04-23 12:12:18
+T_UPC_D_3,I can generate anything I want!,2025-04-23 12:12:18,32,,我能生成任何我想要的！,2025-04-23 12:12:18
+T_UPC_T_1,warrior dreamer,2025-04-23 12:12:18,20,,勇士梦想家,2025-04-23 12:12:18
+T_UPC_T_2,aristocratic dreamer,2025-04-23 12:12:18,20,,贵族梦想家,2025-04-23 12:12:18
+T_UPC_T_3,Tech Visionary,2025-04-23 12:12:18,20,,科技梦想家,2025-04-23 12:12:18
+T_UPW_D_1,"Ice dragon gun, freezes everything",2025-04-23 12:12:18,28,,冰龙枪， 冰冻一切,2025-04-23 12:12:18
+T_UPW_D_2,The perfect combination of thunder and power,2025-04-23 12:12:18,30,,雷电与力量的完美结合,2025-04-23 12:12:18
+T_UPW_D_3,Burn them all!,2025-04-23 12:12:18,22,,都烧起来吧！,2025-04-23 12:12:18
+T_UPW_DEFAULT_C,"Super powerful fire dragon gun, burning and causing a lot of damage",2025-04-23 12:12:18,38,,超强火龙枪，燃烧造成大量伤害,2025-04-23 12:12:18
+T_UPW_DEFAULT_T,Super powerful fire dragon gun,2025-04-23 12:12:18,20,,超强火龙枪,2025-04-23 12:12:18
+T_UPW_T_1,ice dragon,2025-04-23 12:12:18,14,,冰龙,2025-04-23 12:12:18
+T_UPW_T_2,Thor's Hammer,2025-04-23 12:12:18,18,,雷神之锤,2025-04-23 12:12:18
+T_UPW_T_3,High-tech flamethrower,2025-04-23 12:12:18,22,,高科技喷火器,2025-04-23 12:12:18
+T_WAY_OBTAIN,Way to obtain,2025-04-25 08:24:09,20,,获取途径,2025-04-25 08:24:09
+T_WEAPON,Weapon:,2025-01-20 08:11:54,10,武器：,武器：,2025-03-26 08:46:35
+T_WEAPON_ATTRIBUTE,Weapon Attribute,2025-04-23 12:28:16,20,,武器属性,2025-04-23 12:28:16
+T_WEAPON_MAGIC_TIPS,"Create more, and explore different weapon magics!",2025-01-20 08:11:54,60,用创作来获取武器的神奇能力吧！,创造更多，探索不同的武器魔法！,2025-03-26 08:46:34
+T_WEAPON_N,Weapon,2025-04-23 06:50:08,10,,武器,2025-04-23 06:50:08
+T_WEAPON_RANKLEVEL,King's judgment:,2025-01-20 08:11:54,40,根据prompt评定你的武器等级为：,王的判决：,2025-03-26 08:46:42
+T_WEAPONGENERATE_D,Consumed when creating weapons,2025-01-20 08:11:54,36,用于武器创建时使用,创造武器时消耗,2025-03-26 08:46:30
+T_WEAPONGENERATE_N,Weapon ticket,2025-01-20 08:11:54,24,武器创建次数,武器票券,2025-03-26 08:46:35
+T_WEAPONLOAD,Weapon loading...,2025-01-20 08:11:54,68,武器加载中...,武器载入中...,2025-03-26 08:46:38
+T_WEAPONSLOT_D,Unlocks a slot for weapon creation,2025-01-20 08:11:54,64,获得后可以解锁武器创建界面的槽位,解锁武器制作的栏位,2025-03-26 08:46:35
+T_WEAPONSLOT_N,Weapon slot,2025-01-20 08:11:54,24,武器创建槽位,武器栏位,2025-03-26 08:46:40
+TXT_1ST,1ST,2025-01-20 08:11:54,3,,第一,2025-03-26 08:46:33
+TXT_2ND,2ND,2025-01-20 08:11:54,3,,第二,2025-03-26 08:46:40
+TXT_3RD,3RD,2025-01-20 08:11:54,3,,第三,2025-03-26 08:46:38
+TXT_4TH,4TH,2025-01-20 08:11:54,3,,第四名,2025-03-26 08:46:30
+TXT_5TH,5TH,2025-01-20 08:11:54,3,,第五,2025-03-26 08:46:39
+TXT_6TH,6TH,2025-01-20 08:11:54,3,,第六,2025-03-26 08:46:42
+TXT_CREATED_BY,Created by {0},2025-01-20 08:11:54,14,,由 {0} 创建,2025-03-26 08:46:39
+TXT_CREATED_BY0,Created by,2025-01-20 08:11:54,10,,创建者,2025-03-26 08:46:35
+TXT_CREATION_CONFIRM_2,It will arrive in no time!,2025-01-20 08:11:54,26,,很快就会到了！,2025-03-26 08:46:37
+TXT_CREATION_MSG_1,Cast some magic!,2025-01-20 08:11:55,16,,施展魔法！,2025-03-26 08:46:30
+TXT_CREATION_TITLE_MAP,Create your arena,2025-01-20 08:11:55,17,,创建你的竞技场,2025-03-26 08:46:36
+TXT_CREATION_TITLE_WEAPON,Create your weapon,2025-01-20 08:11:55,18,,创造你的武器,2025-03-26 08:46:42
+TXT_CREATION_WAIT,Crafting...,2025-01-20 08:11:55,23,,制作中...,2025-03-26 08:46:42
+TXT_EXCLUSIVE_LANDMARK,Come and see my eclusive landmark!,2025-01-20 08:11:55,34,,来看看我的专属地标！,2025-03-26 08:46:40
+TXT_EXCLUSIVE_WEAPON,My creation is superior! We must use my weapon instead!,2025-01-20 08:11:55,55,,我的创造是最优秀的，我们必须使用我的武器！,2025-03-26 08:46:41
+TXT_GENERATION_BIG_TITLE,GENERATION STARTS,2025-01-20 08:11:55,17,,世代开始,2025-03-26 08:46:43
+TXT_GENERATION_DONE_MAP_1,Welcome to the arena by {0} and {0}!,2025-01-20 08:11:55,36,,欢迎来到{0}和{0}的竞技场！,2025-03-26 08:46:37
+TXT_GENERATION_DONE_MAP_2_PROMPT,"""{0}""",2025-01-20 08:11:55,5,,"""{0}""",2025-03-07 07:16:58
+TXT_GENERATION_DONE_WEAPON_1,Try out the weapon by <color=#FEBF53>{0}</color> now!,2025-01-20 08:11:55,53,,现在试用<color=#FEBF53>{0}</color>的武器！,2025-03-26 08:46:28
+TXT_GENERATION_DONE_WEAPON_2_PROMPT,"""{0}""",2025-01-20 08:11:55,5,,"""{0}""",2025-03-07 07:16:58
+TXT_GENERATION_MSG_BOTTOM,"Walk around, and see magic unfold!",2025-01-20 08:11:55,34,,漫步于此，魔法即将展开！,2025-03-26 08:46:27
+TXT_GENERATION_MSG_TOP,PROGRESS: {0}%,2025-01-20 08:11:55,14,,进度：{0}%,2025-03-26 08:46:32
+TXT_LANDMARK,Landmark made by {0} is deployed!,2025-01-20 08:11:55,33,,{0} 的地标已经部署！,2025-03-26 08:46:33
+TXT_LEFT_PLAYERS,Remaining players: {0},2025-01-20 08:11:55,22,,剩余玩家：{0},2025-03-26 08:46:37
+TXT_LIKE_TITLE,Which is your favorite?,2025-01-20 08:11:55,23,,你最喜欢哪一个？,2025-03-26 08:46:28
+TXT_LOADINGGAME_DES,Entering the arena,2025-01-20 08:11:55,18,,进入竞技场,2025-03-26 08:46:32
+TXT_MESSAGEBOX_CANCEL,Cancel,2025-01-20 08:11:55,6,,取消,2025-03-26 08:46:29
+TXT_MESSAGEBOX_CONFIRM,CONFIRM,2025-01-20 08:11:55,7,,确认,2025-03-26 08:46:43
+TXT_MESSAGEBOX_ERROR,ERROR,2025-01-20 08:11:55,5,,错误,2025-03-26 08:46:36
+TXT_MESSAGEBOX_INFO,INFORMATION,2025-01-20 08:11:55,11,,信息,2025-03-26 08:46:41
+TXT_MESSAGEBOX_NO,NO,2025-01-20 08:11:55,2,,不,2025-03-26 08:46:34
+TXT_MESSAGEBOX_OK,OK,2025-03-18 07:38:20,2,,确定,2025-03-26 08:46:42
+TXT_MESSAGEBOX_REWARD,Reward,2025-01-20 08:11:55,6,,奖励,2025-03-26 08:46:42
+TXT_MESSAGEBOX_REWARD_CONFIRM,Confirm,2025-01-20 08:11:55,7,,确认,2025-03-26 08:46:36
+TXT_MESSAGEBOX_SUGGESTION,SUGGESTION,2025-01-20 08:11:55,10,,建议,2025-03-26 08:46:32
+TXT_MESSAGEBOX_WARNING,WARNING,2025-01-20 08:11:55,7,,警告,2025-03-26 08:46:35
+TXT_MESSAGEBOX_YES,YES,2025-01-20 08:11:56,3,,是,2025-03-26 08:46:34
+TXT_NAMEDES,User Name:,2025-03-07 06:49:24,11,,用户名：,2025-03-26 08:46:29
+TXT_NEXT,Next,2025-01-20 08:11:56,4,,下一步,2025-03-26 08:46:43
+TXT_OBSERVING_INFO,Observing...,2025-01-20 08:11:56,12,,观察中...,2025-03-26 08:46:30
+TXT_RESTART_GAME,Please restart game to apply language change,2025-01-20 08:11:56,58,,请重新启动游戏以套用语言变更,2025-03-26 08:46:39
+TXT_ROLE_MAP_CREATOR,ARENA MASTER,2025-01-20 08:11:56,12,,竞技场大师,2025-03-26 08:46:39
+TXT_ROLE_TITLE,I hereby appoint you as,2025-01-20 08:11:56,23,,我特此任命你为,2025-03-26 08:46:41
+TXT_ROLE_WEAPON_CREATOR,WEAPON MASTER,2025-01-20 08:11:56,13,,武器大师,2025-03-26 08:46:39
+TXT_SAFEZONE_DES,Safe zone shrinking in,2025-01-20 08:11:56,22,,安全区域正在缩小中,2025-03-26 08:46:32
+TXT_SHRINK_SAFEZONE,Safe Zone Shrinking,2025-01-20 08:11:56,19,,安全区缩小,2025-03-26 08:46:43
+TXT_START,Start,2025-01-20 08:11:56,5,,开始,2025-03-26 08:46:35
+TXT_STORY_1,"Dreamers, this is your game!",2025-01-20 08:11:56,28,,梦想家们，这是属于你的游戏！,2025-03-26 08:46:35
+TXT_STORY_2,Your fate shall be determined by your very own creation! \nCompete and survive for the grand reward!,2025-01-20 08:11:56,100,,你的命运将由你自己创造的东西决定！ \n竞争并生存下来以获得最大的奖励！,2025-03-26 08:46:39
+TXT_TAP_CLOSE,Tap to close,2025-01-20 08:11:56,12,,点击关闭,2025-03-26 08:46:37
+TXT_TAP_CONTINUE,Tap to Continue,2025-01-20 08:11:56,15,,点击继续,2025-03-26 08:46:32
+TXT_TAP_SKIP,Tap to skip,2025-01-20 08:11:56,11,,点击跳过,2025-03-26 08:46:39
+TXT_TRANING,TRAINING,2025-01-20 08:11:56,8,,训练,2025-03-26 08:46:41
+TXT_TRYOUT_WEAPON,Try out the weapon by {0} now!,2025-01-20 08:11:56,30,,现在试用{0}的武器！,2025-03-26 08:46:31
