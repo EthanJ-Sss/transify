@@ -538,8 +538,10 @@ class PrefabTextExtractor:
 1. 在Prefab中找到对应的Text组件
 2. 如果缺少LocComponent则添加
 3. 设置StringID并启用LanguageFunc
+4. 将新增的Key自动追加到 daydream-entities.csv
 
 • 只有填写了KeyId的行才会被处理
+• KeySource为"新增"的Key会导出到entities
 • 建议先备份文件再执行"""
         
         ttk.Label(info_frame, text=info_text, style="Card.TLabel", 
@@ -549,7 +551,7 @@ class PrefabTextExtractor:
         action_frame = ttk.Frame(parent, style="Dark.TFrame")
         action_frame.pack(fill=tk.X, padx=10, pady=20)
         
-        ttk.Button(action_frame, text="🔧 应用到Prefab", style="Accent.TButton",
+        ttk.Button(action_frame, text="🔧 应用到Prefab + 导出Entities", style="Accent.TButton",
                   command=self.start_patch_thread).pack(side=tk.RIGHT, padx=5)
 
     def setup_addkey_tab(self, parent):
@@ -1089,11 +1091,21 @@ class PrefabTextExtractor:
             
             self.update_progress(0, len(rows))
             
+            skipped_count = 0  # prefab already has key
+            
             for i, row in enumerate(rows):
                 original_text = (row.get("Original Text") or "").strip()
                 
                 if not original_text:
                     row["KeySource"] = ""
+                    continue
+                
+                existing_key_from_prefab = (row.get("KeyId") or "").strip()
+                if existing_key_from_prefab:
+                    row["KeySource"] = "prefab已有"
+                    used_keys.add(existing_key_from_prefab)
+                    skipped_count += 1
+                    self.log(f"  [skip] prefab已有Key: {existing_key_from_prefab}")
                     continue
                 
                 # 获取英文内容（用于查找已有Key）
@@ -1151,9 +1163,10 @@ class PrefabTextExtractor:
             
             self.log("-" * 40)
             self.log(f"处理完成:")
+            self.log(f"  [skip] prefab已有Key: {skipped_count} 个")
             self.log(f"  ♻️ 复用已有Key: {reused_count} 个")
             self.log(f"  ✨ 新增Key: {new_count} 个")
-            self.log(f"  📊 共处理: {reused_count + new_count} 个text")
+            self.log(f"  📊 共处理: {skipped_count + reused_count + new_count} 个text")
             
             # 导出更新后的CSV
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -1193,7 +1206,7 @@ class PrefabTextExtractor:
             self.update_progress(0)
             self.update_status("就绪")
             
-            msg = f"加KEY处理完成!\n\n新增Key: {new_count} 个\n复用已有Key: {reused_count} 个\n\n"
+            msg = f"加KEY处理完成!\n\nprefab已有Key: {skipped_count} 个\n新增Key: {new_count} 个\n复用已有Key: {reused_count} 个\n\n"
             msg += f"更新后的CSV:\n{updated_file}\n\n"
             if entities_file:
                 msg += f"新增Key表:\n{entities_file}"
@@ -1626,6 +1639,9 @@ class PrefabTextExtractor:
                                 
                                 if not text_val:
                                     continue
+                                
+                                if re.match(r'^[\d\s.,\-+%/:\\]+$', text_val):
+                                    continue
 
                                 # Find GameObject
                                 go_match = re.search(r'm_GameObject: {fileID: (\d+)}', raw_content)
@@ -1805,11 +1821,73 @@ class PrefabTextExtractor:
             self.update_progress(processed)
             self.update_status(f"处理中... {processed}/{len(files_to_process)} ({progress_pct}%)")
 
+        # --- Entities export: create versioned daydream-entities csv ---
+        entities_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "EntitiesExport")
+        new_entity_rows = []
+
+        new_key_source_rows = [r for r in rows if (r.get("KeySource") or "").strip() == "\u65b0\u589e"]
+
+        if new_key_source_rows:
+            now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            for r in new_key_source_rows:
+                key_id = (r.get("KeyId") or "").strip()
+                if not key_id:
+                    continue
+                original_text = (r.get("Original Text") or "").strip()
+                has_chinese = bool(re.search(r'[\u4e00-\u9fff]', original_text))
+                english_val = "" if has_chinese else original_text
+                chinese_val = original_text if has_chinese else ""
+                new_entity_rows.append({
+                    "Key": key_id,
+                    "Content": english_val,
+                    "Content(English)_update_time": now_str if english_val else "",
+                    "Word Count": len(original_text),
+                    "Context": (r.get("Prefab Path") or "").strip(),
+                    "Original": chinese_val,
+                    "Original(Chinese Simplified)_update_time": now_str if chinese_val else "",
+                })
+
+        entities_exported = 0
+        entities_file_path = ""
+        if new_entity_rows:
+            try:
+                if not os.path.exists(entities_dir):
+                    os.makedirs(entities_dir)
+                timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                entities_filename = f"daydream-entities_{timestamp}.csv"
+                entities_file_path = os.path.join(entities_dir, entities_filename)
+                fieldnames = ["Key", "Content", "Content(English)_update_time",
+                              "Word Count", "Context", "Original",
+                              "Original(Chinese Simplified)_update_time"]
+                with open(entities_file_path, 'w', newline='', encoding='utf-8-sig') as ef:
+                    writer = csv.DictWriter(ef, fieldnames=fieldnames)
+                    writer.writeheader()
+                    writer.writerows(new_entity_rows)
+                entities_exported = len(new_entity_rows)
+                self.log(f"  entities: {entities_exported} new keys exported")
+                self.log(f"  entities file: {entities_file_path}")
+            except Exception as e:
+                self.log(f"  entities export fail: {e}")
+
         self.log("=" * 40)
-        self.log("✅ 处理完成!")
+        self.log("processing done!")
+        if entities_exported > 0:
+            self.log(f"  entities exported: {entities_exported} keys")
+            self.log(f"  entities path: EntitiesExport/{os.path.basename(entities_file_path)}")
+        else:
+            self.log(f"  entities: no new keys to export")
         self.update_progress(0)
-        self.update_status("就绪")
-        self.root.after(0, lambda: messagebox.showinfo("完成", "Prefab处理完成!"))
+        self.update_status("\u5c31\u7eea")
+
+        summary = f"Prefab\u5904\u7406\u5b8c\u6210!\n\n"
+        summary += f"\u5904\u7406\u6587\u4ef6: {len(files_to_process)} \u4e2a\n"
+        if entities_exported > 0:
+            summary += f"\n\u65b0\u589eEntities\u5bfc\u51fa: {entities_exported} \u4e2aKey\n"
+            summary += f"\u5bfc\u51fa\u6587\u4ef6: {os.path.basename(entities_file_path)}\n"
+            summary += f"\u5bfc\u51fa\u8def\u5f84: {entities_dir}"
+        else:
+            summary += f"\n\u65e0\u65b0\u589eKey\u9700\u8981\u5bfc\u51fa"
+        self.root.after(0, lambda: messagebox.showinfo("\u5b8c\u6210", summary))
 
     def patch_prefab(self, file_path, items, loc_guid):
         self.log(f"--- 处理 {os.path.basename(file_path)} ---")
