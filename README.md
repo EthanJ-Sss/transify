@@ -5,6 +5,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)
 ![Unity](https://img.shields.io/badge/Unity-Compatible-orange.svg)
+![GitHub stars](https://img.shields.io/github/stars/EthanJ-Sss/transify?style=social)
+
+⭐ 当前 Star：1（已接入动态徽章，后续会自动更新）
 
 ## ✨ 功能特性
 
@@ -146,6 +149,11 @@ transify/
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
+
+### Contributors
+
+- [@EthanJ-Sss](https://github.com/EthanJ-Sss)（3 contributions）
+- [@altairshi-GD](https://github.com/altairshi-GD)（1 contribution）
 
 ## 📄 License
 
